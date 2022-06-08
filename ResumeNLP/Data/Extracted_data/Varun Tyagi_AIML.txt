@@ -1,0 +1,78 @@
+Varun Tyagi
+varun.tyagi32@gmail.com
+linkedin
+Mob: 9811929428
+EDUCATION
+IIT(ISM) Dhanbad
+M.Tech in ECE
+Grad. May 2018
+Cum. GPA: 8.25
+UPTU
+B.Tech in ECE
+Grad. May 2015
+Cum. GPA: 8.0
+SKILLS
+Comfortable:
+•C •Python •Git •Pandas •Numpy
+•SkLearn •Folium •MySQL •NLP
+•Pyspark •Deep learning
+•ElasticSearch •AWS Lambda
+•Tensorﬂow •OpenCV •Mongodb
+•PowerBI
+COURSEWORK
+• Data Structure
+• Algorithms
+• Python for Data Science and AI
+• Machine Learning and Deep
+Learning
+• Django
+SCHOLASTIC
+ACHIEVEMENTS
+•Selected for Cricket Team UNDER
+19 At SCHOOL LEVEL
+•RunnerUp in TugOfWar At
+National Level Event
+•Winner in 2000m RACE At School
+Level
+EXPERIENCE
+ECOM EXPRESS PVT LTD.
+Associate Data Scientist
+Jan 2020 – present
+Gurgaon
+• Worked on Address NER Problem.
+• Worked on Load Prediction Problem.
+• Worked on Last Mile Delivery(Routing Project).
+• Worked on Geo-coder Project(converted the user address text
+into geographical location).
+• Worked on Weight Prediction Problem.
+• Worked on Data Ingestion Through SQOOP into HDFS and
+convert sql query into PySpark.
+• Provided Key Insights to redesign existing network at DC Level.
+This included making visualization API with Folium.
+• Worked on Red Zone classiﬁer project during Covid-19 time
+for delivery purpose.
+• Created Rest API’s in Django for Own project and Deployed
+on AWS Lambda.
+FUTECH INTERNET PRIVATE LIMITED(Z1 MEDIA)
+Data Scientist
+2 Months
+Gurgaon
+• Worked on Time series data analysis problems..
+• Worked on, how to extract key insights from time series
+dataset.(Ex: Revenue dataset etc)
+• Design and Developed ETL for Server to Google cloud
+Transformation and vice-versa
+CHARPIXEL TECHNOLOGIES
+Software Engineer
+1 Year
+Nodia
+• Design and Developed the tool to Integrate data from multiple
+sources like SQL database, Excel ﬁled, CSV ﬁled to Create a
+consolidated Model for analysing and creating reports.
+• Created Django projects for different use cases.
+• Worked on Creating Dashboard over Power BI platform.
+PROJECTS
+DEVELOPMENT OF ZnO(zinc oxide) OVER Si By RF SPUTTERING
+This project is related to the fabrication of solar cell. In which i am
+using a zinc oxide (ZnO) as an N-type material instead of silicon
+N-type over a Silicon p-type material.

@@ -1,0 +1,98 @@
+Navnath Harihar
+Data Scientist
+harihar.navanath17@gmail.com
++91-9595434332
+Profile Summary
+5 years of experience in Data  Science  with  the  ability  to  work  on  large  size data and Machine  learning
+algorithm development to solve real-world  business problems Highly adept at machine learning technique 
+clustering and classification,statistical modelling,NLP, Applications,Text Extraction,Chat bot development, text 
+analysis, Big data and data visualization to increase business efficiency.
+Key Skills
+Machine learning - Regression, classification, clustering algorithm ,Neural networks, LSTM, RNN, 
+Transformer, BERT model, Statistical modelling technique
+NLP - Text classification, NER, Text generation, Language detection, custom chatbot development, Auto ML -
+TPOT, Auto Keras, Auto SK learn.
+Chatbot framework-Google Dialogflow, RASA, Custom Chatbots,Wit.ai
+Cloud- AWS sagemaker,S3,EC2,GCP
+Python -SciKit-learn, Pandas, NumPy, NLTKCore NLP, gensim, Spacy, Tensorflow, Pytorch, Flask
+Big Data- HDFS,Hive PIg,Spark SQL,Cloudera distribution,SQL
+Education
+01/2017
+Pune, India
+06/2015
+India
+Post Graduate Diploma in Big Data Analytics, Seed Infotech
+Successfully completed with Grade-A
+Bachelor of Engineering in E &TC, 
+Sinhgad Institute of Technology, University of Pune
+Successfully completed with 63.7%
+Professional Experience
+01/2021 – present
+Data Scientist, Acquire.io
+Extract data from knowledge base and chat history for data process by NLP 
+libraries  and provide to annotation team
+Build intent classification and NER model for chatbot builder .benchmarking of 
+moel on standard datasets.build API for backend connection
+Build FAQ suggestions and generation  for agent as per client requirement,build 
+API for application and deploy on R5 instance
+Build article suggestions from client knowledge base article
+Build language detection model to detect chat utterance and make EDA report for 
+sales and analytics team
+Build MVP for product features and present to product manager and team to 
+implement new feature for product
+11/2020 – 01/2021
+Machine Learning Engineer, Youcreate Technologies,Pune
+Worked on chatbot framework using an open-source tool like RASA stack. 
+Implemented Natrual Language Processing in chatbot development for vauoirs 
+business case
+Developed AI framework for employers for recruitment and hiring candidate with 
+96% accuracy. Screening,Parsing,Ranking and analysis of  of resume to get the 
+best matching resumes . Developed it using various information  extraction and 
+NLP libraries
+Scrapped data from sources and store on AWS  S3 buket ,process data in various 
+Python, NLP libraries and use different Machine learning modeling for required 
+project
+10/2017 – 11/2018
+Associate Software Engineer, Youcreate Technologies,Pune
+Completed Robust EKYC Documents Information extraction and validation system 
+using Opencv  and texrract
+Delivered chat-bots in  technology ‘Dialogflow’ on Google Cloud Platform (GCP). 
+Using customize NLP pipeline and Deep learning (TensorFlow) for  the client to 
+streamline their customer relationship management (CRM).
+Worked with Data Scientist and Team Member on a variety of problems in 
+search/information retrieval, Natural Language Processing, data enrichment, text 
+mining, and machine learning algorithm implementation.
+Worked to end-to-end software delivery project with hands-on experience in Text 
+analysis ,design and implementation of complex,custom-built applications.
+ Anaysed large number of online review using  Natural Language Processing for 
+review summarization,sentiment analysis and product feedback
+01/2017 – 09/2017
+Data Science Intern, Youcreate Technologies,Pune
+Collected Data using a tool like e tracker and analysed in apache Hadoop for data-
+insights, marketing stratergies, drive revenue, identify product opportunities
+Gained a solid understanding of machine learning and data mining concepts with 
+supervised and unsupervised learning methods such as Regression, Decision 
+Tree, PCA, Clustering, etc
+Learned to design lean proofs of concepts (POC) to answer targeted business 
+questions. Explored and worked with a wide range of proprietary, interesting data 
+stores performed ETL & learned to apply existing algorithms
+Developed predictive modeling, statistics, data mining and other data analysis 
+techniques to collect, explore and extract insights from data
+Personal Information
+ 
+ 
+             : Navanath Bharat Harihar 
+Name 
+Nationality                      :  Indian
+Marital Status 
+      : Single
+Address 
+       : Pune
+Passport 
+ 
+                        :T0318506
+ 
+ 
+Declaration
+I hereby declare that the above information is correct to the best of my knowledge
+Pune
