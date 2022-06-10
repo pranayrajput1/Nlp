@@ -1,0 +1,42 @@
+{
+    "name": "Name of the Candidate",
+    "email": "asanjay3110@gmail.com",
+    "mobile_number": "9960100276",
+    "skills": [
+        "Compliance",
+        "Green",
+        "Ubuntu",
+        "Email",
+        "Unix",
+        "Coding",
+        "Debugging",
+        "C",
+        "Regulations",
+        "Mysql",
+        "Mobile",
+        "Technical",
+        "Oracle",
+        "Reports",
+        "C++",
+        "Engineering",
+        "Pr",
+        "Architecture",
+        "Java",
+        "Linux",
+        "Ibm",
+        "Lifecycle",
+        "Access",
+        "Visual",
+        "Design",
+        "Windows"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [],
+    "company_names": [
+        "Company Intelizign Engineering Services SANJAY SHARMA Mobile: 9960100276"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

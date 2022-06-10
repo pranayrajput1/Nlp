@@ -1,0 +1,53 @@
+{
+    "name": "Pooja Chorge",
+    "email": "chorgepoojav29@gmail.com",
+    "mobile_number": "9822473342",
+    "skills": [
+        "Aws",
+        "Ubuntu",
+        "Email",
+        "Facebook",
+        "Operations",
+        "C",
+        "Sql",
+        "Staffing",
+        "Python",
+        "Twitter",
+        "Training",
+        "Installation",
+        "Mining",
+        "Shell",
+        "English",
+        "Cloud",
+        "Parser",
+        "Healthcare",
+        "Research",
+        "C++",
+        "Process",
+        "Api",
+        "Engineering",
+        "System",
+        "Flask",
+        "Java",
+        "Json",
+        "Pharmacy",
+        "Scala",
+        "Windows"
+    ],
+    "college_name": null,
+    "degree": [
+        "Diploma in Computer Technology",
+        "BE"
+    ],
+    "designation": [
+        "Software Engineer",
+        "Assistant Module"
+    ],
+    "experience": [],
+    "company_names": [
+        "Microsoft",
+        "Xoriant Solution Pvt. Ltd."
+    ],
+    "no_of_pages": 4,
+    "total_experience": 0.0
+}

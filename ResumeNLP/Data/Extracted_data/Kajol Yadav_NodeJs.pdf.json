@@ -1,0 +1,58 @@
+{
+    "name": "KAJOL YADAV",
+    "email": "kajolyadav1996@gmail.com",
+    "mobile_number": "9545081748",
+    "skills": [
+        "Javascript",
+        "Aws",
+        ".net",
+        "Html",
+        "Automation",
+        "C",
+        "Sql",
+        "Nosql",
+        "Python",
+        "Mysql",
+        "Cloud",
+        "Queries",
+        "Js",
+        "Mobile",
+        "Postgresql",
+        "Apis",
+        "Procurement",
+        "C++",
+        "Api",
+        "Architecture",
+        "Sap",
+        "System",
+        "Docker",
+        "Java",
+        "Computer applications",
+        "Php",
+        "Android"
+    ],
+    "college_name": null,
+    "degree": [
+        "MCA Masters in Computer Applications",
+        "BCA Bachelors in Computer Applications"
+    ],
+    "designation": [
+        "Software Engineer",
+        "Associate Software Engineer"
+    ],
+    "experience": [
+        "Empower Integrated Solutions",
+        "Associate Software Engineer",
+        "Pune ,  India",
+        "|July 2018 - March 2021",
+        "AIT GLOBAL INDIA",
+        "Node JS Developer",
+        "Pune ,  India",
+        "| March 2021 - present"
+    ],
+    "company_names": [
+        "Empower Integrated Solutions"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 3.92
+}

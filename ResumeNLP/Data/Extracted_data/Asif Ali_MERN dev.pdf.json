@@ -1,0 +1,28 @@
+{
+    "name": "Asif Ali",
+    "email": "aliasifali231@gmail.com",
+    "mobile_number": "6554101",
+    "skills": [
+        "Javascript",
+        "Training",
+        "Grab",
+        "Design",
+        "Html",
+        "Css",
+        "Engineering",
+        "Java",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "\u25cf Campus ambassador in IIT-Delhi",
+        "\u25cf Lead the kho-kho team in K.V Chitranjan",
+        "\u25cf Had java training with NASSCOM",
+        "\u25cf LeetCode - https://leetcode.com/aliasifali231/"
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

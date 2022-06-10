@@ -1,0 +1,49 @@
+{
+    "name": "Payal Aade",
+    "email": "payalaade95@gmail.com",
+    "mobile_number": "7498341216",
+    "skills": [
+        "Advertising",
+        "Html",
+        "Email",
+        "Css",
+        "Start-up",
+        "C",
+        "Training",
+        "Website",
+        "Programming",
+        "English",
+        "Mysql",
+        "Ui",
+        "Js",
+        "Database",
+        "C++",
+        "Api",
+        "Engineering",
+        "System",
+        "Java",
+        "Linux",
+        "Hotel",
+        "Php",
+        "Design"
+    ],
+    "college_name": null,
+    "degree": [
+        "Diploma in Information Technology",
+        "Bachelor of Engineering / Information Technology"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "Software Engineer",
+        "Oct 2018\u2013  Nov 2019",
+        "CitiScreen  (Digimoxe Technologies Private Limited)",
+        "Nagpur, Maharashtra",
+        "CitiScreen.com is a Digital outdoor advertising platform and its website serves the purpose of lead generation",
+        "through submit form and enquiry form. I have used angular js 5  and MySQL as a database."
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 1.08
+}

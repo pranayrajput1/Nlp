@@ -1,0 +1,51 @@
+{
+    "name": "Ekta Gupta",
+    "email": "1616.ekta.gupta@gmail.com",
+    "mobile_number": "9650432969",
+    "skills": [
+        "Javascript",
+        "Computer science",
+        "Rest",
+        "Sdlc",
+        "Health",
+        "Sql",
+        "Pattern",
+        "Customer requirements",
+        "Scheduling",
+        "Pl/sql",
+        "Oracle",
+        "Jsp",
+        "Servers",
+        "Apis",
+        "Database",
+        "Process",
+        "Agile",
+        "System",
+        "Java",
+        "Design"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech in Computer Science"
+    ],
+    "designation": [
+        "Software Engineer",
+        "SENIOR SOFTWARE ENGINEER",
+        "Senior Software Engineer"
+    ],
+    "experience": [
+        "Senior Software Engineer",
+        "NEWGEN SOFTWARE TECHNOLOGIES LTD.",
+        "Software Engineer",
+        "NEWGEN SOFTWARE TECHNOLOGIES LTD.",
+        "Noida, UP",
+        "July 2019 - Present",
+        "Noida, UP",
+        "July 2017 - June 2019"
+    ],
+    "company_names": [
+        "NEWGEN SOFTWARE TECHNOLOGIES LTD."
+    ],
+    "no_of_pages": 1,
+    "total_experience": 4.83
+}

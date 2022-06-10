@@ -1,0 +1,28 @@
+{
+    "name": "MANISH KUMAR",
+    "email": "manishkranga@gmail.com",
+    "mobile_number": "9909954326",
+    "skills": [
+        "Information technology",
+        "Automation",
+        "Email",
+        "Testing",
+        "Rest",
+        "Analysis",
+        "Mysql",
+        "Java",
+        "Consulting",
+        "Oracle",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer",
+        "Product Engineer"
+    ],
+    "experience": null,
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0
+}

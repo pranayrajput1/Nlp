@@ -1,0 +1,54 @@
+{
+    "name": "Ankita Handa",
+    "email": "ankita.handa.0407@gmail.com",
+    "mobile_number": "8146556564",
+    "skills": [
+        "Javascript",
+        "Computer science",
+        "Automation",
+        "Html",
+        "Css",
+        "Billing",
+        "Training",
+        "Crm",
+        "Migration",
+        "Mysql",
+        "Ui",
+        "Audit",
+        "Technical",
+        "Jsp",
+        "Apis",
+        "Networking",
+        "Api",
+        "Engineering",
+        "System",
+        "Docker",
+        "Java",
+        "Finance",
+        "Testing",
+        "Lifecycle",
+        "Json"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Senior Software Engineer",
+        "Developer"
+    ],
+    "experience": [
+        "Boot",
+        "Databases:",
+        "MongoDB, MySQL",
+        "Build and",
+        "Deployment Tools:",
+        "GitLab, Docker",
+        "Version Control:",
+        "Git, Bitbucket"
+    ],
+    "company_names": [
+        "JUPITER SERVICE MONITORING SYSTEM",
+        "HUGHES SYSTIQUE PVT. LTD."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

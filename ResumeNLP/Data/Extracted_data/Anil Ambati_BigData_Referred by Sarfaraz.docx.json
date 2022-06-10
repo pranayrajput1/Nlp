@@ -1,0 +1,45 @@
+{
+    "name": "Anil Ambati",
+    "email": "E-mail:aakr739753@gmail.com",
+    "mobile_number": "9052191053",
+    "skills": [
+        "Hive",
+        "Unix",
+        "Hadoop",
+        "Operating systems",
+        "Pyspark",
+        "Nosql",
+        "Python",
+        "Shell",
+        "Mysql",
+        "Queries",
+        "Oracle",
+        "Analyze",
+        "Spark",
+        "Analytics",
+        "Process",
+        "Agile",
+        "Api",
+        "Scripting",
+        "Db2",
+        "Java",
+        "Jira",
+        "Linux",
+        "Writing",
+        "Etl",
+        "Warehouse",
+        "Scala",
+        "Windows"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Developer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

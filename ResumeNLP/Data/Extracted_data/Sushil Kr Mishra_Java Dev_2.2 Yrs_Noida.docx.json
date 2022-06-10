@@ -1,0 +1,37 @@
+{
+    "name": "Sushil Kumar",
+    "email": "sm164792@gmail.com",
+    "mobile_number": "8448950278",
+    "skills": [
+        "Javascript",
+        "Presentation",
+        "Email",
+        "Css",
+        "Sql",
+        "Html5",
+        "Training",
+        "Programming",
+        "Mysql",
+        "Js",
+        "Mobile",
+        "Jsp",
+        "Api",
+        "System",
+        "Os",
+        "Architecture",
+        "Java",
+        "Design",
+        "Windows"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Java Developer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Armantec System Pvt Limited"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

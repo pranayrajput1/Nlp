@@ -1,0 +1,39 @@
+{
+    "name": "New Delhi",
+    "email": "anubhava.ranjan03@gmail.com",
+    "mobile_number": "7042292056",
+    "skills": [
+        "Javascript",
+        "Procurement",
+        "Database",
+        "Html",
+        "Css",
+        "Process",
+        "Json",
+        "Cms",
+        "System",
+        "Expenses",
+        "Java",
+        "Design",
+        "Oracle",
+        "Jsp"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "April 2018 - Till now",
+        "Silver Touch Technologies Ltd.",
+        "Senior Programmer",
+        "Designated as Senior Progrmmaer and get exposure to develop various applications"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

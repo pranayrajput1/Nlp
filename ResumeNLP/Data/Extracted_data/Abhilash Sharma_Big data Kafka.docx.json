@@ -1,0 +1,35 @@
+{
+    "name": "Abhilash Sharma",
+    "email": "abhilash97sharma@gmail.com",
+    "mobile_number": "9826225998",
+    "skills": [
+        "Tableau",
+        "Pycharm",
+        "Coding",
+        "Sql",
+        "Python",
+        "Hbase",
+        "Sqlalchemy",
+        "Mysql",
+        "Js",
+        "Technical",
+        "Jsp",
+        "Spark",
+        "Reports",
+        "Database",
+        "Api",
+        "System",
+        "Flask",
+        "Java",
+        "Algorithms"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Qualification"
+    ],
+    "experience": null,
+    "company_names": null,
+    "no_of_pages": null,
+    "total_experience": 0
+}
