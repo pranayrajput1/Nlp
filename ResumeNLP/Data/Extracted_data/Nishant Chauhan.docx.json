@@ -3,31 +3,31 @@
     "email": "n.nishant93@gmail.com",
     "mobile_number": "9996737557",
     "skills": [
-        "Apis",
         "Hive",
-        "Automation",
-        "Database",
-        "Migration",
-        "Testing",
         "Agile",
+        "Mysql",
+        "Apis",
+        "Testing",
+        "Database",
+        "Java",
+        "Automation",
+        "Adobe",
+        "Migration",
+        "Db2",
         "Salesforce",
         "Ui",
-        "Db2",
-        "Mysql",
-        "System",
-        "Java",
         "Technical",
-        "Adobe"
+        "System"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
         "Technical Analyst"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Infosys Limited"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

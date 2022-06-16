@@ -3,28 +3,28 @@
     "email": "sanchit10gawde@gmail.com",
     "mobile_number": "9029187708",
     "skills": [
-        "Hive",
         "Tableau",
-        "Hadoop",
-        "Health",
-        "Consulting",
-        "Communication",
+        "Mysql",
+        "Reporting",
+        "Data management",
+        "Engineering",
+        "Analytics",
         "Hbase",
         "Migration",
-        "Redhat",
-        "Mysql",
-        "Cloud",
-        "Reporting",
-        "Certification",
-        "Spark",
-        "Data management",
-        "Analytics",
-        "Agile",
-        "Engineering",
         "Db2",
+        "Spark",
+        "Hadoop",
+        "Redhat",
+        "Health",
+        "Cloud",
         "Sap",
+        "Certification",
+        "Hive",
+        "Agile",
         "Governance",
-        "Metrics"
+        "Communication",
+        "Metrics",
+        "Consulting"
     ],
     "college_name": null,
     "degree": [
@@ -32,8 +32,8 @@
         "B.SC. \u2013 INFORMATION TECHNOLOGY"
     ],
     "designation": [
-        "Data Engineer",
-        "Associate Data Engineer                                                                                     "
+        "Associate Data Engineer                                                                                     ",
+        "Data Engineer"
     ],
     "experience": [
         "INFOSYS PVT. LTD.",
@@ -58,8 +58,8 @@
         "\u2022  Created POC models for Kafka based integration of SAP ecosystems into Azure data lake for a client."
     ],
     "company_names": [
-        "INFOSYS PVT. LTD.",
-        "Infosys Ltd."
+        "Infosys Ltd.",
+        "INFOSYS PVT. LTD."
     ],
     "no_of_pages": 2,
     "total_experience": 1.0

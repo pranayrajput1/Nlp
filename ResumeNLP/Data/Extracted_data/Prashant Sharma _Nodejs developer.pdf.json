@@ -3,13 +3,13 @@
     "email": "viratlahadra@gmail.com",
     "mobile_number": "8859824157",
     "skills": [
-        "Javascript",
         "Programming",
+        "Javascript",
+        "Servers",
         "Api",
         "English",
         "Architecture",
-        "System",
-        "Servers"
+        "System"
     ],
     "college_name": null,
     "degree": [

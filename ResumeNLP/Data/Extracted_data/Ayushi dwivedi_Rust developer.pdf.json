@@ -3,20 +3,20 @@
     "email": "ayushidwivedi7296@gmail.co",
     "mobile_number": "0739870507",
     "skills": [
-        "Python",
-        "Communication",
-        "Apis",
-        "Training",
-        "Ubuntu",
-        "Html",
-        "Css",
-        "Database",
         "Postgresql",
-        "Mysql",
-        "Ansible",
-        "Java",
         "Django",
+        "Mysql",
+        "Apis",
+        "Python",
+        "Database",
+        "Java",
+        "Html",
+        "Training",
+        "Communication",
         "Linux",
+        "Css",
+        "Ansible",
+        "Ubuntu",
         "Servers"
     ],
     "college_name": null,
@@ -33,8 +33,8 @@
         "01/2020 - Present,"
     ],
     "company_names": [
-        "Tutree India Technologies (Pvt) Ltd",
-        "Tutree India Technologies Pvt. Ltd."
+        "Tutree India Technologies Pvt. Ltd.",
+        "Tutree India Technologies (Pvt) Ltd"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

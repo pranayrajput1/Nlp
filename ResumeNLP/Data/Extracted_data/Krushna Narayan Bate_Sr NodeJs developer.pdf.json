@@ -4,45 +4,45 @@
     "mobile_number": "9096825221",
     "skills": [
         "Javascript",
-        "Account management",
-        "Aws",
+        "Mysql",
+        "Apis",
+        "Api",
+        "English",
+        "Inventory",
         "Accounting",
         "Ubuntu",
+        "Content",
+        "Account management",
+        "Research",
+        "Engineering",
+        "Php",
         "Html",
-        "Css",
-        "Rest",
-        "Website",
-        "Crm",
-        "Shell",
-        "English",
-        "Cloud",
-        "Mysql",
-        "Queries",
-        "Js",
+        "Docker",
         "Mobile",
         "Information technology",
-        "Apis",
-        "Reports",
-        "Research",
-        "Inventory",
-        "Api",
-        "Engineering",
-        "Docker",
+        "Css",
+        "Windows",
+        "Crm",
         "Tax",
-        "Linux",
-        "Content",
         "Access",
-        "Php",
-        "Windows"
+        "Website",
+        "Cloud",
+        "Rest",
+        "Queries",
+        "Shell",
+        "Js",
+        "Linux",
+        "Reports",
+        "Aws"
     ],
     "college_name": null,
     "degree": [
-        "Diploma in Information technology",
-        "Bachelor of Engineering in information technology"
+        "Bachelor of Engineering in information technology",
+        "Diploma in Information technology"
     ],
     "designation": [
-        "Backend Developer",
-        "Web Developer Developer"
+        "Web Developer Developer",
+        "Backend Developer"
     ],
     "experience": [
         "Backend Developer",
@@ -68,8 +68,8 @@
         "Project Handled:"
     ],
     "company_names": [
-        "Sanghvi Technologies Pvt Ltd",
-        "Futurescape Technology Pvt. Limited"
+        "Futurescape Technology Pvt. Limited",
+        "Sanghvi Technologies Pvt Ltd"
     ],
     "no_of_pages": 2,
     "total_experience": 5.5

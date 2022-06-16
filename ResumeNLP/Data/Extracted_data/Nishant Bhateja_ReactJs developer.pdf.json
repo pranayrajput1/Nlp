@@ -3,25 +3,25 @@
     "email": "nishant.bhateja1994@gmail.com",
     "mobile_number": "9899586450",
     "skills": [
-        "Hotel",
+        "Technical",
+        "Programming",
         "Javascript",
-        "Design",
-        "Workflows",
-        "Debugging",
         "Writing",
+        "Debugging",
+        "Workflows",
+        "Hotel",
         "Computer science",
         "Html",
-        "Programming",
-        "Architecture",
-        "Ui",
-        "Coding",
         "Computer applications",
-        "Technical"
+        "Ui",
+        "Architecture",
+        "Coding",
+        "Design"
     ],
     "college_name": null,
     "degree": [
-        "Master of Computer Applications: Computer \nScience and Programming \nBVICAM - Paschim Vihar,110063",
-        "Bachelor of Computer Applications: Computer \nScience and Programming"
+        "Bachelor of Computer Applications: Computer \nScience and Programming",
+        "Master of Computer Applications: Computer \nScience and Programming \nBVICAM - Paschim Vihar,110063"
     ],
     "designation": [
         "UI Developer"

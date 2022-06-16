@@ -1,0 +1,42 @@
+{
+    "name": "Neha Patel",
+    "email": "patelneha25071992@gmail.com",
+    "mobile_number": "2507199",
+    "skills": [
+        "Process",
+        "Agile",
+        "Project management",
+        "Budget",
+        "Coaching",
+        "Testing",
+        "Scrum",
+        "Jira",
+        "Improvement",
+        "Inventory",
+        "Communication",
+        "Telecom",
+        "Negotiation"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.tech in Information Technology"
+    ],
+    "designation": null,
+    "experience": [
+        "Highly skilled in facilitating all aspects of Scrum framework, including sprint",
+        "planning sessions, backlog grooming sessions, daily scrums, sprint reviews",
+        "and sprint retrospectives.",
+        "Identifying & helping removal of impediments to the success of the Sprint; identifying &",
+        "communicating potential risks to the completion of the Sprints, including resources, costs,",
+        "and systems; recommending appropriate solutions.",
+        "Role-Software Developer; Client-Vodafone-Germany",
+        "Amdocs - November 2016 to June 2018",
+        "Worked on CRAMER, a inventory management tool widely used in Telecom domain to",
+        "provide various solutions and enhancements to our client.",
+        "Role-Project Engineer; Client-VF-UK",
+        "WIPRO Ltd. - August 2014 to October 2016"
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 3.75
+}

@@ -3,27 +3,27 @@
     "email": "tiwarinitin705@gmail.com",
     "mobile_number": "9997439317",
     "skills": [
-        "Jsp",
-        "Communication",
-        "Javascript",
-        "Reports",
-        "Html",
-        "Css",
-        "English",
-        "Mysql",
-        "Java",
-        "Mobile",
-        "Technical",
         "International",
-        "Windows"
+        "Javascript",
+        "Mysql",
+        "Reports",
+        "Jsp",
+        "English",
+        "Java",
+        "Html",
+        "Communication",
+        "Css",
+        "Windows",
+        "Mobile",
+        "Technical"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
         "Java Developer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": null,
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

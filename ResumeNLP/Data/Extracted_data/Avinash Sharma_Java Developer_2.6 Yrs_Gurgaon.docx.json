@@ -4,36 +4,36 @@
     "mobile_number": "7017602954",
     "skills": [
         "Javascript",
-        "Email",
-        "Rest",
-        "Sql",
-        "Programming",
-        "English",
         "Mysql",
-        "Sql server",
-        "Js",
-        "Ui",
-        "Technical",
-        "Jsp",
-        "Transport",
-        "Database",
-        "Analytics",
         "Api",
+        "English",
         "Java",
+        "Sql server",
+        "Jsp",
+        "Analytics",
+        "Windows",
+        "Transport",
+        "Programming",
+        "Database",
+        "Rest",
+        "Email",
+        "Sql",
+        "Js",
         "Linux",
-        "Windows"
+        "Ui",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
-        "Master of Computer Applications(MCA) from GLA University",
-        "2018. Bachelor in Computer Application(BCA)"
+        "2018. Bachelor in Computer Application(BCA)",
+        "Master of Computer Applications(MCA) from GLA University"
     ],
     "designation": [
         "SUMMARY",
         "Associate Consultant"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": null,
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

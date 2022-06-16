@@ -3,23 +3,23 @@
     "email": "manishkranga@gmail.com",
     "mobile_number": "9909954326",
     "skills": [
-        "Information technology",
-        "Automation",
-        "Email",
-        "Testing",
-        "Rest",
-        "Analysis",
         "Mysql",
-        "Java",
-        "Consulting",
+        "Servers",
         "Oracle",
-        "Servers"
+        "Testing",
+        "Java",
+        "Automation",
+        "Information technology",
+        "Rest",
+        "Email",
+        "Analysis",
+        "Consulting"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Software Engineer",
-        "Product Engineer"
+        "Product Engineer",
+        "Software Engineer"
     ],
     "experience": null,
     "company_names": null,

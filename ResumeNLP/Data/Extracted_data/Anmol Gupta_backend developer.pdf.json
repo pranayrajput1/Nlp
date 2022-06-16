@@ -3,37 +3,37 @@
     "email": "anmolgupta23021997@gmail.com",
     "mobile_number": "2302199",
     "skills": [
-        "Aws",
-        "Swift",
-        "Rest",
-        "Sql",
-        "Python",
-        "Programming",
-        "Cloud",
         "Apis",
-        "Spark",
-        "Database",
-        "Agile",
+        "Python",
         "Api",
-        "Engineering",
-        "System",
-        "Github",
-        "Docker",
-        "Java",
         "Jira",
+        "Java",
         "Content",
-        "Testing",
         "Django",
+        "Engineering",
+        "Docker",
+        "Spark",
         "Design",
-        "Scala"
+        "Programming",
+        "Github",
+        "Testing",
+        "Database",
+        "Cloud",
+        "Rest",
+        "System",
+        "Sql",
+        "Agile",
+        "Swift",
+        "Scala",
+        "Aws"
     ],
     "college_name": null,
     "degree": [
         "Bachelor of Technology (EC)"
     ],
     "designation": [
-        "Software Engineer",
-        "Software Developer"
+        "Software Developer",
+        "Software Engineer"
     ],
     "experience": [
         "in GitHub, Jenkins and Jira."

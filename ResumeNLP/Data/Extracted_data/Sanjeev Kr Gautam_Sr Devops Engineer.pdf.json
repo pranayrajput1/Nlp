@@ -3,13 +3,13 @@
     "email": "me.sanjeev3d@gmail.com",
     "mobile_number": "9170049146",
     "skills": [
-        "Certification",
-        "Ubuntu",
-        "Redhat",
-        "Architecture",
         "Github",
+        "Docker",
+        "Redhat",
+        "Certification",
         "Ansible",
-        "Docker"
+        "Ubuntu",
+        "Architecture"
     ],
     "college_name": null,
     "degree": null,

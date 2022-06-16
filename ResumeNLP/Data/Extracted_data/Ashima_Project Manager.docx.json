@@ -3,28 +3,28 @@
     "email": "ashimarai31@gmail.com",
     "mobile_number": "9180549818",
     "skills": [
-        "Communication",
-        "Training",
-        "Coaching",
-        "Scrum",
-        "Metrics",
-        "Agile",
-        "Operations",
-        "Protocols",
-        "Engineering",
-        "Updates",
-        "Coding",
-        "Jira",
         "Technical",
-        "Ibm"
+        "Agile",
+        "Protocols",
+        "Coaching",
+        "Ibm",
+        "Engineering",
+        "Operations",
+        "Scrum",
+        "Jira",
+        "Training",
+        "Communication",
+        "Updates",
+        "Metrics",
+        "Coding"
     ],
     "college_name": null,
     "degree": [
         "Bachelor of Technology (2010-2014)      Stream"
     ],
     "designation": null,
-    "experience": [],
+    "experience": null,
     "company_names": null,
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

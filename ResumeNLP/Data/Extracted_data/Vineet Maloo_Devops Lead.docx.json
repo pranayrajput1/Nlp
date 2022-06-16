@@ -3,35 +3,35 @@
     "email": "vineetmaloo2006@yahoo.co.in",
     "mobile_number": "9804234814",
     "skills": [
-        "Communication",
+        "Process",
+        "Logging",
         "Writing",
-        "Aws",
         "Analytical",
-        "Application support",
+        "Yaml",
+        "Jira",
+        "Docker",
+        "Mobile",
+        "Aws",
         "Automation",
+        "Communication",
+        "Health",
+        "Cloud",
         "Itil",
         "Email",
-        "Process",
-        "Yaml",
-        "Cloud",
-        "System",
-        "Logging",
-        "Health",
-        "Docker",
+        "Application support",
         "Queries",
-        "Mobile",
-        "Jira"
+        "System"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
         "System Engineer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Infosys Ltd.| Bengaluru",
         "Tata Consultancy Services Ltd"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

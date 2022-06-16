@@ -4,22 +4,22 @@
     "mobile_number": "8791700661",
     "skills": [
         "Test cases",
+        "Testing",
+        "English",
+        "Selenium",
+        "Jira",
+        "Java",
+        "Ecommerce",
         "Automation",
         "Database",
-        "Testing",
-        "Jira",
-        "English",
         "Reporting",
-        "Selenium",
-        "Java",
-        "Sql",
-        "Ecommerce",
-        "Analyze"
+        "Analyze",
+        "Sql"
     ],
     "college_name": null,
     "degree": [
-        "BCA",
-        "MCA"
+        "MCA",
+        "BCA"
     ],
     "designation": [
         "QA Engineer"

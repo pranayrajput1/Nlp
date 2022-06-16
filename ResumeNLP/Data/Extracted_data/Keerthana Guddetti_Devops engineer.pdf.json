@@ -1,0 +1,60 @@
+{
+    "name": "Keerthana Guddetti",
+    "email": "g.keerthana097@gmail.com",
+    "mobile_number": "093 0409",
+    "skills": [
+        "Ubuntu",
+        "Content",
+        "Process",
+        "Oracle",
+        "Docker",
+        "Automation",
+        "Ansible",
+        "Windows",
+        "Design",
+        "Access",
+        "Github",
+        "Writing",
+        "Database",
+        "Cloud",
+        "Email",
+        "System",
+        "Sql",
+        "Security",
+        "Linux",
+        "Aws",
+        "Architecture",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology from Bharat University, Chennai in the year of 2019.\n\n\f Professional Experience:\n\nOrganization"
+    ],
+    "designation": [
+        "System Engineer",
+        "Devops Engineer"
+    ],
+    "experience": [
+        "\u25cf Deployed applications to Tomcat Application server and static content to Apache web servers.",
+        "\u25cf Good understanding of security groups and configured different groups to access EC2 Console.",
+        "\u25cf Involved in monitoring of Cloud environments using Cloud Watch and respond to alerts.",
+        "\u25cf Involved in on-boarding applications for release management using Jenkins.",
+        "\u25cf Created Components, Resources, and Applications and group all configurations using Jenkins.",
+        "\u25cf Involved in Process Flow Design for performing release activities using Jenkins.",
+        "\u25cf Involved in to Build Activities using different build tools like Maven",
+        "\u25cf Involved in automating the release process to both production and non-production environments.",
+        "\u25cf Supported setting up of various environments in multi-tier architecture involving load balancers,",
+        "Apache webservers, Oracle database.",
+        "\u25cf Involved in configuring different resources like IAM, EC2, S3,Autoscaling.",
+        "\u25cf Involved in resolving tickets with different SLAs like P1, P2, P3 and P4.",
+        "Declaration:",
+        "I hereby declare that all above mentioned details are true, correct and complete to the best of my knowledge.",
+        "Date:",
+        "Place: Hyderabad"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

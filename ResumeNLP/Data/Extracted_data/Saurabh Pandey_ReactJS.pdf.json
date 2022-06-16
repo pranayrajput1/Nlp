@@ -3,23 +3,23 @@
     "email": "saurabhpandey1324@gmail.co",
     "mobile_number": "8744088748",
     "skills": [
+        "Js",
         "Javascript",
+        "Engineering",
+        "Oracle",
+        "Sql",
+        "English",
+        "Java",
         "Html",
         "Css",
-        "English",
-        "Engineering",
-        "Java",
         "Ui",
-        "Js",
-        "Sql",
-        "Design",
-        "Oracle"
+        "Design"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Software Engineer",
-        "Team Member"
+        "Team Member",
+        "Software Engineer"
     ],
     "experience": [
         "React and Web development.",

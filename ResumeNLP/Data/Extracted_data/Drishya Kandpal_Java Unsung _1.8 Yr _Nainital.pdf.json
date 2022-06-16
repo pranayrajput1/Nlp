@@ -3,11 +3,11 @@
     "email": "drishubias@gmail.com",
     "mobile_number": "9971133539",
     "skills": [
-        "Database",
-        "Scrum",
         "Mysql",
         "Sublime",
-        "Jsp"
+        "Jsp",
+        "Scrum",
+        "Database"
     ],
     "college_name": null,
     "degree": null,

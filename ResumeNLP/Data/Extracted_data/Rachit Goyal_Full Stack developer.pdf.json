@@ -1,0 +1,48 @@
+{
+    "name": "Rachit Goyal",
+    "email": "rachit.1@iitj.ac.in",
+    "mobile_number": "8239224580",
+    "skills": [
+        "Javascript",
+        ".net",
+        "Mysql",
+        "Apis",
+        "Cad",
+        "Java",
+        "Process",
+        "C++",
+        "C",
+        "Automation",
+        "Html",
+        "Css",
+        "Programming",
+        "Testing",
+        "Rest",
+        "System",
+        "Android",
+        "Visual",
+        "Warehouse",
+        "Xml",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech. ME"
+    ],
+    "designation": [
+        "Assistant Manager",
+        "Process Engineer"
+    ],
+    "experience": [
+        "12th June 2018 - Current",
+        "Assistant Manager  \u2022 Process Engineer \u2022 Bharat Seats Limited,",
+        "Gurugram",
+        "April 2017 \u2013 June 2017",
+        "CAD Designer \u2022 Intern \u2022 DRDO, Delhi"
+    ],
+    "company_names": [
+        "Bharat Seats Limited"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.17
+}

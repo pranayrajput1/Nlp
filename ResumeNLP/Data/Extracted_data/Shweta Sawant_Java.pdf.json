@@ -1,0 +1,40 @@
+{
+    "name": "Shweta Sawant",
+    "email": "shwetasawant2794@gmail.com,",
+    "mobile_number": "9981553490",
+    "skills": [
+        "Scrum",
+        "English",
+        "Jira",
+        "Java",
+        "Html5",
+        "Data management",
+        "Banking",
+        "Oracle",
+        "Automation",
+        "Information technology",
+        "Windows",
+        "Analysis",
+        "Testing",
+        "Email",
+        "Queries",
+        "Sql",
+        "Soap",
+        "Debugging",
+        "Ui"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Automation Tester",
+        "Manual tester",
+        "Software Developer"
+    ],
+    "experience": [
+        "Automation Tester (June 2016 -2018):- Worked as an automation using serenity framework in CDD.",
+        "Manual tester (2015- June 2016):- Worked as a manual tester in CDD."
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

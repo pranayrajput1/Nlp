@@ -4,41 +4,41 @@
     "mobile_number": "8095035544",
     "skills": [
         "Javascript",
+        "Mysql",
+        "Ibm",
+        "English",
+        "Java",
+        "Jsp",
+        "Engineering",
+        "Oracle",
         "User stories",
-        "Rest",
         "C",
         "Training",
-        "Communication",
-        "Programming",
-        "English",
-        "Mysql",
-        "Technical",
-        "Oracle",
-        "Jsp",
-        "Certification",
-        "Database",
-        "Engineering",
         "Db2",
-        "System",
-        "Java",
-        "Ibm",
-        "Web services",
+        "Analysis",
+        "Programming",
         "Testing",
-        "Analysis"
+        "Database",
+        "Certification",
+        "Rest",
+        "Web services",
+        "System",
+        "Communication",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
         "B.Tech"
     ],
     "designation": [
-        "Senior Software Engineer",
         "Module Lead",
+        "Senior Software Engineer",
         "Software Engineer Analyst"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Oracle"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

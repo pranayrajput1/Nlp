@@ -3,17 +3,17 @@
     "email": "nitishchopra14@gmail.com",
     "mobile_number": "9990164258",
     "skills": [
-        "Administration",
+        "Postgresql",
         "Research",
-        "Html",
         "Database",
-        "Css",
-        "Migration",
-        "Rest",
         "English",
-        "Architecture",
         "Java",
-        "Postgresql"
+        "Html",
+        "Rest",
+        "Migration",
+        "Css",
+        "Architecture",
+        "Administration"
     ],
     "college_name": null,
     "degree": [

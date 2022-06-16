@@ -3,34 +3,34 @@
     "email": "anils0440@gmail.com",
     "mobile_number": "9999671438",
     "skills": [
-        "Javascript",
-        "Algorithms",
         "Transactions",
+        "Javascript",
+        "Mysql",
+        "Algorithms",
+        "Jsp",
+        "Engineering",
+        "Api",
         "Database",
-        "Email",
+        "Java",
         "Html",
         "Css",
-        "Api",
-        "Engineering",
+        "Email",
         "Scripting",
-        "Mysql",
         "Architecture",
-        "Java",
-        "Design",
-        "Jsp"
+        "Design"
     ],
     "college_name": null,
     "degree": [
         "B.Tech)"
     ],
     "designation": [
-        "Software Developer",
-        "Java Developer"
+        "Java Developer",
+        "Software Developer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Energy Efficiency Services Limited) Technology stack"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

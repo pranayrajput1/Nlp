@@ -3,25 +3,25 @@
     "email": "priyatiwari6591@gmail.com",
     "mobile_number": "9140693977",
     "skills": [
-        "Physics",
-        "Chemistry",
-        "Troubleshooting",
-        "Computer science",
-        "Improvement",
-        "Email",
-        "Database",
         "Programming",
-        "English",
         "Engineering",
+        "Documentation",
+        "Database",
+        "English",
+        "Physics",
         "Java",
-        "Coding",
-        "Documentation"
+        "Improvement",
+        "Computer science",
+        "Troubleshooting",
+        "Chemistry",
+        "Email",
+        "Coding"
     ],
     "college_name": null,
     "degree": null,
     "designation": null,
-    "experience": [],
+    "experience": null,
     "company_names": null,
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

@@ -1,0 +1,46 @@
+{
+    "name": "Pune university",
+    "email": "ganeshpatil070694@gmail.com",
+    "mobile_number": "8668725019",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "English",
+        "Java",
+        "Sales",
+        "Html5",
+        "C++",
+        "Jsp",
+        "Engineering",
+        "C",
+        "Html",
+        "Css",
+        "Design",
+        "Programming",
+        "Writing",
+        "Database",
+        "Technical skills",
+        "Rest",
+        "System",
+        "Sql",
+        "Js",
+        "Reports",
+        "Technical",
+        "Servers",
+        "Consulting"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE"
+    ],
+    "designation": null,
+    "experience": [
+        "5.  Good team member, positive attitude and result oriented Self-motivated, quick learner, willing to adapt to",
+        "new challenges & new technologies (Spring, web service)"
+    ],
+    "company_names": [
+        "KRIOS Info Solutions Pvt. Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

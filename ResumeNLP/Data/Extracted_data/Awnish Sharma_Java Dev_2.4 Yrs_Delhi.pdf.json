@@ -3,30 +3,30 @@
     "email": "tryawnish@gmail.com",
     "mobile_number": "993-557-0056",
     "skills": [
-        "Design",
-        "Reports",
-        "Research",
-        "Computer science",
-        "Html",
-        "Database",
-        "Testing",
         "Process",
-        "Rest",
-        "Api",
-        "Reporting",
+        "Research",
+        "Design",
         "Engineering",
-        "Mobile",
-        "System",
+        "Api",
+        "Testing",
+        "Database",
+        "Analyze",
         "Java",
-        "Sql",
+        "Html",
+        "Computer science",
+        "Rest",
+        "Reporting",
+        "Reports",
+        "Mobile",
         "Technical",
-        "Analyze"
+        "System",
+        "Sql"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "SOFTWARE DEVELOPMENT",
-        "SOFTWARE DEVELOPMENT ENGINEER"
+        "SOFTWARE DEVELOPMENT ENGINEER",
+        "SOFTWARE DEVELOPMENT"
     ],
     "experience": [
         "- Avaya Voice and HTML IVR",
@@ -45,9 +45,9 @@
         "Get in Contact"
     ],
     "company_names": [
+        "UNITED COLLEGE OF ENGINEERING",
         "SNUG Technologies Pvt. Ltd.",
-        "SNUG Technologies Pvt. Ltd.| Jun",
-        "UNITED COLLEGE OF ENGINEERING"
+        "SNUG Technologies Pvt. Ltd.| Jun"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

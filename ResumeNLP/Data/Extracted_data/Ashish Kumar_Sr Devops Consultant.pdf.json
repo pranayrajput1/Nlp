@@ -1,0 +1,43 @@
+{
+    "name": "ASHISH KUMAR",
+    "email": "ashishcs047@gmail.com",
+    "mobile_number": "6360453047",
+    "skills": [
+        "Mysql",
+        "Troubleshooting",
+        "Process",
+        "Logging",
+        "Engineering",
+        "Docker",
+        "Ansible",
+        "Windows",
+        "Scripting",
+        "Analysis",
+        "Github",
+        "Database",
+        "Video",
+        "Cloud",
+        "Email",
+        "Shell",
+        "System",
+        "Debugging",
+        "Operating systems",
+        "Computer science",
+        "Aws",
+        "Linux",
+        "Mobile",
+        "Technical",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "\u2022 Currently working as DevOps Engineer at Envestnet Yodlee from Dec 2020",
+        "\u2022 Worked as DevOps Engineer at Nexamatic Software solution Pvt Ltd from Aug 2017",
+        "to Dec 2020."
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

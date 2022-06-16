@@ -4,32 +4,32 @@
     "mobile_number": "9871228732",
     "skills": [
         "Javascript",
-        "Money",
-        "Technical knowledge",
-        "Computer science",
-        "Html",
-        "Email",
+        "Mysql",
+        "Jsp",
+        "Engineering",
+        "Oracle",
         "English",
         "Microsoft office",
-        "Engineering",
-        "Mysql",
-        "System",
         "Java",
-        "Sql",
+        "Html",
+        "Money",
+        "Computer science",
+        "Email",
+        "Technical knowledge",
         "Technical",
-        "Oracle",
-        "Jsp"
+        "System",
+        "Sql"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Software Engineer",
-        "Team Member"
+        "Team Member",
+        "Software Engineer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Oracle"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

@@ -3,34 +3,34 @@
     "email": "jagritiojha3007@gmail.com",
     "mobile_number": "9773855874",
     "skills": [
-        "Test cases",
-        "Automation",
-        "Rest",
-        "Selenium",
-        "Sql",
-        "Hospitality",
-        "Consulting",
-        "Cloud",
-        "Reporting",
-        "Analyze",
-        "Reports",
-        "Inventory",
-        "Agile",
-        "System",
-        "Java",
         "Jira",
-        "Testing",
+        "Java",
+        "Inventory",
+        "Reporting",
+        "Test cases",
+        "Hospitality",
+        "Automation",
         "Analysis",
+        "Design",
+        "Testing",
+        "Selenium",
+        "Cloud",
+        "Rest",
         "Retail",
-        "Design"
+        "Analyze",
+        "System",
+        "Sql",
+        "Agile",
+        "Reports",
+        "Consulting"
     ],
     "college_name": null,
     "degree": [
         "Bachelor of Technology"
     ],
     "designation": [
-        "Software Engineer",
-        "Automation Engineer"
+        "Automation Engineer",
+        "Software Engineer"
     ],
     "experience": [
         "Software Engineer",

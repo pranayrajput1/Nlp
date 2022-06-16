@@ -1,0 +1,50 @@
+{
+    "name": "Saurabh Singhal",
+    "email": "saurabh1226@gmail.com",
+    "mobile_number": "4096751",
+    "skills": [
+        "Mysql",
+        "Apis",
+        "Api",
+        "English",
+        "Jira",
+        "Java",
+        "Algorithms",
+        "Docker",
+        "Training",
+        "Information technology",
+        "Windows",
+        "Design",
+        "Programming",
+        "Writing",
+        "Website",
+        "Database",
+        "Testing",
+        "Agile",
+        "Js",
+        "Communication",
+        "Reports",
+        "Aws",
+        "Architecture",
+        "Technical",
+        "Operating systems"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology June 2014",
+        "B.TECH degree in Information Technology"
+    ],
+    "designation": null,
+    "experience": [
+        "Tricon Infotech Private Limited",
+        "Software Engineer",
+        "Project : OEP - Online English Proficiency",
+        "Client : Pearson Educations",
+        "Role : Developer",
+        "July 2018 \u2014 Present",
+        "Platform: Spring boot, MongODB, Gradle, Docker, Bitbucket"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 3.92
+}

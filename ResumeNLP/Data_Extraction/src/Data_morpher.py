@@ -17,12 +17,17 @@ def resume_extraction(inp_dirc,ext_direc):
     try:
 
         for root, dirs, files in os.walk(inp_dirc):
+            direc_log = open("Directory.log", "w")
             for dir in dirs:
                 filepath = os.path.join(inp_dirc, dir)
-                for files in os.listdir(filepath):
-                    if files.endswith(extension):
-                        data = ResumeParser(os.path.join(filepath, files)).get_extracted_data()        #Getting the extracted data in a dict using pyreparser
-                        out_file = open(os.path.join(ext_direc, files + ".json"), "w")
+                direc_log.write(str(filepath) + os.linesep)
+
+                file_log = open("Files.log", "w")
+                for resume_file in os.listdir(filepath):
+                    if resume_file.endswith(extension):
+                        file_log.write(str(resume_file) + os.linesep)
+                        data = ResumeParser(os.path.join(filepath, resume_file)).get_extracted_data()        #Getting the extracted data in a dict using pyreparser
+                        out_file = open(os.path.join(ext_direc, resume_file + ".json"), "w")
                         json.dump(data, out_file, indent=4, sort_keys=False)
                         out_file.close()
     except Exception as e:

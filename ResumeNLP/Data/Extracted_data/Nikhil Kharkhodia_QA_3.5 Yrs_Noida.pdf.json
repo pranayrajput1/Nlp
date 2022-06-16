@@ -3,41 +3,41 @@
     "email": "nikhil.kharkhodia@gmail.com",
     "mobile_number": "9990919192",
     "skills": [
-        "Test cases",
-        "Automation",
-        "Rest",
-        "Excel",
-        "Selenium",
-        "Pattern",
-        "Training",
-        "Ios",
         "Mysql",
-        "Reporting",
-        "Mobile",
-        "Technical",
-        "Technical skills",
-        "Agile",
+        "Ios",
+        "Lifecycle",
         "Api",
-        "System",
-        "Usability",
-        "Docker",
-        "Java",
         "Jira",
+        "Java",
+        "Reporting",
+        "Test cases",
+        "Docker",
+        "Automation",
+        "Training",
+        "Windows",
+        "Analysis",
+        "Design",
         "Writing",
         "Testing",
-        "Lifecycle",
-        "Analysis",
+        "Selenium",
+        "Technical skills",
+        "Rest",
+        "Usability",
+        "System",
         "Android",
-        "Design",
-        "Windows"
+        "Agile",
+        "Excel",
+        "Pattern",
+        "Mobile",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
         "BCA, IMS Ghaziabad in 2010"
     ],
     "designation": [
-        "Test Engineer",
-        "Analyst/SDET"
+        "Analyst/SDET",
+        "Test Engineer"
     ],
     "experience": [
         "Organization  Role",
@@ -142,9 +142,9 @@
         "API testing with postman."
     ],
     "company_names": [
+        "Pradhumna Infotech \nPvt. Ltd.",
         "Pradhumna Infotech Pvt. Ltd.",
-        "KFC India",
-        "Pradhumna Infotech \nPvt. Ltd."
+        "KFC India"
     ],
     "no_of_pages": 4,
     "total_experience": 1.83

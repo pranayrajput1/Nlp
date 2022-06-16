@@ -3,29 +3,29 @@
     "email": "ksurbhi9877@gmail.com",
     "mobile_number": "7978417103",
     "skills": [
-        "Computer science",
-        "Email",
-        "Rest",
-        "Coding",
-        "Debugging",
-        "Sql",
-        "Programming",
-        "English",
-        "Sql server",
-        "Database",
-        "Assembly",
-        "Agile",
         "Api",
+        "English",
+        "Jira",
+        "Java",
+        "Troubleshooting",
+        "Sql server",
         "Engineering",
         "Docker",
-        "Java",
-        "Jira",
-        "Troubleshooting",
-        "Writing",
-        "Testing",
         "Analysis",
+        "Design",
+        "Programming",
+        "Writing",
+        "Assembly",
+        "Testing",
+        "Database",
+        "Rest",
         "Retail",
-        "Design"
+        "Email",
+        "Sql",
+        "Agile",
+        "Debugging",
+        "Computer science",
+        "Coding"
     ],
     "college_name": null,
     "degree": [
@@ -34,10 +34,10 @@
     "designation": [
         "Software Engineer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "7978417103"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

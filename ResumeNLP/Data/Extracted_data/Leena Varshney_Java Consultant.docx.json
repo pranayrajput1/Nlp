@@ -4,39 +4,39 @@
     "mobile_number": "8630760165",
     "skills": [
         "Javascript",
-        "Rest",
-        "Security",
-        "Sql",
-        "Html5",
-        "Soap",
-        "Programming",
-        "English",
         "Mysql",
-        "Cloud",
-        "Mobile",
-        "Technical",
-        "Oracle",
-        "Postgresql",
-        "Jsp",
-        "Database",
         "Api",
-        "Engineering",
+        "English",
         "Java",
-        "Web services",
+        "Html5",
+        "Postgresql",
         "Json",
+        "Jsp",
+        "Engineering",
+        "Oracle",
+        "Design",
+        "Programming",
+        "Database",
+        "Cloud",
+        "Rest",
         "Retail",
-        "Design"
+        "Web services",
+        "Sql",
+        "Soap",
+        "Security",
+        "Mobile",
+        "Technical"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Software Engineer",
-        "Technical and Technology"
+        "Technical and Technology",
+        "Software Engineer"
     ],
-    "experience": [],
+    "experience": null,
     "company_names": [
         "Oracle"
     ],
     "no_of_pages": null,
-    "total_experience": 0.0
+    "total_experience": 0
 }

@@ -4,34 +4,34 @@
     "mobile_number": "9650432969",
     "skills": [
         "Javascript",
-        "Computer science",
-        "Rest",
-        "Sdlc",
-        "Health",
-        "Sql",
-        "Pattern",
-        "Customer requirements",
-        "Scheduling",
-        "Pl/sql",
-        "Oracle",
-        "Jsp",
-        "Servers",
         "Apis",
-        "Database",
-        "Process",
-        "Agile",
-        "System",
         "Java",
-        "Design"
+        "Scheduling",
+        "Process",
+        "Jsp",
+        "Oracle",
+        "Pl/sql",
+        "Design",
+        "Customer requirements",
+        "Database",
+        "Health",
+        "Rest",
+        "System",
+        "Sql",
+        "Agile",
+        "Computer science",
+        "Sdlc",
+        "Pattern",
+        "Servers"
     ],
     "college_name": null,
     "degree": [
         "B.Tech in Computer Science"
     ],
     "designation": [
+        "Senior Software Engineer",
         "Software Engineer",
-        "SENIOR SOFTWARE ENGINEER",
-        "Senior Software Engineer"
+        "SENIOR SOFTWARE ENGINEER"
     ],
     "experience": [
         "Senior Software Engineer",

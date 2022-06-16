@@ -1,0 +1,45 @@
+{
+    "name": "Neha Sharma",
+    "email": "nehasharma.va92@gmail.com",
+    "mobile_number": "9050280507",
+    "skills": [
+        "Installation",
+        "Os",
+        "Networking",
+        "Jira",
+        "Scheduling",
+        "Troubleshooting",
+        "Process",
+        "Logging",
+        "Schedule",
+        "Change management",
+        "Oracle",
+        "Docker",
+        "Hospital",
+        "Github",
+        "Travel",
+        "Itil",
+        "Cloud",
+        "Operations",
+        "Security",
+        "Linux",
+        "Aws",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech",
+        "M.Tech"
+    ],
+    "designation": [
+        "Biomedical Engineer",
+        "Trainee Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle",
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}
