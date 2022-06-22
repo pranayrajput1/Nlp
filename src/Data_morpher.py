@@ -9,8 +9,8 @@ import os
 # Resume Entity extraction
 
 
-INPUT_DIRECTORY = r'/home/aayush/PycharmProjects/ResumeNLP/Data/Input_data'
-OUTPUT_DIRECTORY = r'/home/aayush/PycharmProjects/ResumeNLP/Data/Extracted_data/'
+INPUT_DIRECTORY = r'/home/aayush/PycharmProjects/ResumeNLP/data/Input_data'
+OUTPUT_DIRECTORY = r'/home/aayush/PycharmProjects/ResumeNLP/data/output_data/'
 extension = (".pdf", ".docx")
 
 def resume_extraction(inp_dirc,ext_direc):
