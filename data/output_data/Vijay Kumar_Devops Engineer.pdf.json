@@ -1,0 +1,56 @@
+{
+    "name": "VIJAY KUMAR",
+    "email": "gvkdevops@gmail.com",
+    "mobile_number": "8919524907",
+    "skills": [
+        "Distribution",
+        "Networking",
+        "Yaml",
+        "Jira",
+        "Troubleshooting",
+        "Process",
+        "Schedule",
+        "Engineering",
+        "Docker",
+        "Automation",
+        "Ansible",
+        "Scripting",
+        "Analysis",
+        "Design",
+        "Administration",
+        "Writing",
+        "Dns",
+        "Health",
+        "Cloud",
+        "Technical skills",
+        "Email",
+        "Shell",
+        "Security",
+        "Linux",
+        "Metrics",
+        "Aws",
+        "Architecture",
+        "Technical",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "merge process.",
+        "\uf0d8  Involved in writing shell scripts for compilation and deployment process.",
+        "\uf0d8  Supporting developers by creating repositories, staging profiles, staging repositories, permissions.",
+        "\uf0d8  Work with teams and project managers to deliver quality software within schedule constraints.",
+        "\uf0d8  Communicated with all levels of engineering, management, development and test teams."
+    ],
+    "company_names": [
+        "Tech Mahindra Ltd",
+        "Amazon",
+        "Shell",
+        "Cloud Computing Services"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

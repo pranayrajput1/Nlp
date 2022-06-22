@@ -1,0 +1,56 @@
+{
+    "name": "Rajesh Karpe",
+    "email": "prashantkarpe1@gmail.com",
+    "mobile_number": "9370489246",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "Api",
+        "Ux",
+        "Java",
+        "Troubleshooting",
+        "Sales",
+        "Postgresql",
+        "Jsp",
+        "Documentation",
+        "Retention",
+        "Windows",
+        "Data analysis",
+        "Analysis",
+        "Tax",
+        "Crm",
+        "Programming",
+        "Filing",
+        "Writing",
+        "Technical skills",
+        "Rest",
+        "Email",
+        "System",
+        "Agile",
+        "Erp",
+        "Operations",
+        "Visual",
+        "Xml",
+        "Linux",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DOMAIN KEYS",
+        "Software Developer"
+    ],
+    "experience": [
+        "\u2022    Company Name            :     Bitwise Solutions PVT. LTD. , Pune",
+        "\u2022    Technology                    :    Spring Boot,Hibernate, Angular 7, javascript, Mysql, Bootstrap",
+        "Description",
+        "The proposed  application is  used  for  data  analysis and for various operations on data to",
+        "perform and it is developed in Angular with Spring boot technology."
+    ],
+    "company_names": [
+        "EPPS Infotech PVT. LTD.",
+        "Bitwise Solutions PVT. LTD."
+    ],
+    "no_of_pages": 4,
+    "total_experience": 0.0
+}

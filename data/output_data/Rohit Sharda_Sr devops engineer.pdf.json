@@ -1,0 +1,60 @@
+{
+    "name": "Rohit Sharda",
+    "email": "rohitsharda88@gmail.com",
+    "mobile_number": "9999780739",
+    "skills": [
+        "Javascript",
+        "Os",
+        "Mysql",
+        "Compliance",
+        "Python",
+        "Boto3",
+        "English",
+        "Java",
+        "Troubleshooting",
+        "Accounting",
+        "Ubuntu",
+        "Computer applications",
+        "Research",
+        "Docker",
+        "Automation",
+        "Migration",
+        "Ansible",
+        "Windows",
+        "Scripting",
+        "Administration",
+        "Design",
+        "Programming",
+        "Github",
+        "Investigations",
+        "Database",
+        "Cloud",
+        "Shell",
+        "System",
+        "Linux",
+        "Reports",
+        "Aws",
+        "Architecture",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": [
+        "Master in Computer Applications)"
+    ],
+    "designation": [
+        "Senior DevOps Engineer",
+        "Sr System Administrator"
+    ],
+    "experience": [
+        "Senior DevOps Engineer \u2013 Impressico Business Solutions Pvt. Ltd., Noida, (India)",
+        "30 November 2017 \u2013 Present",
+        "\uf06c Designed architecture of infrastructure and led their implementation.",
+        "\uf06c Built tools/scripts using Python, Java, Groovy and Javascript."
+    ],
+    "company_names": [
+        "Impressico Business Solutions Pvt. Ltd.",
+        "Multisoft Systems Pvt. Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 4.58
+}

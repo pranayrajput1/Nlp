@@ -1,0 +1,50 @@
+{
+    "name": "Pooja Rani",
+    "email": "nain.pooja28@gmail.com",
+    "mobile_number": "9309974724",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "Os",
+        "English",
+        "Jira",
+        "Publishing",
+        "User stories",
+        "Modeling",
+        "Html",
+        "Css",
+        "Windows",
+        "Analysis",
+        "Design",
+        "Programming",
+        "Writing",
+        "Coding",
+        "Continuous improvement",
+        "Testing",
+        "Database",
+        "Agile",
+        "Scala",
+        "Improvement",
+        "Linux",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Developer"
+    ],
+    "experience": [
+        "Project Name",
+        "Dates (From - To)",
+        "Employer",
+        "Business / Sector",
+        "Position",
+        "Environment",
+        "Roles and responsibilities",
+        "LANGUAGES",
+        "English, Hindi."
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

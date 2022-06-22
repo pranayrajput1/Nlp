@@ -1,0 +1,56 @@
+{
+    "name": "Mayank Tyagi",
+    "email": "mayanktyagi765@gmail.com",
+    "mobile_number": "7204407328",
+    "skills": [
+        "Javascript",
+        "Api",
+        "English",
+        "Java",
+        "Threading",
+        "Algorithms",
+        "Engineering",
+        "Oracle",
+        "Html",
+        "Css",
+        "Requests",
+        "Electronics",
+        "Design",
+        "Programming",
+        "Github",
+        "Website",
+        "Ui",
+        "Rest",
+        "System",
+        "Sql",
+        "Soap",
+        "Communication",
+        "Pattern",
+        "Mobile",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Electronics and\nCommunication\nInstitution/Place of Education"
+    ],
+    "designation": [
+        "Associate Software Engineer",
+        "Java developer",
+        "Software Engineer"
+    ],
+    "experience": [
+        "Software Engineer",
+        "Pure Software",
+        "Achievements/Tasks",
+        "Involved in developing new GUI Interfaces to handle the",
+        "charging requests of customers using rest.",
+        "Technical inclination has been in Core & Advance",
+        "Java,Multi-Threading ,Concurrency,Collection API ,Spring",
+        "Boot"
+    ],
+    "company_names": [
+        "Spright Technologies Pvt. Ltd"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

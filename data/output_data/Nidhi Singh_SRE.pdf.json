@@ -1,0 +1,60 @@
+{
+    "name": "Nidhi Singh",
+    "email": "nidhisinghjsr@gmail.com",
+    "mobile_number": "8797771727",
+    "skills": [
+        "Python",
+        "Lifecycle",
+        "Scrum",
+        "English",
+        "Postgresql",
+        "Oracle",
+        "Interactive",
+        "Automation",
+        "Analysis",
+        "Cloud",
+        "Certification",
+        "Performance improvement",
+        "Shell",
+        "System",
+        "Sql",
+        "Agile",
+        "Improvement",
+        "Computer science",
+        "Aws",
+        "Mobile",
+        "Architecture",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology (B.Tech) in Computer Science                                                         May 2017",
+        "nidhisinghjsr@gmail.com"
+    ],
+    "designation": [
+        "Software Engineer",
+        "SITE RELIABILITY ENGINEER"
+    ],
+    "experience": [
+        "\u00b7  Data Structures",
+        "\u00b7  Git",
+        "\u00b7  Jenkins",
+        "SOFTWARE DEVELOPER | AMDOCS (Client- Vodafone Ziggo Netherlands) | 12/2019- PRESENT",
+        "\u00b7  Served a client facing role in making a whole new application related to Loan and Credit management.",
+        "\u00b7  Primarily in Python, shell, and DB interactive scripts involving many packages and libraries.",
+        "\u00b7  Interacting with other companies and collaborating with their products for end to end service and better",
+        "customer satisfaction.",
+        "\u00b7  Performed regression and system-level analysis to verify quality and function following agile methodology.",
+        "\u00b7  Collaborated on all stages of systems development lifecycle, from requirement gathering to production releases.",
+        "\u00b7  Handling daily tasks, defects, and issues on regular basis.",
+        "SITE RELIABILITY ENGINEER | AMDOCS | 12/2019- PRESENT",
+        "\u00b7  Designed, architecture, developed, and marketed generic automation and self-healing solution that meets",
+        "customer demands for agility, flexibility, and reliability, and can be used across multiple accounts.",
+        "\u00b7  Worked as a Scrum Master to felicitate daily stand-up meeting, deciding Sprints, gathering artifacts."
+    ],
+    "company_names": [
+        "Shell"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Shubham Kumar",
+    "email": "shubham.chndrvnshi@gmail.com",
+    "mobile_number": "8083368137",
+    "skills": [
+        "Programming",
+        "Transactions",
+        "Saas",
+        "Algorithms",
+        "Debugging",
+        "Engineering",
+        "Api",
+        "Analysis",
+        "Specifications",
+        "Rest",
+        "Twitter",
+        "Ubuntu",
+        "Reports",
+        "Profiling",
+        "Queries",
+        "System",
+        "Design"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.TECH IN COMPUTER SCIENCE"
+    ],
+    "designation": [
+        "SOFTWARE ENGINEER",
+        "ASSOCIATE SOFTWARE ENGINEER"
+    ],
+    "experience": [
+        "DELIMP TECHNOLOGY Noida-2, Uttar Pradesh",
+        "NODEJS DEVELOPER | JAN,2021 - CURRENT",
+        "\u2022 Design the required API according to the given specifications and",
+        "do the back-end related handling.",
+        "\u2022 Meetup with the client to gather the information and convey the",
+        "project progress details, mentor the juniors",
+        "\u2022 Debugging & bug fixing.",
+        "CAVISSON SYSTEM INC. Noida-63, Uttar Pradesh",
+        "ASSOCIATE SOFTWARE ENGINEER | JAN,2019 - OCT,2019",
+        "SOFTWARE ENGINEER | OCT,2019 - JAN, 2021",
+        "\u2022 Worked with Core NodeJS team on Agent (APM Tool) to capture",
+        "Business transactions and flow paths.",
+        "\u2022 Implemented many services like HTTP, Rest API, on Netjsagent,",
+        "SAAS Mode to Authenticate Users.",
+        "\u2022 Support provided for the application on daily basis and responding",
+        "to user queries for validation of exception.",
+        "\u2022 Hosting and Log monitoring of web application."
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

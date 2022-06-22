@@ -1,0 +1,53 @@
+{
+    "name": "MANDEEP SINGH",
+    "email": "monteoberoi@gmail.com",
+    "mobile_number": "995-806-6392",
+    "skills": [
+        "Python",
+        "Networking",
+        "English",
+        "Technical",
+        "Algorithms",
+        "Engineering",
+        "Ruby",
+        "Docker",
+        "Automation",
+        "Training",
+        "Ansible",
+        "Scripting",
+        "Design",
+        "P",
+        "Certification",
+        "Cloud",
+        "Click",
+        "Supervisor",
+        "Linux",
+        "Aws",
+        "Coding"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Engineering-Information \nTechnology"
+    ],
+    "designation": [
+        "Kubernetes Administrator",
+        "Docker Certified Associate",
+        "Azure Administrator",
+        "INDUSTRY EXPERTISE",
+        "Technical Team Leader",
+        "Sr. Technical Engineer"
+    ],
+    "experience": [
+        "Platform Virtual Networks Vnet VPN gateway Load balancer, Auto scaling and EC2",
+        "Instance, RDS and IAM etc. Azure MFA, Azure Storage, AKS,Lambda,S3 bucket,EKS.",
+        "GCP Networking, compute, VPC, IAM, GKE, Instances, storage and databases."
+    ],
+    "company_names": [
+        "Microsoft",
+        "Amazon",
+        "Azure Devops",
+        "KernelApps Pvt. Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

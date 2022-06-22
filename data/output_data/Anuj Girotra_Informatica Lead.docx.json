@@ -1,0 +1,50 @@
+{
+    "name": "ANUJ GIROTRA Mobile",
+    "email": "E-Mail:anujgirotra92@gmail.com",
+    "mobile_number": "7015133961",
+    "skills": [
+        "Tableau",
+        "Scrum",
+        "Jira",
+        "Unix",
+        "Reporting",
+        "Sql server",
+        "Schedule",
+        "Oracle",
+        "Electrical",
+        "Migration",
+        "Design",
+        "Etl",
+        "Workflows",
+        "Testing",
+        "Database",
+        "Health",
+        "Cloud",
+        "Sap",
+        "Queries",
+        "System",
+        "Sql",
+        "Agile",
+        "Debugging",
+        "Excel",
+        "Xml",
+        "Salesforce",
+        "Mobile",
+        "Architecture",
+        "Technical",
+        "Consulting"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "SME",
+        "Senior consultant"
+    ],
+    "experience": null,
+    "company_names": [
+        "Microsoft",
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

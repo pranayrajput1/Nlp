@@ -1,0 +1,38 @@
+{
+    "name": "Experience Skills",
+    "email": "anwarshaikh078@gmail.com",
+    "mobile_number": "8237685256",
+    "skills": [
+        "Python",
+        "Api",
+        "Unix",
+        "Java",
+        "Math",
+        "Process",
+        "C++",
+        "C",
+        "Docker",
+        "Analysis",
+        "Design",
+        "Programming",
+        "Github",
+        "Cloud",
+        "Rest",
+        "Opencv",
+        "System",
+        "Sql",
+        "Android",
+        "Computer science",
+        "Security",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE. Computer Science. \n"
+    ],
+    "designation": null,
+    "experience": [],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

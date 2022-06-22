@@ -1,0 +1,43 @@
+{
+    "name": "Name: Rajasekhar",
+    "email": "rajasekharreddyporeddy1212@gmail.com",
+    "mobile_number": "9160806971",
+    "skills": [
+        "Installation",
+        "Unix",
+        "Troubleshooting",
+        "Process",
+        "Oracle",
+        "Docker",
+        "Automation",
+        "Mobile",
+        "Ansible",
+        "Windows",
+        "Requests",
+        "Scripting",
+        "Administration",
+        "Access",
+        "Dns",
+        "Redhat",
+        "Cloud",
+        "Shell",
+        "System",
+        "Security",
+        "Linux",
+        "Aws",
+        "Technical",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "CLOUD ENGINEER"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle",
+        "WIPRO TECHNOLOGIES PVT LTD"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

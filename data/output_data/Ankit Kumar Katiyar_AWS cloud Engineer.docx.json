@@ -1,0 +1,43 @@
+{
+    "name": "Name of the Candidate",
+    "email": "ankitkatiyar26@gmail.com",
+    "mobile_number": "8652642929",
+    "skills": [
+        "Installation",
+        "Os",
+        "Mysql",
+        "English",
+        "Unix",
+        "Scheduling",
+        "Troubleshooting",
+        "Ubuntu",
+        "Docker",
+        "Automation",
+        "Ansible",
+        "Windows",
+        "Scripting",
+        "Design",
+        "Redhat",
+        "Cloud",
+        "Technical skills",
+        "Email",
+        "System",
+        "Operating systems",
+        "Security",
+        "Linux",
+        "Aws",
+        "Technical",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Devops Engineer"
+    ],
+    "experience": [],
+    "company_names": [
+        "3clogic Pvt. Ltd"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}
