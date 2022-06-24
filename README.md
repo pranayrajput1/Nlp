@@ -16,5 +16,13 @@ https://github.com/pranayrajput1/Nlp.git
 pip install -r /path/to/requirements.txt
 ```
 
-#### 4.Navigate to the Project and Run
+#### 4. Run these on terminal to install extra requirements
+
+```bash
+ $ python -m nltk.downloader stopwords
+ $ python -m nltk.downloader words
+ $ pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+```
+
+#### 5.Navigate to the Project and Run
 
