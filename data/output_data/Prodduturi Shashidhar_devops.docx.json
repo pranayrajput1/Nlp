@@ -1,0 +1,37 @@
+{
+    "name": "P. Shashidhar Mobile",
+    "email": "p.shashidhar10@gmail.com",
+    "mobile_number": "9640568252",
+    "skills": [
+        "Python",
+        "Java",
+        "Troubleshooting",
+        "Process",
+        "Docker",
+        "Automation",
+        "Mobile",
+        "Ansible",
+        "Requests",
+        "Scripting",
+        "Analysis",
+        "Administration",
+        "Github",
+        "Architectures",
+        "Cloud",
+        "Shell",
+        "Sql",
+        "Agile",
+        "Linux",
+        "Aws",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

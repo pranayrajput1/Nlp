@@ -1,0 +1,63 @@
+{
+    "name": "Ekta Singh",
+    "email": "mailto:ektasingh151@gmail.com",
+    "mobile_number": "8882496289",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "Api",
+        "Java",
+        "Inventory",
+        "Technical knowledge",
+        "Banking",
+        "Process",
+        "Hotel",
+        "Engineering",
+        "Oracle",
+        "Construction",
+        "Programming",
+        "Testing",
+        "Database",
+        "Rest",
+        "Ordering",
+        "System",
+        "Computer science",
+        "Security",
+        "Communication",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "BTech \u2013 Computer Science & Engineering (CSE)"
+    ],
+    "designation": [
+        "Java Developer",
+        "Software Developer"
+    ],
+    "experience": [
+        "Software Developer \u2013 Make My Trip (Ind.) Pvt. Ltd. /Tek Systems                                                                                                       Nov 2019 \u2013 Mar 2020",
+        "Gurgaon, Haryana",
+        "\u2022 Implemented suppliers priority ordering logic for hotel attributes stated by different suppliers of MMT Group using java, node.js & react.js.",
+        "\u2022 Designed contract for catering additional data and restructuring present data coming from different suppliers of MMT.",
+        "Software Developer  \u2013 Nucleus Software Exports Ltd.                                                                                                                            Jan. 2018 \u2013 Sep 2019",
+        "Noida, U.P.",
+        "\u2022 Achieved successful implementation of Internal Fund Transfer (IFT) payment module of FinnAxia for a tier-1 bank of Kenya using REST API.",
+        "\u2022 Developed Head Office branch API & completed the implementation & unit testing of Cheque Book Request API for a tier-1 South African bank.",
+        "\u2022 Succeeded in the implementation of Nigeria Instant Payment (NIP) for a tier-1 South African bank.",
+        "\u2022 Developed \u2018Customer User Authentication Rights\u2019 requirement for Business Internet Banking (BIB) portal of a tier-1 Malaysian bank; following",
+        "best practices and received a Certificate of Appreciation for my efforts.",
+        "Java Developer \u2013 Innverse Technologies Pvt. Ltd.                                                                                                                                    July 2016 \u2013 Dec 2017",
+        "Noida, U.P.",
+        "\u2022 Developed service interfaces for a USA based building and construction company.",
+        "\u2022 Successfully implemented partial-shipment and invoice generation process for an online inventory management system.",
+        "Summer Intern \u2013 HCL Infosystems Ltd.                                                                                                                                                      June 2013 \u2013 July 2013",
+        "Noida, U.P.",
+        "\u2022 Selected for 45 days internship program and developed a minor java-based application \u2018Jaipur Bus Info\u2019 with MySQL as database layer."
+    ],
+    "company_names": [
+        "Innverse Technologies Pvt. Ltd.",
+        "Oracle"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 1.83
+}

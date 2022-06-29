@@ -1,0 +1,40 @@
+{
+    "name": "Priyanka Namde Mobile",
+    "email": "namdepriyanka@gmail.com",
+    "mobile_number": "7083223701",
+    "skills": [
+        "Installation",
+        "English",
+        "Jira",
+        "Unix",
+        "Process",
+        "Oracle",
+        "Docker",
+        "Automation",
+        "Github",
+        "Testing",
+        "Ui",
+        "Cloud",
+        "Certification",
+        "Email",
+        "Web services",
+        "Soap",
+        "International",
+        "Security",
+        "Telecom",
+        "Linux",
+        "Mobile",
+        "Billing",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Oracle",
+        "Accenture"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

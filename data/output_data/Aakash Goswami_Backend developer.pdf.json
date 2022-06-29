@@ -1,0 +1,42 @@
+{
+    "name": "Software Developer",
+    "email": "aakashgoswami14595@gmail.com",
+    "mobile_number": "9675002569",
+    "skills": [
+        "Lean",
+        "Api",
+        "Database",
+        "English",
+        "Java",
+        "Communication",
+        "Updates",
+        "Technical",
+        "System"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Company Name",
+        "Alphavarna Technology",
+        "Sector 132 Greater Noida , pin- 201304",
+        "From",
+        "25/10/2019",
+        "To",
+        "Till Now",
+        "My Responsibility",
+        "1.I was working on a module of the project of my company where my responsibility was to",
+        "handle backend data processing.",
+        "2.I  have made Api Project Management Api  on lagom Framework which seems Like",
+        "Monday.com.",
+        "3. I have also worked  on play  and Akka  framework.",
+        "4.here I have used Elasticsearch , cql(Cassandra query Language) for database.",
+        "5.for storing Files and Images I have also used aws(Amazon Web Services).",
+        "6. In my Api client needs ongoing updates for every functionality so I have also used",
+        "WebSocket.",
+        "7.here I have used Akka Actors (Which are like Thread in Java)"
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

@@ -1,0 +1,55 @@
+{
+    "name": "Telangana India",
+    "email": "ka446@snu.edu.in",
+    "mobile_number": "308 7211",
+    "skills": [
+        "Nosql",
+        "Mysql",
+        "Python",
+        "Api",
+        "Java",
+        "Inventory",
+        "Sql server",
+        "Transactions",
+        "Analytics",
+        "Oracle",
+        "Engineering",
+        "Automation",
+        "Hbase",
+        "Migration",
+        "Pl/sql",
+        "Spark",
+        "P",
+        "Programming",
+        "Hadoop",
+        "Database",
+        "Cloud",
+        "Rest",
+        "Pyspark",
+        "Workflow",
+        "Queries",
+        "System",
+        "Sql",
+        "Hive",
+        "R",
+        "Operations",
+        "Warehouse",
+        "Computer science",
+        "Money",
+        "Aws"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech. in Computer Science and Engineering. CGPA"
+    ],
+    "designation": [
+        "Data Engineer",
+        "Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0
+}

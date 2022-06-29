@@ -1,0 +1,61 @@
+{
+    "name": "SALONI MITTAL",
+    "email": "salonimittal806@gmail.com",
+    "mobile_number": "9929826218",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "Api",
+        "English",
+        "Html",
+        "Automation",
+        "Css",
+        "Windows",
+        "Routing",
+        "Design",
+        "Github",
+        "Database",
+        "Rest",
+        "Email",
+        "Workflow",
+        "Queries",
+        "System",
+        "Sql",
+        "Js",
+        "Hotels",
+        "Ui"
+    ],
+    "college_name": null,
+    "degree": [
+        "BANASTHALI VIDYAPITH",
+        "BTech (CS)-2019"
+    ],
+    "designation": null,
+    "experience": [
+        "Accenture Solutions Pvt. Ltd.  [Application Development Analyst]",
+        "July 2019\u2013Present [Serving notice period]",
+        "Win Bank: This is a SPA made using React JS for a bank\u2019s employees.",
+        "\u2022  Worked with reusable functional components using Hooks.",
+        "State Management using Redux.",
+        "\u2022",
+        "Integration of Rest API with backend.",
+        "\u2022",
+        "Implemented Routing using React Router in the project.",
+        "\u2022",
+        "\u2022  Used Material UI Library for fast and easy web development.",
+        "\u2022  Designed UI using HTML, CSS, SCSS, and Bootstrap.",
+        "Hilton Hotels: This is an application used in all Hilton Hotels worldwide.",
+        "\u2022  Worked on database of the client.",
+        "\u2022  Worked on the stored procedures, functions and made",
+        "changes in them as per requirement using SQL queries.",
+        "3i-Infotech Solutions Pvt. Ltd.  [Intern]: June-2018\u2013Nov-2018",
+        "\u2022  My work included making prototypes for the projects.",
+        "\u2022  Worked mainly on JavaScript, HTML and CSS."
+    ],
+    "company_names": [
+        "SIR PADAMPAT SINGHANIA SCHOOL \n12th",
+        "Accenture"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 2.92
+}

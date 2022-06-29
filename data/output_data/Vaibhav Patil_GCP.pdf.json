@@ -1,0 +1,42 @@
+{
+    "name": "Vaibhav Patil",
+    "email": "vaibhavspatil22@gmail.com",
+    "mobile_number": "8421608353",
+    "skills": [
+        "Mysql",
+        "Python",
+        "Api",
+        "English",
+        "Mining",
+        "Java",
+        "Flask",
+        "Updates",
+        "Conversion",
+        "Json",
+        "Analytics",
+        "Docker",
+        "Automation",
+        "Scripting",
+        "Hospital",
+        "Etl",
+        "Hadoop",
+        "Database",
+        "Cloud",
+        "Shell",
+        "Sql",
+        "Hive",
+        "Warehouse"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Data Engineer",
+        "GCP Data Engineer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Quantiphi Analytics Solutions Pvt.Ltd."
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

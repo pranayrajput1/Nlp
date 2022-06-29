@@ -1,0 +1,38 @@
+{
+    "name": "[Type text",
+    "email": "Deepak.krishnappaa@gmail.com",
+    "mobile_number": "7204373404",
+    "skills": [
+        "Jira",
+        "Reporting",
+        "Process",
+        "Engineering",
+        "Docker",
+        "Automation",
+        "Migration",
+        "Ansible",
+        "Windows",
+        "Scripting",
+        "Administration",
+        "Analysis",
+        "Cloud",
+        "Email",
+        "Shell",
+        "Agile",
+        "R",
+        "Aws",
+        "Linux",
+        "Mobile",
+        "Architecture",
+        "Servers"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [],
+    "company_names": [
+        "Shell"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

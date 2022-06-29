@@ -1,0 +1,44 @@
+{
+    "name": "SUNISH KATARIA",
+    "email": "sunish.kataria@gmail.com",
+    "mobile_number": "8095035544",
+    "skills": [
+        "Javascript",
+        "Mysql",
+        "Ibm",
+        "English",
+        "Java",
+        "Jsp",
+        "Engineering",
+        "Oracle",
+        "User stories",
+        "C",
+        "Training",
+        "Db2",
+        "Analysis",
+        "Programming",
+        "Testing",
+        "Database",
+        "Certification",
+        "Rest",
+        "Web services",
+        "System",
+        "Communication",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "Module Lead",
+        "Senior Software Engineer",
+        "Software Engineer Analyst"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

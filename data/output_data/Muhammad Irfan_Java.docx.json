@@ -1,0 +1,58 @@
+{
+    "name": "Muhammad Irfan",
+    "email": "muhammadirfan.rayeen@gmail.com",
+    "mobile_number": "9389774491",
+    "skills": [
+        "English",
+        "Java",
+        "Inventory",
+        "Sales",
+        "Plan",
+        "Process",
+        "Finance",
+        "Schedule",
+        "Oracle",
+        "Docker",
+        "Mobile",
+        "Information technology",
+        "Migration",
+        "Ansible",
+        "Windows",
+        "Analysis",
+        "Design",
+        "Travel",
+        "Payroll",
+        "Database",
+        "Rest",
+        "Retail",
+        "Email",
+        "Web services",
+        "System",
+        "Sql",
+        "Soap",
+        "Agile",
+        "International",
+        "Xml",
+        "Aws",
+        "Security",
+        "Reports",
+        "Ui",
+        "Architecture",
+        "Technical",
+        "Consulting"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology (Information Technology) from Integral University"
+    ],
+    "designation": [
+        "Senior Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "NIIT Technologies Ltd",
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}
