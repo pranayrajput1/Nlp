@@ -1,0 +1,50 @@
+{
+    "name": "Achhru Kumar",
+    "email": "akbansal.ashu@gmail.com",
+    "mobile_number": "9718425024",
+    "skills": [
+        "Programming",
+        "Distribution",
+        "Analysis",
+        "Compliance",
+        "Testing",
+        "C++",
+        "Cms",
+        "Protocols",
+        "Electronics",
+        "C",
+        "Architecture",
+        "Design",
+        "Sdlc",
+        "Electrical",
+        "System",
+        "English",
+        "Software development life cycle",
+        "Operating systems",
+        "Engineering",
+        "Linux",
+        "Electrical engineering"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelors of Technology (B.Tech) in Electrical Engineering from BBSBEC, Fatehgarh Sahib"
+    ],
+    "designation": [
+        "Team Lead",
+        "Software Engineer"
+    ],
+    "experience": [
+        "ORGANIZATION",
+        "DESIGNATION",
+        "DURATION",
+        "WESEE, Ministry of Defence, New Delhi.",
+        "Team Lead",
+        "Aug 2011-till date",
+        "Indian Acrylics Limited (Sangrur)",
+        "Software Engineer",
+        "Jun 2008 - Jul 2011"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 3.08
+}

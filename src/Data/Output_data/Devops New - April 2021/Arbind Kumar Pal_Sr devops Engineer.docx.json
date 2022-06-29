@@ -1,0 +1,61 @@
+{
+    "name": "Arvind Kumar Pal",
+    "email": "arbindrpcl@gmail.com",
+    "mobile_number": "0971671492",
+    "skills": [
+        "Scripting",
+        "Networking",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Website",
+        "Cloud",
+        "Shell",
+        "Installation",
+        "Migration",
+        "Python",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Health",
+        "Strategy",
+        "Administration",
+        "Scheduling",
+        "Information technology",
+        "Php",
+        "Access",
+        "Dns",
+        "Communication",
+        "Requests",
+        "Investigation",
+        "Security",
+        "Perl",
+        "Ansible",
+        "Finance",
+        "Reports",
+        "Certification",
+        "Aws",
+        "Github",
+        "System",
+        "English",
+        "Mysql",
+        "Database",
+        "Lan",
+        "Os",
+        "Linux",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE"
+    ],
+    "designation": [
+        "System engineer/Network Engineer for 12+ years. Deploying, managing and operating scalable, high available and fault tolerant systems on AWS. Ability to identify and gather requirements to define a solution to be built and operation on AWS Setup/Managing database on RDS, Monitoring servers through AWS Cloud watch, SNS Implementing and controlling the flow of data and from AWS Selecting the appropriate AWS service based on compute, data or security requirements. Setup/Managing Linux servers on Amazon (EC2, S3, EBS, ELB, Security Groups, RDS and AMI). Estimating AWS usage costs and identifying operational cost control mechanism. Knowledge on KINESIS, AWS Lambda"
+    ],
+    "experience": [],
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

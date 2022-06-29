@@ -1,0 +1,71 @@
+{
+    "name": "Raghav Arora",
+    "email": "RAGHAV1551@GMAIL.COM",
+    "mobile_number": "9197119729",
+    "skills": [
+        "Scripting",
+        "Programming",
+        "Technical",
+        "Analysis",
+        "Selenium",
+        "Docker",
+        "Engineering",
+        "Android",
+        "Testing",
+        "Automation",
+        "Transport",
+        "Logging",
+        "Strategy",
+        "Administration",
+        "Information technology",
+        "Reports",
+        "Ecommerce",
+        "Jira",
+        "Design",
+        "Api",
+        "Reporting",
+        "Improvement",
+        "Rest",
+        "Java",
+        "Safety",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": [
+        "Masters in Computer Application",
+        "Bachelor in Business Administration"
+    ],
+    "designation": [
+        "Senior Test Engineer- 01/2017"
+    ],
+    "experience": [
+        "\uf0b7  Design the data-driven and keyword hybrid framework using selenium webdriver and Java.",
+        "\uf0b7  Worked and designed the page object model based framework with output extent reports.",
+        "\uf0b7  Automated test cases using selenium with java and testNG for web based application.",
+        "\uf0b7  Mobile automation using appium and android SDK on emulator as well as real devices.",
+        "\uf0b7  Active participation in the continuous improvement of the automation strategy and framework.",
+        "\uf0b7  Develop automation test cases for existing and new features and build test scripts for legacy areas",
+        "of the product to reduce dependency on manual tests.",
+        "\uf0b7  Worked on rest assured and postman for API testing and automation.",
+        "\uf0b7  Perform requirement feasibility analysis and identified test scenarios/test objectives.",
+        "\uf0b7  Perform smoke testing, regression testing, functional Testing and sanity testing.",
+        "\uf0b7  Participate in weekly status meetings with the team, developers to discuss open issues and",
+        "communicating with on-site team.",
+        "Involved in test data identification and gathering.",
+        "\uf0b7",
+        "\uf0b7  Logging the bugs in Jira/HP QC.",
+        "Project",
+        "SITA(US) is the world's leading specialist in air transport communications and information technology.",
+        "http://www.sita.aero/",
+        "Sita Ecommerce And Itravel: Managing ecommerce booking websites for the different airlines",
+        "comprising of all functionalities of booking engine.",
+        "Horizon Weight and Balance: Horizon Weight and Balance enables aircraft to fly more efficiently and",
+        "cost-effectively than ever before \u2013 without compromising safety.",
+        "Sita RES: Sita mainframe for managing reservations and checkin facilities"
+    ],
+    "company_names": [
+        "NIIT Technologies Ltd"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

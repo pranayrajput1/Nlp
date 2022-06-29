@@ -1,0 +1,41 @@
+{
+    "name": "SKILLS Leadership",
+    "email": "ayushidwivedi7296@gmail.co",
+    "mobile_number": "0739870507",
+    "skills": [
+        "Postgresql",
+        "Python",
+        "Servers",
+        "Training",
+        "Html",
+        "Css",
+        "Ubuntu",
+        "Django",
+        "Mysql",
+        "Database",
+        "Ansible",
+        "Java",
+        "Communication",
+        "Linux",
+        "Apis"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachlor of Science( Computer Applications )\nChatrapati Sahu ji Maharaj Unversity Kanpur",
+        "MCA"
+    ],
+    "designation": [
+        "Software Developer"
+    ],
+    "experience": [
+        "Software Developer",
+        "Tutree India Technologies (Pvt) Ltd",
+        "01/2020 - Present,"
+    ],
+    "company_names": [
+        "Tutree India Technologies Pvt. Ltd.",
+        "Tutree India Technologies (Pvt) Ltd"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Rishabh Jain",
+    "email": "rishabh.jain1993@hotmail.com",
+    "mobile_number": "8860466404",
+    "skills": [
+        "Oracle",
+        "Programming",
+        "Coding",
+        "Technical",
+        "Docker",
+        "Xml",
+        "Migration",
+        "Javascript",
+        "Windows",
+        "Agile",
+        "Sql",
+        "Html5",
+        "Computer science",
+        "Ecommerce",
+        "Architecture",
+        "Jira",
+        "Js",
+        "Mysql",
+        "Database",
+        "Rest",
+        "Java",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": [
+        "Master of Computer Application",
+        "Bachelor of Computer Application"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "Software Engineer",
+        "Globallogic India Pvt. Ltd.",
+        "Software Engineer",
+        "Smartbox Ecommerce Solution Pvt. Ltd."
+    ],
+    "company_names": [
+        "Smartbox Ecommerce Solution Pvt. Ltd.",
+        "Globallogic India Pvt. Ltd."
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Job Objective",
+    "email": "Email:chenzhuoofhust@gmail.comCell:(672)9990699",
+    "mobile_number": "9990699",
+    "skills": [
+        "Scripting",
+        "Visual",
+        "Programming",
+        "Calculus",
+        "Technical",
+        "Outreach",
+        "International",
+        "Engineering",
+        "Shell",
+        "Jsp",
+        "Postgresql",
+        "Python",
+        "Ai",
+        "Javascript",
+        "C++",
+        "Health",
+        "Email",
+        "Scala",
+        "C",
+        "Security",
+        "Design",
+        "Aws",
+        "Math",
+        "Spark",
+        "Unix",
+        "Mobile",
+        "System",
+        "Software development life cycle",
+        "Database",
+        "Java",
+        "Research"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.E. in Software Engineering7/2010"
+    ],
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

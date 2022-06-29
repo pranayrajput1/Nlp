@@ -1,0 +1,43 @@
+{
+    "name": "Parth Patel",
+    "email": "pparth28@gmail.com",
+    "mobile_number": "929-3799",
+    "skills": [
+        "Programming",
+        "Css",
+        "Technical",
+        "Matrix",
+        "Engineering",
+        "Shell",
+        "Segmentation",
+        "Ai",
+        "Python",
+        "Javascript",
+        "C++",
+        "Health",
+        "Video",
+        "Html",
+        "Php",
+        "Access",
+        "Requests",
+        "C",
+        "Api",
+        "Controls",
+        "Keyboard",
+        "System",
+        "Opencv",
+        "Java",
+        "Updates",
+        "Specifications"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Engineering in Computer Engineering",
+        "Master of Applied Computer Science"
+    ],
+    "designation": null,
+    "experience": null,
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0
+}

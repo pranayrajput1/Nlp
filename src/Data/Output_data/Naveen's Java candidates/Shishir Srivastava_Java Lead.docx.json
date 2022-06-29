@@ -1,0 +1,53 @@
+{
+    "name": "Contact:",
+    "email": "s_shishir@hotmail.com",
+    "mobile_number": "9871802992",
+    "skills": [
+        "Oracle",
+        "Billing",
+        "Programming",
+        "Payments",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Jsp",
+        "Testing",
+        "Servers",
+        "Hotels",
+        "Reconciliation",
+        "Scrum",
+        "Agile",
+        "Analyze",
+        "Sql",
+        "Db2",
+        "Architecture",
+        "Reports",
+        "Ibm",
+        "Jira",
+        "Acquisition",
+        "Documentation",
+        "System",
+        "English",
+        "Banking",
+        "Java"
+    ],
+    "college_name": null,
+    "degree": [
+        "BCA from MJP Rohilkhand University Bareilly U.P in 2005"
+    ],
+    "designation": [
+        "Project Lead",
+        "IT Engineer",
+        "Technical Lead Technology: J2SE, Spring, Hibernate, Oracle Tools:  Eclipse, Maven, WebLogic Server, Tomcat, SVN Description:  FinnoneNeO mFIN/CAS is a lending",
+        "Technical Lead",
+        "Sr. Developer"
+    ],
+    "experience": null,
+    "company_names": [
+        "TCS",
+        "NIIT Technologies Ltd.",
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

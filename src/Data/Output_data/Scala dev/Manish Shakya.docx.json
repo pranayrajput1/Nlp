@@ -1,0 +1,54 @@
+{
+    "name": "Name:",
+    "email": "manishshakya1997@gmail.com",
+    "mobile_number": "7531936538",
+    "skills": [
+        "Hive",
+        "Technical",
+        "Analysis",
+        "Python",
+        "Testing",
+        "Windows",
+        "Money",
+        "Agile",
+        "Email",
+        "Scheduling",
+        "Sql",
+        "Hadoop",
+        "Scala",
+        "Investigation",
+        "Risk assessment",
+        "Queries",
+        "Pandas",
+        "Architecture",
+        "Jira",
+        "Design",
+        "Ibm",
+        "Certification",
+        "Numpy",
+        "Conversion",
+        "Sdlc",
+        "Spark",
+        "Unix",
+        "System",
+        "English",
+        "Software development life cycle",
+        "Database",
+        "Banking",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": [
+        "Degree and Date Institute University Percentage BSC (H )"
+    ],
+    "designation": [
+        "Assistant System Engineer",
+        "Scala| Hadoop developer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Tata Consultancy Services Ltd"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

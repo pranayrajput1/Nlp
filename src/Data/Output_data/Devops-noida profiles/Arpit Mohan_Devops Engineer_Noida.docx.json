@@ -1,0 +1,42 @@
+{
+    "name": "Name of the",
+    "email": "amsmzn@gmail.com",
+    "mobile_number": "9599924852",
+    "skills": [
+        "Networking",
+        "Consulting",
+        "Technical",
+        "Docker",
+        "Analytical",
+        "Cloud",
+        "Shell",
+        "Testing",
+        "Servers",
+        "Project management",
+        "Email",
+        "Administration",
+        "Writing",
+        "Electronics",
+        "Access",
+        "Schedule",
+        "Communication",
+        "Security",
+        "Ansible",
+        "Aws",
+        "English",
+        "Troubleshooting",
+        "Java",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.tech in Electronics and Communication Graduated\u00a0\u2013 Sharda University"
+    ],
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

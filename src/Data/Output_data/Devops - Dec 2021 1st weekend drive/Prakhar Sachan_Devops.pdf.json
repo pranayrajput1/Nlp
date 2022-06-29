@@ -1,0 +1,49 @@
+{
+    "name": "Prakhar Sachan",
+    "email": "psprakharsachan4@gmail.co",
+    "mobile_number": "9410497585",
+    "skills": [
+        "Scripting",
+        "Aws",
+        "Servers",
+        "Automation",
+        "Design",
+        "Agile",
+        "Docker",
+        "System",
+        "English",
+        "Ansible",
+        "Engineering",
+        "Java",
+        "Shell",
+        "Installation",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech (CSE)"
+    ],
+    "designation": [
+        "GIT",
+        "DevOps Engineer",
+        "Deployed various Machine Learning Models in Kubernetes ."
+    ],
+    "experience": [
+        "DevOps Engineer",
+        "ElectrifAi",
+        "07/2021 - Present,",
+        "Project - Department of Culture and Tourism Dubai (DCT)",
+        "Achievements/Tasks",
+        "Integrated Con\ufb02uent Schema Registry in Kafka .",
+        "Provisioned Infrastructure by Terragrunt in GitLab .",
+        "linkedin.com/in/imprakharsac",
+        "han",
+        "Deployed new version of application in Kubernetes with zero downtime .",
+        "Deployed various Machine Learning Models in Kubernetes ."
+    ],
+    "company_names": [
+        "Tata Consultancy Services"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

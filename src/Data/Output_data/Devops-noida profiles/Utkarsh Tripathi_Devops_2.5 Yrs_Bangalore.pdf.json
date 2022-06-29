@@ -1,0 +1,56 @@
+{
+    "name": "Utkarsh Tripathi",
+    "email": "uutkarsh.utkarsh@gmail.com",
+    "mobile_number": "9793868882",
+    "skills": [
+        "Scripting",
+        "Programming",
+        "Networking",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Technical skills",
+        "Cloud",
+        "Shell",
+        "Python",
+        "Servers",
+        "Automation",
+        "Testing",
+        "Windows",
+        "Strategy",
+        "Project management",
+        "Access",
+        "Schedule",
+        "Communication",
+        "Ansible",
+        "Aws",
+        "Github",
+        "Unix",
+        "System",
+        "Troubleshooting",
+        "Engineering",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "PROFESSIONAL EXPERIENCE",
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Ability to troubleshoot the issues generated while building, deploying and in",
+        "production support and schedule and run tasks in background using Crontab.",
+        "Configuring Jenkins job with related plugins for Testing, Artifactory, and Continuous",
+        "Deployment to accomplish the complete CI/CD using Jenkins file for building Pipeline.",
+        "Integrating Unit tests and Code Quality Analysis Tools like SonarQube."
+    ],
+    "company_names": [
+        "Amazon",
+        "\uf073",
+        "INFOSYS"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

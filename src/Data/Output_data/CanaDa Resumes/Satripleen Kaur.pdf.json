@@ -1,0 +1,52 @@
+{
+    "name": "SATRIPLEEN KAUR",
+    "email": "s98kaur@uwaterloo.ca",
+    "mobile_number": "647-765-7507",
+    "skills": [
+        "Java",
+        "Css",
+        "Analysis",
+        "Operations",
+        "Testing",
+        "Python",
+        "Javascript",
+        "Automation",
+        "Html",
+        "Reports",
+        "Jira",
+        "Api",
+        "Nosql",
+        "Aws",
+        "Electrical",
+        "Algorithms",
+        "System",
+        "Mysql",
+        "Database",
+        "Rest",
+        "Engineering",
+        "Apis"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachlor's of Engineering : Electrical And Computer Engineering",
+        "Master of Engineering: Electrical And Computer Engineering  \nUniversity Of Waterloo - Waterloo \nGPA: 3.88/4"
+    ],
+    "designation": null,
+    "experience": [
+        "\u2022  Worked at Siemens in a substation automation project. Was responsible to understand the requirements of clients and work along",
+        "with electrical designers to develop scripts and backend application in springBoot for basic CRUD operations. I was the sole",
+        "member in the team working on development and testing of the java application.",
+        "\u2022  Developed api testing modules on SoapUI to test REST APIs  created on SpringBoot . Created test scripts and relevant data on",
+        "database to test features. Tracked bugs on Jira on routinely basis.",
+        "\u2022  Was part of bug fixing on day to day basis. Used SonarQube static analyser to test my java code for bad practices.",
+        "\u2022  Created AWS lambda functions, to copy data from S3 bucket (on addition of new file) to DynamoDB.",
+        "\u2022  Constantly communicated with the client to understand the requirements and demo the project at the end of sprint."
+    ],
+    "company_names": [
+        "Siemens",
+        "Amazon",
+        "Siemens Limited"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Chiranjeev Satapathy",
+    "email": "chiranjeevsatapathy1997@gmail.com",
+    "mobile_number": "9938095464",
+    "skills": [
+        "Consulting",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Cloud",
+        "Lifecycle",
+        "Python",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Apis",
+        "Agile",
+        "Logging",
+        "Email",
+        "Writing",
+        "Dns",
+        "Security",
+        "Ansible",
+        "Architecture",
+        "Jira",
+        "Policies",
+        "Aws",
+        "Reporting",
+        "Github",
+        "System",
+        "English",
+        "Database",
+        "Java",
+        "Linux",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": [
+        "B. Tech (bachelor technology) from SOA University"
+    ],
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Amazon",
+        "AWS",
+        "AWS Lambda"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

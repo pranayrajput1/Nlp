@@ -1,0 +1,37 @@
+{
+    "name": "Manisha Pisal",
+    "email": "pisalmanisha3003@gmail.com",
+    "mobile_number": "9307541585",
+    "skills": [
+        "Programming",
+        "Technical",
+        "Analysis",
+        "Flask",
+        "Cloud",
+        "Python",
+        "Marketing",
+        "Strategy",
+        "Matplotlib",
+        "Pandas",
+        "Finance",
+        "Numpy",
+        "Nosql",
+        "Aws",
+        "Algorithms",
+        "System",
+        "Machine learning",
+        "Mysql",
+        "Database",
+        "Seaborn",
+        "Engineering"
+    ],
+    "college_name": null,
+    "degree": [
+        "BSC. Computer Science| Pune University"
+    ],
+    "designation": null,
+    "experience": [],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

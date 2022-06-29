@@ -1,0 +1,63 @@
+{
+    "name": "Maisa Venkatesh",
+    "email": "venkydevops53@gmail.com",
+    "mobile_number": "8688549256",
+    "skills": [
+        "Scripting",
+        "Technical",
+        "Docker",
+        "Technical skills",
+        "Engineering",
+        "Website",
+        "Cloud",
+        "Shell",
+        "Testing",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Marketing",
+        "Email",
+        "Writing",
+        "Administration",
+        "Access",
+        "Debugging",
+        "Security",
+        "Ansible",
+        "Architecture",
+        "Reports",
+        "Jira",
+        "Policies",
+        "Aws",
+        "Github",
+        "Unix",
+        "System",
+        "Redhat",
+        "Troubleshooting",
+        "Java",
+        "Linux",
+        "Operations",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DevOps Engineer",
+        "Repository Manager",
+        "Version Control Tools"
+    ],
+    "experience": [
+        "\u2022 Making build and deployment automation enhancements, fixing bugs.",
+        "\u2022 Good Interpersonal Skills, team-working attitude, takes initiatives and very proactive in solving",
+        "problems and providing best solutions.",
+        "ENVIRONMENT:",
+        "AWS EC2,Terraform, Autoscaling, cloudwatch, S3, SNS, Auto Scalling, Load Balancing VPC,",
+        "Redhat, Ansible, Apache Tomcat, SonarQube, Nexus Repository, Nagios, Jenkins, Maven,",
+        "GIT/GitHub,Node.js."
+    ],
+    "company_names": [
+        "Amazon",
+        "Shell Scripting"
+    ],
+    "no_of_pages": 4,
+    "total_experience": 0.0
+}

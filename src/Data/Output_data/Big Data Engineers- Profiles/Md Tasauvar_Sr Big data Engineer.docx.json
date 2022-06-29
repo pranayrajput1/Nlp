@@ -1,0 +1,39 @@
+{
+    "name": "MD TASAUVAR Personal",
+    "email": "mdtasauvar@gmail.com",
+    "mobile_number": "7736227524",
+    "skills": [
+        "Scripting",
+        "Hive",
+        "Technical",
+        "Shell",
+        "Python",
+        "Servers",
+        "Windows",
+        "Agile",
+        "Email",
+        "Writing",
+        "Sql",
+        "Hadoop",
+        "Scala",
+        "C",
+        "Db2",
+        "Spark",
+        "Unix",
+        "Pyspark",
+        "System",
+        "Mysql",
+        "Engineering",
+        "Linux",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "IT Analyst"
+    ],
+    "experience": null,
+    "company_names": null,
+    "no_of_pages": null,
+    "total_experience": 0
+}

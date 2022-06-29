@@ -1,0 +1,43 @@
+{
+    "name": "Akshay Mahajan",
+    "email": "akmahajan16@gmail.com",
+    "mobile_number": "7507507101",
+    "skills": [
+        "Scala",
+        "Testing",
+        "Programming",
+        "Javascript",
+        "Java",
+        "Windows",
+        "Html",
+        "Technical",
+        "Agile",
+        "Css",
+        "Scrum",
+        "System",
+        "Writing",
+        "English",
+        "Rest",
+        "Design",
+        "Research",
+        "Json"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.E Computer Technology  \n\nJuly, 2011 \u2013 July, 2015"
+    ],
+    "designation": [
+        "Software Developer",
+        "SPRINGER NATURE"
+    ],
+    "experience": [
+        "\u2022  Experienced in using front end technology stack like HTML 5, CSS 3, SCSS,",
+        "JavaScript and jQuery.",
+        "\u2022  Skilled in applying advanced Functional-programming concepts while writing",
+        "code.",
+        "Page 2"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}
