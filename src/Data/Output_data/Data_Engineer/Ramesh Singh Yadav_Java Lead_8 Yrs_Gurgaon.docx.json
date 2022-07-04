@@ -1,0 +1,60 @@
+{
+    "name": "Ramesh Singh Yadav",
+    "email": "rameshsinghyadav@gmail.com",
+    "mobile_number": "8586968256",
+    "skills": [
+        "Consulting",
+        "Os",
+        "Billing",
+        "Servers",
+        "Schedule",
+        "Communication",
+        "Web services",
+        "Access",
+        "Linux",
+        "Javascript",
+        "Governance",
+        "Testing",
+        "Oracle",
+        "Inventory",
+        "Windows",
+        "Sql",
+        "Process",
+        "Java",
+        "Threading",
+        "Rest",
+        "Reporting",
+        "Crm",
+        "Logging",
+        "Invoices",
+        "Higher education",
+        "Api",
+        "Telecom",
+        "International",
+        "Html",
+        "Administration",
+        "Database",
+        "Mobile",
+        "Reports",
+        "Mysql",
+        "System",
+        "Distribution",
+        "Soap",
+        "Ui"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Sc. from VBSP University",
+        "Masters of Computer Application (MCA)"
+    ],
+    "designation": [
+        "Software Developer",
+        "Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

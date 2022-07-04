@@ -1,0 +1,45 @@
+{
+    "name": "RAKESH KUMAR",
+    "email": "rkshsahoo1994@gmail.com",
+    "mobile_number": "8984213407",
+    "skills": [
+        "Pytorch",
+        "Analytics",
+        "Machine learning",
+        "Scipy",
+        "Numpy",
+        "Sql",
+        "Process",
+        "Excel",
+        "Datasets",
+        "Xgboost",
+        "Tensorflow",
+        "Matplotlib",
+        "Risk management",
+        "Keras",
+        "Pandas",
+        "Python",
+        "Ibm",
+        "Database",
+        "Aws",
+        "Pycharm",
+        "Programming",
+        "Tableau",
+        "Mysql",
+        "Pyspark",
+        "Certification",
+        "Analytical",
+        "English"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "B. TECH"
+    ],
+    "experience": [
+        "Currently working as Data Scientist at WebLite Technology from Mar 2018 till Date."
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

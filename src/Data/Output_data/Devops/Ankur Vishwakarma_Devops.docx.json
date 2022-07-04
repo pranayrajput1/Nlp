@@ -1,0 +1,44 @@
+{
+    "name": "Ankur Vishvkarma",
+    "email": "ankurvis88@gmail.com",
+    "mobile_number": "9911040714",
+    "skills": [
+        "Servers",
+        "Payroll",
+        "Linux",
+        "Docker",
+        "Jira",
+        "Policies",
+        "Cloud",
+        "Logging",
+        "Technical",
+        "Python",
+        "Administration",
+        "Aws",
+        "Scripting",
+        "Troubleshooting",
+        "Migration",
+        "Ansible",
+        "Github",
+        "Ubuntu",
+        "Certification",
+        "Reports"
+    ],
+    "college_name": null,
+    "degree": [
+        "Master of Computer Application. Bachelor of Computer Application. Intermediate"
+    ],
+    "designation": [
+        "Site Reliability Engineer",
+        "SR Software Engineer",
+        "Senior Devops Associate",
+        "Linux Administrator /AWS"
+    ],
+    "experience": [],
+    "company_names": [
+        "AWS Technology (E.G Ec2",
+        "Agiliad Technology PVT LTD"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0.0
+}

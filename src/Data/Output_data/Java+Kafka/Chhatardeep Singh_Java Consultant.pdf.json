@@ -1,0 +1,54 @@
+{
+    "name": "Chhatardeep Singh",
+    "email": "chhatardeepsingh0013@gmail.com",
+    "mobile_number": "302002 9680",
+    "skills": [
+        "Coding",
+        "Sql",
+        "Asset management",
+        "Health",
+        "Java",
+        "Visual",
+        "Html",
+        "Rest",
+        "Writing",
+        "Javascript",
+        "Transactions",
+        "Design",
+        "System",
+        "Documentation",
+        "Debugging",
+        "Testing",
+        "Ui",
+        "Jira"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology"
+    ],
+    "designation": [
+        "Associate Software Developer",
+        "Customer Care Executive"
+    ],
+    "experience": [
+        "50 Hertz Private Limited",
+        "Associate Software Developer",
+        "Develop coding and design tasks to ensure software meets speci\ufb01ed performance and reliability",
+        "requirements.\u00a0Working\u00a0on technologies like microservice, spring boot, mongoDb, Kafka,",
+        "Junit, javascript.",
+        "March 2019 - Present",
+        "Teleperformance India",
+        "Customer Care Executive",
+        "Answer calls professionally to provide information about products and",
+        "services, cancel orders, or obtain details of complaints. Keep records",
+        "of\u00a0customer\u00a0interactions and transactions, recording details of inquiries,",
+        "complaints, and comments, as well as actions taken.",
+        "September 2017 - October 2018",
+        "2008",
+        "2011",
+        "2016"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 4.42
+}

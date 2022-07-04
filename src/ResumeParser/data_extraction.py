@@ -30,7 +30,12 @@ def batch_resume_extraction(inp_dirc,out_dirc):
             nested_dict = {}
             dirc_log = open("Directory.log", "w")
             for dir in dirs:
-                lst = []
+                skills_lst = []
+                name_lst = []
+                email_lst = []
+                phone_lst = []
+                file_lst = []
+                dir_lst = []
                 input_filepath = os.path.join(inp_dirc, dir)
                 output_filepath = os.path.join(out_dirc, dir)
                 dirc_log.write(str(input_filepath) + os.linesep)
@@ -40,12 +45,21 @@ def batch_resume_extraction(inp_dirc,out_dirc):
                         file_log.write(str(resume_file) + os.linesep)
                         data = ResumeParser(os.path.join(input_filepath, resume_file)).get_extracted_data() #Getting the extracted data in a dict using pyreparser
                         skill_list = data['skills']
-                        out_file = open(os.path.join(output_filepath,resume_file + ".json"), "w")
+                        name = data['name']
+                        email = data["email"]
+                        mobile_number = data["mobile_number"]
+                        file_name = resume_file
+                        out_file = open(os.path.join(output_filepath, resume_file + ".json"), "w")
                         json.dump(data, out_file, indent=4, sort_keys=False)
                         out_file.close()
-                        lst.append(skill_list)
-                dict = {dir: lst}
-                nested_dict.update(dict)
+                        skills_lst.append(skill_list)
+                        name_lst.append(name)
+                        email_lst.append(email)
+                        phone_lst.append(mobile_number)
+                        file_lst.append(file_name)
+                        dir_lst.append(dir)
+                dict = {"Name": name_lst, "Email_ID": email_lst, "Phone_Number": phone_lst, "File_Name": file_lst, "Deptartment": dir_lst, "Skills": skills_lst}
+                nested_dict.update({dir: dict})
             return nested_dict
     except Exception as e:
         print(e)
@@ -54,12 +68,13 @@ def batch_resume_extraction(inp_dirc,out_dirc):
 def generate_dataset(INPUT_DIRECTORY, OUTPUT_DIRECTORY):
     nested_list = batch_resume_extraction(INPUT_DIRECTORY, OUTPUT_DIRECTORY)
     skill_df = pd.DataFrame.from_dict(nested_list, orient='index')
-    skill_df = skill_df.stack().reset_index()
-    skill_df.rename(columns={'level_0': "Department", 0:"Skills"}, inplace=True)
-    skill_df = skill_df.drop(['level_1'], axis = 1)
+    copy_skill_df = skill_df.copy()
     skill_df['Skills'] = skill_df['Skills'].astype(str).str.replace('[', '')
     skill_df['Skills'] = skill_df['Skills'].astype(str).str.replace(']', '')
     skill_df['Skills'] = skill_df['Skills'].astype(str).str.replace("'", '')
-    skill_df['Skills'] = skill_df['Skills'].astype(str).str.replace(",", '')
-    skill_df.to_csv("dataset.csv", index=False)
-    return skill_df
+    skill_df.to_csv("union_skill_dataset.csv", index=False)
+
+    result_df = copy_skill_df.explode(['Name', 'Email_ID', 'Phone_Number', 'File_Name', 'Deptartment', 'Skills'])
+    results_df = result_df.dropna(subset=['Skills'])
+    results_df.to_csv("DataSet.csv", index=False)
+    return results_df

@@ -1,0 +1,47 @@
+{
+    "name": "Anmol Gupta",
+    "email": "anmolgupta23021997@gmail.com",
+    "mobile_number": "2302199",
+    "skills": [
+        "Swift",
+        "Scala",
+        "Engineering",
+        "Django",
+        "Docker",
+        "Testing",
+        "Jira",
+        "Sql",
+        "Java",
+        "Content",
+        "Cloud",
+        "Rest",
+        "Apis",
+        "Api",
+        "Python",
+        "Database",
+        "Design",
+        "Aws",
+        "Spark",
+        "Programming",
+        "Agile",
+        "Github",
+        "System"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology (EC)"
+    ],
+    "designation": [
+        "Software Developer",
+        "Software Engineer"
+    ],
+    "experience": [
+        "in GitHub, Jenkins and Jira."
+    ],
+    "company_names": [
+        "MAN Energy Solutions",
+        "NIIT Limited"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

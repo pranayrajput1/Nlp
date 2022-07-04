@@ -1,0 +1,51 @@
+{
+    "name": "VINOD YEOLE",
+    "email": "Yeolevinod89@gmail.com",
+    "mobile_number": "7588687505",
+    "skills": [
+        "Linux",
+        "Docker",
+        "Installation",
+        "Windows",
+        "Word",
+        "Cloud",
+        "Technical",
+        "Cms",
+        "Automation",
+        "Aws",
+        "Presentation",
+        "Troubleshooting",
+        "Training",
+        "Migration",
+        "Ansible",
+        "Ubuntu",
+        "Certification",
+        "Operating systems",
+        "System",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Sc"
+    ],
+    "designation": [
+        "DevOps Engineer",
+        "Support Engineer"
+    ],
+    "experience": [
+        "Company: Magna Infotech (Client Atos)",
+        "Designation: Support Engineer",
+        "Period: June 2015 to Aug 2016.",
+        "Skill Set:",
+        "\u27a2 Operating System: Ubuntu 16, Centos 6.",
+        "\u27a2 Configuration Management: Ansible.",
+        "\u27a2 Monitoring: New Relic, Cloud Watch.",
+        "\u27a2 Cloud Technology: AWS, Azure",
+        "Linux Hands-on:",
+        "\u27a2 Linux server Red Hat 6 & 7 installation",
+        "\u27a2 User File Folder Permission"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 1.17
+}

@@ -1,0 +1,71 @@
+{
+    "name": "Zainab Arshiya",
+    "email": "zainab.arshiya@gmail.com",
+    "mobile_number": "831-3159",
+    "skills": [
+        "Os",
+        "Servers",
+        "C++",
+        "Communication",
+        "Engineering",
+        "C",
+        "Linux",
+        "Javascript",
+        "Testing",
+        "Jira",
+        "Oracle",
+        "Sql",
+        "Windows",
+        "Java",
+        "Rest",
+        "Jsp",
+        "Analysis",
+        "Technical",
+        "Apis",
+        "Email",
+        "Json",
+        "Html",
+        "Design",
+        "Database",
+        "Unix",
+        "Scrum",
+        "Mobile",
+        "Security",
+        "Jose",
+        "Architecture",
+        "Programming",
+        "Mysql",
+        "Advertising",
+        "Agile",
+        "Css",
+        "Documentation",
+        "System",
+        "Xml",
+        "Ui"
+    ],
+    "college_name": null,
+    "degree": [
+        "BACHELOR OF ENGINEERING, COMPUTER SCIENCE"
+    ],
+    "designation": [
+        "Software Developer",
+        "Junior Software Engineer"
+    ],
+    "experience": [
+        "Participated in extensive code reviews.",
+        "Java Developer Intern",
+        "MAGNA INFOTECH, HYDERABAD, IN",
+        "2012-01 - 2012-04",
+        "Developed a Computer Adaptive Testing application that provides online examination where the exams di\ufb03culty tailors",
+        "itself based on performance of the examinee.",
+        "As a developer intern, I have developed Web pages using JSP, Java Scripts and HTML. Implemented Server- side",
+        "programming using Servlets.",
+        "Developed and designed database tables for the system. Obtained good knowledge of Relational Databases."
+    ],
+    "company_names": [
+        "WIDE REACH ADVERTISING PVT LTD",
+        "Oracle"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

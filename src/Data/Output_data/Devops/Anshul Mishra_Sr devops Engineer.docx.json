@@ -1,0 +1,50 @@
+{
+    "name": "RESUME NAME",
+    "email": "anshulmishraaws@gmail.com",
+    "mobile_number": "9180853049",
+    "skills": [
+        "Servers",
+        "Access",
+        "Linux",
+        "Docker",
+        "Config",
+        "Vmware",
+        "Jira",
+        "Installation",
+        "Data center",
+        "Policies",
+        "Windows",
+        "Dns",
+        "Cloud",
+        "Cisco",
+        "Crm",
+        "Technical",
+        "Operations",
+        "Networking",
+        "Database",
+        "Active directory",
+        "Aws",
+        "Network configuration",
+        "Troubleshooting",
+        "Mobile",
+        "Hardware",
+        "Mysql",
+        "Migration",
+        "Ansible",
+        "System",
+        "Scheduling",
+        "Dhcp",
+        "English"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "System Administrator"
+    ],
+    "experience": null,
+    "company_names": [
+        "Anshul Mishra"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

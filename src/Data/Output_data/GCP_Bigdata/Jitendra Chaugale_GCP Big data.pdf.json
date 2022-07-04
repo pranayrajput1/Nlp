@@ -1,0 +1,65 @@
+{
+    "name": "JITENDRA CHAUGALE",
+    "email": "Chougalejitendra09@gmail.com",
+    "mobile_number": "8668224859",
+    "skills": [
+        "Specifications",
+        "Retail",
+        "Health",
+        "Sdlc",
+        "Healthcare",
+        "Microsoft excel",
+        "Communication",
+        "Hospital",
+        "Engineering",
+        "Linux",
+        "Conversion",
+        "Etl",
+        "Oracle",
+        "Sql",
+        "Windows",
+        "Excel",
+        "Java",
+        "Sql server",
+        "Shell",
+        "Cloud",
+        "Warehouse",
+        "Reporting",
+        "Analysis",
+        "Operations",
+        "Database",
+        "Programming",
+        "Migration",
+        "Agile",
+        "Writing",
+        "System",
+        "Pl/sql",
+        "Analytical",
+        "Reports"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE Computer Engineering from"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "\u25cf  May 2016 | BE Computer Engineering from Sinhgad College of Engineering, Pune with 61.17%.",
+        "\u25cf  May 2013 | Diploma with 81.25%",
+        "\u25cf  March 2010 | SSC with 75.45%",
+        "Academic Project:",
+        "Project: Indoor Location Tracking System (B.E)",
+        "Responsibilities:",
+        "\u25cf  Database handling.",
+        "\u25cf  Algorithm Integration.",
+        "Key Highlights:",
+        "The system uses Wi-Fi signals and a Trilateration algorithm for calculating the position of user and",
+        "navigating the user to its destination."
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

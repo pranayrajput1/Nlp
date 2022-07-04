@@ -1,0 +1,33 @@
+{
+    "name": "Satyam Dubey",
+    "email": "satyam15032@gmail.com",
+    "mobile_number": "9717279509",
+    "skills": [
+        "Sql",
+        "Api",
+        "Java",
+        "Android",
+        "Engineering",
+        "Agile",
+        "Cloud",
+        "Rest",
+        "Lifecycle",
+        "Aws",
+        "Docker",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology\nABES Engineering College Ghaziabad\n07/2015 \u2013 06/2019"
+    ],
+    "designation": [
+        "Reading Books",
+        "Software Engineer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Microsoft Azure"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

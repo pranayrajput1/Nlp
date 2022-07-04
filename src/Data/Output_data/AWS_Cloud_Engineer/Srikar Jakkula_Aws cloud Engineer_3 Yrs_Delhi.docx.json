@@ -1,0 +1,61 @@
+{
+    "name": "Name of the Candidate",
+    "email": "srikariam49@gmail.com",
+    "mobile_number": "9502991249",
+    "skills": [
+        "Consulting",
+        "Billing",
+        "Servers",
+        "Health",
+        "Engineering",
+        "Access",
+        "Linux",
+        "Docker",
+        "Vmware",
+        "Jira",
+        "Oracle",
+        "Windows",
+        "Process",
+        "Java",
+        "Shell",
+        "Pharmacy",
+        "Cloud",
+        "Operations",
+        "Networking",
+        "Email",
+        "Python",
+        "Automation",
+        "Database",
+        "Unix",
+        "Aws",
+        "Scripting",
+        "Security",
+        "Protocols",
+        "Mysql",
+        "Migration",
+        "Ansible",
+        "Payments",
+        "Agile",
+        "Ubuntu",
+        "Sales",
+        "Operating systems",
+        "System",
+        "Reports",
+        "Mechanical engineering"
+    ],
+    "college_name": null,
+    "degree": [
+        "Tech in Mechanical Engineering"
+    ],
+    "designation": [
+        "DevOps Engineer",
+        "Associate Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Accenture",
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

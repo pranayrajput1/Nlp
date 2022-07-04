@@ -1,0 +1,48 @@
+{
+    "name": "DevOps Consultant",
+    "email": "vaddepellisridhar9494@gmail.com",
+    "mobile_number": "8106543845",
+    "skills": [
+        "Os",
+        "Servers",
+        "Engineering",
+        "Linux",
+        "Lifecycle",
+        "Docker",
+        "Testing",
+        "Config",
+        "Windows",
+        "Process",
+        "Policies",
+        "Shell",
+        "Cloud",
+        "Analysis",
+        "Metrics",
+        "Email",
+        "Python",
+        "Automation",
+        "Aws",
+        "Unix",
+        "Scrum",
+        "Scripting",
+        "Security",
+        "Architecture",
+        "Ansible",
+        "Agile",
+        "Github",
+        "Ubuntu",
+        "Controls",
+        "Yaml"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DevOps Engineer Wallis Technology Solutions Pvt Ltd."
+    ],
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

@@ -1,0 +1,41 @@
+{
+    "name": "ANKITA KUMARI",
+    "email": "ankita.kumari11100322@gmail.com",
+    "mobile_number": "9142511145",
+    "skills": [
+        "Scripting",
+        "Email",
+        "Python",
+        "Workflow",
+        "Ansible",
+        "Shell",
+        "Linux",
+        "Cloud",
+        "Automation",
+        "System",
+        "Aws",
+        "Debugging",
+        "Docker",
+        "Config",
+        "English",
+        "Troubleshooting"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Hands-on knowledge of software containerization platforms like Docker and container orchestration",
+        "tools like Kubernetes and Docker Compose.",
+        "Hands on expereince in troubleshooting and debugging Linux issues.",
+        "Good knowledge and hands on in Python Scripting.",
+        "Skill Highlights",
+        "\u2022",
+        "Jenkins",
+        "\u2022  Ansible",
+        "\u2022  Kubernete",
+        "\u2022  Python"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

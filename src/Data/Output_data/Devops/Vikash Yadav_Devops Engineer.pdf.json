@@ -1,0 +1,51 @@
+{
+    "name": "VIKASH YADAV",
+    "email": "vikashyadava51@gmail.com",
+    "mobile_number": "7985685120",
+    "skills": [
+        "Servers",
+        "Improvement",
+        "Automation",
+        "Ansible",
+        "Cloud",
+        "System",
+        "Aws",
+        "Scripting"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.C.A"
+    ],
+    "designation": [
+        "Senior DevOps Engineer",
+        "infrastructure incidents",
+        "System administrator",
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Senior DevOps Engineer",
+        "SageNext Infotech Pvt ltd",
+        "August 2019 - current / Noida",
+        "and con\ufb01gurations in our public AWS and Third Party cloud environment",
+        "\u00b7 Worked on and supports automated builds, deployments, validations,",
+        "\u00b7 Owned production alerts and acted as the point of contact for all",
+        "\u00b7 Implemented and maintained Continuous Integration/Continuous",
+        "Delivery systems leading to an improvement in the time to ship new",
+        "feature releases",
+        "infrastructure incidents",
+        "\u00b7 Worked on and supports automated update across 350+ Server",
+        "\u00b7 Develop automation processes to enable teams to deploy, manage,",
+        "con\ufb01gure, scale and monitor their applications through the use of tooling",
+        "or scripting reducing the time to get features in production",
+        "System administrator",
+        "Ica Pvt ltd",
+        "march 2018 - july 2019 / Gorakhpur",
+        "network infrastructure resulting in an uptime of 99.99%"
+    ],
+    "company_names": [
+        "Ica Pvt ltd",
+        "SageNext Infotech Pvt ltd"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 1.33
+}

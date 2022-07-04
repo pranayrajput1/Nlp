@@ -1,0 +1,45 @@
+{
+    "name": "Shubham Gogawale",
+    "email": "Shubhamgogawale30@gmail.com",
+    "mobile_number": "9370026147",
+    "skills": [
+        "Sdlc",
+        "Schedule",
+        "Access",
+        "Merchant",
+        "System",
+        "Docker",
+        "Testing",
+        "Java",
+        "Rest",
+        "Analysis",
+        "Technical",
+        "Apis",
+        "Information technology",
+        "Design",
+        "Scrum",
+        "Coding",
+        "Security",
+        "Architecture",
+        "Mysql",
+        "Agile",
+        "Saas",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology (CS)",
+        "Diploma in Computers"
+    ],
+    "designation": [
+        "Spring Security",
+        "JAVA Developer"
+    ],
+    "experience": [],
+    "company_names": [
+        "JWT / Oauth",
+        "Azure Vault"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

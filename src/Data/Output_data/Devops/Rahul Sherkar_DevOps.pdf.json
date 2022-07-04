@@ -1,0 +1,55 @@
+{
+    "name": "RAHUL SHERKAR",
+    "email": "Rahulsherkar5138@gmail.com",
+    "mobile_number": "8788588936",
+    "skills": [
+        "Engineering",
+        "Linux",
+        "Docker",
+        "Website",
+        "Installation",
+        "Shell",
+        "Cloud",
+        "Apis",
+        "Email",
+        "Automation",
+        "Administration",
+        "Design",
+        "Cloud management",
+        "Aws",
+        "Scripting",
+        "Troubleshooting",
+        "Security",
+        "Architecture",
+        "Ansible",
+        "System",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Engineering \u201cFirst class with Distinction\u201d"
+    ],
+    "designation": [
+        "System Administrator",
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Neutrino Tech Systems - DevOps Engineer",
+        "Feb 2021 \u2013 Present",
+        "Interaction with client for requirement gathering.",
+        "Solution design and development. Working as a SRE.",
+        "Minitek systems PVT LTD -System Engineer",
+        "March 2019 \u2013 June 2020",
+        "Involved  in  project  setup  activity.  Interaction  with  client  for  requirement",
+        "understanding & simplification.",
+        "Cloud Solution design, CICD development and Automation task.",
+        "Cravita technologies: - System Administrator",
+        "Aug 2017 \u2013 March 2019"
+    ],
+    "company_names": [
+        "Microsoft",
+        "Minitek systems PVT LTD"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 4.25
+}

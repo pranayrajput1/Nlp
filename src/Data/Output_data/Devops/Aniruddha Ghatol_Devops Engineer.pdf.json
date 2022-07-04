@@ -1,0 +1,40 @@
+{
+    "name": "Aniruddha Ghatol",
+    "email": "aniruddha5300@gmail.com",
+    "mobile_number": "8308401393",
+    "skills": [
+        "Communication",
+        "Engineering",
+        "Docker",
+        "Testing",
+        "Java",
+        "Shell",
+        "Cloud",
+        "Operations",
+        "Email",
+        "Python",
+        "Automation",
+        "Administration",
+        "Database",
+        "Design",
+        "Unix",
+        "Aws",
+        "Scripting",
+        "Mysql",
+        "Ansible",
+        "Github"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Associate",
+        "HotelKey India Pvt Ltd",
+        "Shell"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0
+}

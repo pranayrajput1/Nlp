@@ -1,0 +1,58 @@
+{
+    "name": "Akshita Sharma",
+    "email": "akshita22.sharma@gmail.com",
+    "mobile_number": "7500003139",
+    "skills": [
+        "Servers",
+        "Engineering",
+        "Linux",
+        "Docker",
+        "Installation",
+        "Jira",
+        "Windows",
+        "Ios",
+        "Shell",
+        "Cloud",
+        "Logging",
+        "Open source",
+        "Android",
+        "Strategy",
+        "Aws",
+        "Troubleshooting",
+        "Mobile",
+        "Tableau",
+        "Migration",
+        "Workflows",
+        "Ansible",
+        "Agile",
+        "Documentation",
+        "Reports",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "BTech in Computer Science Engineering"
+    ],
+    "designation": [
+        "Associate Consultant",
+        "Software Engineer",
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Branch creation in SVN from a revision.",
+        "AWARDS & ACHIEVEMENTS",
+        "STAR Award (04/2019)",
+        "Special Thanks and Recognition Award",
+        "Migrated Jenkins from one Linux server to another Linux server.",
+        "Migrated Nagios from legacy environment to AWS cloud.",
+        "Worked on integration of Gerrit and SonarQube jobs for Xamarin framework and displayed",
+        "the result on sonar dashboard.",
+        "SSL certificate upgrade on tableau server, GAE projects, websites and applications, server",
+        "side for Apache and jetty Service."
+    ],
+    "company_names": [
+        "Capgemini Pvt Ltd"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

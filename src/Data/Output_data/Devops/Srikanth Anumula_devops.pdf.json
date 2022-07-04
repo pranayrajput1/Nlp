@@ -1,0 +1,62 @@
+{
+    "name": "Srikanth Anumula",
+    "email": "srikanth.anumula975@gmail.com",
+    "mobile_number": "7989966781",
+    "skills": [
+        "Servers",
+        "Engineering",
+        "Access",
+        "Linux",
+        "Docker",
+        "Oracle",
+        "Windows",
+        "Process",
+        "Sql",
+        "Content",
+        "Shell",
+        "Cloud",
+        "Email",
+        "Automation",
+        "Design",
+        "Database",
+        "Aws",
+        "Security",
+        "Architecture",
+        "Ansible",
+        "Github",
+        "Ubuntu",
+        "Writing",
+        "System"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "System Engineer",
+        ": Devops Engineer"
+    ],
+    "experience": [
+        "\u25cf Deployed applications to Tomcat Application server and static content to Apache web servers.",
+        "\u25cf Good understanding of security groups and configured different groups to access EC2 Console.",
+        "\u25cf Involved in monitoring of Cloud environments using Cloud Watch and respond to alerts.",
+        "\u25cf Involved in on-boarding applications for release management using Jenkins.",
+        "\u25cf Created Components, Resources, and Applications and group all configurations using Jenkins.",
+        "\u25cf Involved in Process Flow Design for performing release activities using Jenkins.",
+        "\u25cf Involved in to Build Activities using different build tools like Maven",
+        "\u25cf Having good understanding of ANSIBLE DK, ANSIBLE Server, and ANSIBLE Client.",
+        "\u25cf Involved in automating the release process to both production and non-production environments.",
+        "\u25cf Supported setting up of various environments in multi-tier architecture involving load balancers,",
+        "Apache webservers, Oracle database.",
+        "\u25cf Involved in resolving tickets with different SLAs like P1, P2, P3 and P4.",
+        "\u25cf Deploying applications using different deployment strategies like Stage, No Stage and External",
+        "stage.",
+        "Declaration:",
+        "I hereby declare that all above mentioned details are true, correct and complete to the best of my knowledge.",
+        "Date:",
+        "Place: Hyderabad"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

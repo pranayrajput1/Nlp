@@ -1,0 +1,59 @@
+{
+    "name": "Vineet Sajwan",
+    "email": "vin94sajwan@gmail.com",
+    "mobile_number": "8376014269",
+    "skills": [
+        "Hive",
+        "Analytics",
+        "R",
+        "Engineering",
+        "Machine learning",
+        "Kpi",
+        "Django",
+        "Testing",
+        "Market research",
+        "Rest",
+        "Plan",
+        "Analysis",
+        "Technical",
+        "Algorithms",
+        "Research",
+        "Api",
+        "Python",
+        "Strategy",
+        "Mining",
+        "Scripting",
+        "Modeling",
+        "Mysql",
+        "Pyspark",
+        "Sales",
+        "Certification",
+        "Statistics",
+        "Business issues"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology,Computer Science\nEngineering",
+        "Post Graduation Diploma in Big Data\nAnalytics\nCentre for Development of Advanced"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "Learning,Statistical Modelling",
+        "CERTIFICATION",
+        "Microsoft Certi\ufb01ed: Azure Data Scientist Associate",
+        "(01/2020 - 01/2022)",
+        "Exam DP-100: Designing and Implementing a Data Science Solution on",
+        "Azure",
+        "This exam measures candidate\u2019s ability to accomplish the following",
+        "technical tasks: de\ufb01ne and prepare the development environment;",
+        "prepare data for modeling; perform feature engineering; and",
+        "develop models."
+    ],
+    "company_names": [
+        "Kantar IMRB"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

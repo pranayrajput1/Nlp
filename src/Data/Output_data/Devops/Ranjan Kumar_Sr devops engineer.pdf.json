@@ -1,0 +1,46 @@
+{
+    "name": "Ranjan Kumar A",
+    "email": "ranjankumar157@gmail.com",
+    "mobile_number": "9197312926",
+    "skills": [
+        "Computer science",
+        "Communication",
+        "Engineering",
+        "Docker",
+        "Testing",
+        "Installation",
+        "Compliance",
+        "Java",
+        "Shell",
+        "Cloud",
+        "Technical",
+        "Click",
+        "Python",
+        "Test cases",
+        "Design",
+        "Aws",
+        "Scrum",
+        "Programming",
+        "Ansible"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "Understanding Business Requirement.",
+        "Communication with various stack holders for their requirements.",
+        "Responsible for End- End Delivery of the feature.",
+        "Responsible for reviewing Test Cases & Use Cases.",
+        "Coordinate with the Development team for prioritization of",
+        "Functional/Non-Functional Bugs."
+    ],
+    "company_names": [
+        "AWS Lambda",
+        "Aksatech Solution Pvt Ltd.",
+        "IntimeTec Vision Soft Pvt Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

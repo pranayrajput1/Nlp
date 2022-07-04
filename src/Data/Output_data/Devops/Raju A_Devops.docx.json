@@ -1,0 +1,49 @@
+{
+    "name": "Raju A",
+    "email": "rajualakuntla93@gmail.com",
+    "mobile_number": "9949203581",
+    "skills": [
+        "Os",
+        "Servers",
+        "Communication",
+        "Analyze",
+        "Engineering",
+        "Linux",
+        "Docker",
+        "Inventory",
+        "Windows",
+        "Process",
+        "Policies",
+        "Java",
+        "Cloud",
+        "Analysis",
+        "Technical",
+        "Python",
+        "Automation",
+        "Aws",
+        "Scripting",
+        "Security",
+        "Architecture",
+        "Updates",
+        "Ansible",
+        "Github",
+        "Ubuntu",
+        "Writing",
+        "System",
+        "Analytical"
+    ],
+    "college_name": null,
+    "degree": [
+        "Master of Technology"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Amazon",
+        "TCS"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

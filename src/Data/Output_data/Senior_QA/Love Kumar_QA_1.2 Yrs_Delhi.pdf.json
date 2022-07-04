@@ -1,0 +1,62 @@
+{
+    "name": "LOVE KUMAR",
+    "email": "lovekumar1718@gmail.com",
+    "mobile_number": "9540450938",
+    "skills": [
+        "Website",
+        "Testing",
+        "Jira",
+        "Sql",
+        "Java",
+        "Sql server",
+        "Analysis",
+        "Email",
+        "Automation",
+        "Android",
+        "Html",
+        "Test cases",
+        "Design",
+        "Mobile",
+        "Updates",
+        "Training",
+        "Agile",
+        "Selenium",
+        "Css",
+        "English"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Test Engineer"
+    ],
+    "experience": [
+        ".",
+        ".",
+        "1. NIIT Technologies Pvt. Ltd. :  Test Engineer",
+        "(July 2019 \u2013 Sep 2020)",
+        "Project: Office Depot",
+        "Responsibilities:",
+        "\u2022  Manual test case analysis to construct automated test script.",
+        "\u2022  Framework of the project is based on Page Object Model (POM) and TESTNG.",
+        "\u2022  Prepared Test Design, Test Scripts and used JIRA for sprint updates and user story mappings.",
+        "\u2022  Give walkthrough of various release to Client.",
+        "\u2022  Maintenance of test cases during regression.",
+        "INTERNSHIP",
+        ".",
+        "Profile",
+        "Duration",
+        "Organization : NIIT Technologies Pvt. Ltd.",
+        ": Associate Engineer",
+        ": Jan 2019 \u2013 July 2019",
+        "\u2022  Training involved functional testing of website and mobile app of officedepot.com.",
+        "\u2022  A brief study of AGILE methodology is done and the work is carried out using automation",
+        "tools like SoapUI, Appium, Selenium using Java and Load Runner.",
+        "\u2022  An integrated seminar session enabled us to share and explore our knowledge of training.",
+        "1. Stop and Shop"
+    ],
+    "company_names": [
+        "NIIT Technologies Pvt. Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 1.67
+}
