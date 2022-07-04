@@ -1,0 +1,36 @@
+{
+    "name": "PRAKHAR SINGH",
+    "email": "prakharcode0007@gmail.com",
+    "mobile_number": "9140135546",
+    "skills": [
+        "Debugging",
+        "Testing",
+        "Windows",
+        "Design",
+        "Health",
+        "Process",
+        "Technical",
+        "Logging",
+        "Analysis",
+        "Email",
+        "System",
+        "Mysql",
+        "Database",
+        "Architecture",
+        "Jira",
+        "Java",
+        "Rest",
+        "Json"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Team Member"
+    ],
+    "experience": [
+        "Working as a Software Developer in FX ABS Software Solutions Pvt Ltd from Feb 2019 to Sep 2021."
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 2.58
+}

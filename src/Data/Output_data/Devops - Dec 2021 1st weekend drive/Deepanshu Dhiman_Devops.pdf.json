@@ -1,0 +1,54 @@
+{
+    "name": "Deepanshu Dhiman",
+    "email": "dhimandeepanshu1997@gmail.com",
+    "mobile_number": "7009132501",
+    "skills": [
+        "Python",
+        "Testing",
+        "Html",
+        "Telecom",
+        "Css",
+        "Docker",
+        "Openstack",
+        "System",
+        "Ansible",
+        "Sports",
+        "Electronics",
+        "Yaml",
+        "Communication",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech in Electronics and Communication"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Worked in various technologies like SDN/NFV, 4G-LTE ,5G",
+        "Containerization, Virtualization etc.",
+        "Responsible for containerization and automated deployment",
+        "of apps written in GO, Python, AngularJS and NodeJS using",
+        "Ansible, Bash-Script, Docker-compose .",
+        "Worked in a team responsible for Integrating all the DevOps",
+        "tools and help in building the complete DevOps",
+        "infrastructure and maintaining it using Kubernetes.",
+        "Worked in a team responsible for the building of the CI/CD",
+        "pipelines using various tools like Git, Gitlab, Jenkins ,",
+        "SonarQube , Nexus, Docker , Ansible, Apache-Tomcat etc.",
+        "Responsible for the deployment of various end to end",
+        "opensource 4G/5G network solutions in containers using",
+        "Docker, Docker- compose and Kubernetes.",
+        "Worked on building the 4G/5G test case scenarios and",
+        "performed them using tool like Spirent Landslide.",
+        "Tools Used: Docker, Kubernetes,Jenkins, Git, Gitlab, Ansible Nexus,",
+        "SonarQube, Maven, Docker-Swarm , Openstack, OSM,",
+        "OSTicket, Spirent-Landslide, free5gc, open5gs, ."
+    ],
+    "company_names": [
+        "Docker Swarm"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

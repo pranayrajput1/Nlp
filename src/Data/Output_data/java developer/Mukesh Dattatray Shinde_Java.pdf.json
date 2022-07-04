@@ -1,0 +1,46 @@
+{
+    "name": "Mukesh Shinde",
+    "email": "mukeshshinde08@gmail.com",
+    "mobile_number": "9190968474",
+    "skills": [
+        "Oracle",
+        "Testing",
+        "C",
+        "Security",
+        "Product development",
+        "Html",
+        "Technical",
+        "Agile",
+        "Docker",
+        "Documentation",
+        "English",
+        "Engineering",
+        "Troubleshooting",
+        "Rest",
+        "Java",
+        "Jira",
+        "Web services"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE - Computer science and engineering"
+    ],
+    "designation": [
+        "Software Engineer",
+        "Senior Software Engineer"
+    ],
+    "experience": [
+        "Senior Software Engineer",
+        "LTI Infotech",
+        "07/2019 - Present,",
+        "Achievements/Tasks"
+    ],
+    "company_names": [
+        "ElasticRun",
+        "LTI Infotech",
+        "VS code",
+        "Oracle"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

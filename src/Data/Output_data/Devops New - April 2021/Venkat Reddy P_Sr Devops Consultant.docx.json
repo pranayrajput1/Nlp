@@ -1,0 +1,61 @@
+{
+    "name": "DevOps Engineer",
+    "email": "venkatp1108@gmail.com",
+    "mobile_number": "9573040588",
+    "skills": [
+        "Scripting",
+        "Training",
+        "Plan",
+        "Technical",
+        "Docker",
+        "Sap",
+        "Cloud",
+        "Shell",
+        "Config",
+        "Testing",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Email",
+        "Writing",
+        "Administration",
+        "Sql",
+        "Access",
+        "Schedule",
+        "Yaml",
+        "Communication",
+        "C",
+        "Security",
+        "Metrics",
+        "Ansible",
+        "Architecture",
+        "Jira",
+        "Design",
+        "Api",
+        "Aws",
+        "Github",
+        "Hardware",
+        "Objective-c",
+        "Database",
+        "Rest",
+        "Java",
+        "Linux",
+        "Mobile",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "Software Engineer",
+        "Cloud Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "TCS",
+        "Microsoft"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

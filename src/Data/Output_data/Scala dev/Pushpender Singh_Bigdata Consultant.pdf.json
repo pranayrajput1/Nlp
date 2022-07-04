@@ -1,0 +1,46 @@
+{
+    "name": "Pushpender Singh",
+    "email": "welcome.pushpender@gmail.com",
+    "mobile_number": "0703030565",
+    "skills": [
+        "Hive",
+        "Hbase",
+        "Xml",
+        "Soap",
+        "Python",
+        "Health",
+        "Etl",
+        "Sql",
+        "Hospital",
+        "Hadoop",
+        "Scala",
+        "Pandas",
+        "Api",
+        "Aws",
+        "Spark",
+        "System",
+        "English",
+        "Parser",
+        "Pyspark",
+        "Rest",
+        "Java",
+        "Research"
+    ],
+    "college_name": null,
+    "degree": [
+        "BACHELOR OF ENGINEERING(INFORMATION\nTECHNOLOGY)"
+    ],
+    "designation": [
+        "Data Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "HASHMAP TECH INDIA PVT. LTD",
+        "NITS SOLUTIONS PVT. LTD",
+        "Amazon Redshift",
+        "NITS SOLUTIONS PVT. LTD.",
+        "PUNE"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0
+}

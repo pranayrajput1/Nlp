@@ -1,0 +1,40 @@
+{
+    "name": "Anmol Jain",
+    "email": "anmoljain221b@gmail.com",
+    "mobile_number": "9660247793",
+    "skills": [
+        "Scripting",
+        "Programming",
+        "Technical",
+        "Docker",
+        "Cloud",
+        "Shell",
+        "Python",
+        "Agile",
+        "Information technology",
+        "Access",
+        "Security",
+        "Computer science",
+        "Controls",
+        "Aws",
+        "Audit",
+        "System",
+        "Database",
+        "Troubleshooting",
+        "Computer applications"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Sarv Web, Technical Support Engineer",
+        "Jun\u201917 - Jun\u201919",
+        "\u25cf Responsible for Database maintenance, syslog client/server and access management",
+        "\u25cf Support team for the solution in QA and production deployment",
+        "\u25cf Troubleshooting L1 & L2 tickets of customers situated in different parts of globe",
+        "\u25cf Responsible for all the technical support aspects required by the client for solutions"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

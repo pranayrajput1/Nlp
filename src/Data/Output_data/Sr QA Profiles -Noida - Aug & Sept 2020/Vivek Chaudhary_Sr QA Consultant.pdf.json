@@ -1,0 +1,43 @@
+{
+    "name": "Vivek Chaudhary",
+    "email": "vivekchaudhary6999@gmail.com",
+    "mobile_number": "9810476170",
+    "skills": [
+        "Programming",
+        "Technical",
+        "Selenium",
+        "Android",
+        "Testing",
+        "Automation",
+        "Windows",
+        "Video",
+        "Agile",
+        "Ios",
+        "Jira",
+        "Design",
+        "Content",
+        "Api",
+        "Reporting",
+        "Sdlc",
+        "Documentation",
+        "System",
+        "Software development life cycle",
+        "Database",
+        "Sports",
+        "Java",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": null,
+    "experience": [
+        "language.",
+        "Knowledge on API testing with postman tool.",
+        "Knowledge on penetration testing with burp suite tool."
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

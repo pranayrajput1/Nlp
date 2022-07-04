@@ -1,0 +1,64 @@
+{
+    "name": "Mrinmay Dhar",
+    "email": "mrinmaydhar@gmail.com",
+    "mobile_number": "9183759440",
+    "skills": [
+        "French",
+        "Training",
+        "Css",
+        "Docker",
+        "International",
+        "Testing",
+        "Python",
+        "Wordpress",
+        "Automation",
+        "C++",
+        "Html",
+        "Cms",
+        "Administration",
+        "Php",
+        "Schedule",
+        "Access",
+        "Dns",
+        "Security",
+        "Ansible",
+        "Computer science",
+        "Design",
+        "Routing",
+        "Github",
+        "English",
+        "System",
+        "Mysql",
+        "Seo",
+        "Engineering",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology"
+    ],
+    "designation": [
+        "Co-Founder",
+        "Student Intern"
+    ],
+    "experience": [
+        "Shaadi Brigade",
+        "Student Intern",
+        "(May 2019 - June 2019)",
+        "Used WordPress as CMS, enabling easier code maintenance.",
+        "Created custom HTML and CSS.",
+        "Used Apache, MySQL, and PHP included in LAMP stack for local testing.",
+        "Direct customers to landing page and boost SEO rankings.",
+        "Schedule backup \u0000les f rom websites to local directories on a hosting platform.",
+        "REFERENCES",
+        "Saanvri Kapoor",
+        "Co-Founder",
+        "(+91) 762-204-2778",
+        "saanvri@shaadibrigade.com"
+    ],
+    "company_names": [
+        "Shaadi Brigade"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.08
+}

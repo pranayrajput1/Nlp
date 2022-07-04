@@ -1,0 +1,54 @@
+{
+    "name": "DUSHYANT KUMAR",
+    "email": "dushyantkmr007@gmail.com",
+    "mobile_number": "8766320571",
+    "skills": [
+        "Ui",
+        "Oracle",
+        "Consulting",
+        "Technical",
+        "Analysis",
+        "Selenium",
+        "Payroll",
+        "Tax",
+        "Pattern",
+        "Test cases",
+        "Testing",
+        "Automation",
+        "Windows",
+        "C++",
+        "Html",
+        "Email",
+        "Sql",
+        "Communication",
+        "C",
+        "Crm",
+        "Reports",
+        "Jira",
+        "Design",
+        "Api",
+        "Sdlc",
+        "Publishing",
+        "System",
+        "Documentation",
+        "Interactive",
+        "Java",
+        "Mobile",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Quality Analyst"
+    ],
+    "experience": [
+        "Organization Name",
+        "Duration",
+        "Designation"
+    ],
+    "company_names": [
+        "Sun System Infotech Pvt. Ltd."
+    ],
+    "no_of_pages": 4,
+    "total_experience": 0.0
+}

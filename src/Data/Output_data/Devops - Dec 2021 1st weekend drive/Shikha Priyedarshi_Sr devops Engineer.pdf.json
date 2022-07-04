@@ -1,0 +1,49 @@
+{
+    "name": "CURRICULUM VITAE",
+    "email": "shikhapriyedarshi4@gmail.com",
+    "mobile_number": "9650772567",
+    "skills": [
+        "Programming",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Cloud",
+        "Installation",
+        "Python",
+        "Servers",
+        "Automation",
+        "Logging",
+        "Electronics",
+        "Access",
+        "Saas",
+        "Security",
+        "Ansible",
+        "Design",
+        "Aws",
+        "Electrical",
+        "System",
+        "English",
+        "Troubleshooting",
+        "Engineering",
+        "Os",
+        "Linux",
+        "Mobile"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Associate Software Engineer",
+        "Linux Administrator"
+    ],
+    "experience": [
+        "\u2022 Used Rancher for monitoring of Kubernetes cluster",
+        "\u2022 Set up logging for the kubernetes cluster in cloudwatch.",
+        "\u2022 Set up the whole EKS cluster",
+        "\u2022 Understanding forTerraform",
+        "\u2022 Understanding of  Ansible",
+        "\u2022 Understanding of Python."
+    ],
+    "company_names": null,
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

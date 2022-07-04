@@ -1,0 +1,64 @@
+{
+    "name": "SIVA RAM",
+    "email": "sivaram.devops459@gmail.com",
+    "mobile_number": "9346451199",
+    "skills": [
+        "Scripting",
+        "Oracle",
+        "Cisco",
+        "Technical",
+        "Analysis",
+        "Docker",
+        "Cloud",
+        "Shell",
+        "Installation",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Agile",
+        "Ubuntu",
+        "Administration",
+        "Access",
+        "Debugging",
+        "Security",
+        "Ansible",
+        "Jira",
+        "Policies",
+        "Aws",
+        "Sdlc",
+        "Github",
+        "Unix",
+        "System",
+        "Operating systems",
+        "Mysql",
+        "Database",
+        "Linux",
+        "Operations",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "AWS DevOps Engineer",
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "build storage archives for back tracking builds.",
+        "\u2022  Used Maven scripts to build the source code. Supported and helped to create Dynamic Views and Snap-",
+        "shot views for end users.",
+        "\u2022  Automated   build scripts using Maven and Shell Scripts.",
+        "\u2022  Configured Jenkins CI tool for project and setup Nightly Builds.",
+        "\u2022  Configured a continuous integration process and interface with the operations team to ensure project arti-",
+        "facts are deployed automatically to various environments using Jenkins."
+    ],
+    "company_names": [
+        "Calvin Technologies Private Limited",
+        "Amazon",
+        "Oracle",
+        "Cisco"
+    ],
+    "no_of_pages": 12,
+    "total_experience": 0.0
+}

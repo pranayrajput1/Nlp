@@ -1,0 +1,50 @@
+{
+    "name": "Satish Reddy",
+    "email": "srmech006@gmail.com",
+    "mobile_number": "9180086188",
+    "skills": [
+        "Scripting",
+        "Docker",
+        "Analytical",
+        "Cloud",
+        "Shell",
+        "Config",
+        "Testing",
+        "Servers",
+        "Automation",
+        "Windows",
+        "Ubuntu",
+        "Email",
+        "Administration",
+        "Access",
+        "Schedule",
+        "Mechanical engineering",
+        "Dns",
+        "Requests",
+        "Security",
+        "Ansible",
+        "Architecture",
+        "Jira",
+        "Design",
+        "Controls",
+        "Aws",
+        "Github",
+        "System",
+        "Troubleshooting",
+        "Engineering",
+        "Linux",
+        "Mobile",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

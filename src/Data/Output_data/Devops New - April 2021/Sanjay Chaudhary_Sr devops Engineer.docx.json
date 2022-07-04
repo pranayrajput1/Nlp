@@ -1,0 +1,43 @@
+{
+    "name": "Sanjay Kumar",
+    "email": null,
+    "mobile_number": null,
+    "skills": [
+        "Scripting",
+        "Oracle",
+        "Networking",
+        "Technical",
+        "Docker",
+        "Cloud",
+        "Installation",
+        "Shell",
+        "Compliance",
+        "Config",
+        "Testing",
+        "Servers",
+        "Automation",
+        "Ubuntu",
+        "Inventory",
+        "Access",
+        "Dns",
+        "Security",
+        "Ansible",
+        "Aws",
+        "Github",
+        "Hardware",
+        "System",
+        "Mysql",
+        "Database",
+        "Os",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

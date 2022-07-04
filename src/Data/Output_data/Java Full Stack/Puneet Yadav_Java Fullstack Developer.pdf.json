@@ -1,0 +1,69 @@
+{
+    "name": "Puneet Yadav",
+    "email": "yadavpuneet1996@gmail.com",
+    "mobile_number": "6395606389",
+    "skills": [
+        "Ui",
+        "Automation",
+        "Training",
+        "Coding",
+        "Html",
+        "Technical",
+        "Css",
+        "Queries",
+        "System",
+        "Mysql",
+        "Database",
+        "Engineering",
+        "English",
+        "Tv",
+        "Computer science",
+        "Java",
+        "Apis"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "Software Engineer",
+        "System Engineer Specialist"
+    ],
+    "experience": [
+        "Software Engineer",
+        "Majorel India Pvt. Ltd.",
+        "03/2021 - Present,",
+        "Tasks",
+        "Worked on creating a module that store the",
+        "con\ufb01gurations in a centralized database in a multi-tenant",
+        "application.",
+        "Created a LRU cache for the same module to reduce the",
+        "response time of the module.",
+        "System Engineer Specialist",
+        "Infosys Ltd.",
+        "06/2019 - 03/2021,",
+        "Tasks",
+        "Full Stack developer.",
+        "Worked as a backend developer on generating dynamic",
+        "queries for Neo4j (graph database) using Java(Spring",
+        "boot and Spring) for the better establishment of",
+        "relationships between di\ufb00erent entities.",
+        "Worked on graphQL APIs for providing a single endpoint",
+        "to Application.",
+        "Worked on establishment of NTLM authentication using",
+        "Springboot in the application.",
+        "Worked on MinIO server for generating a single signed",
+        "url for uploading and Downloading the \ufb01le Using Golang.",
+        "Trained on Java , Spring ,SpringBoot ,Angular 8 and Micro",
+        "services Technologies.",
+        "Completed a project during training Session based on a E-",
+        "commerce site as back end and front end developer.",
+        "Developed Micro Frontends for the UI using angular 8."
+    ],
+    "company_names": [
+        "Infosys Ltd.",
+        "Majorel India Pvt. Ltd."
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

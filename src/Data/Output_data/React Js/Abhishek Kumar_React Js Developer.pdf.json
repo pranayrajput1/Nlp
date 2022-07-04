@@ -1,0 +1,50 @@
+{
+    "name": "Abhishek Kumar",
+    "email": "abhkt2611@gmail.com",
+    "mobile_number": "7905308740",
+    "skills": [
+        "Ui",
+        "Specifications",
+        "Visual",
+        "Networking",
+        "Engagement",
+        "Analysis",
+        "Css",
+        "Merchant",
+        "Testing",
+        "Python",
+        "Javascript",
+        "Marketing",
+        "Analytics",
+        "Html",
+        "Debugging",
+        "Django",
+        "Computer science",
+        "Jira",
+        "Design",
+        "Content",
+        "Certification",
+        "Routing",
+        "System",
+        "Click",
+        "Engineering",
+        "Mobile",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": null,
+    "experience": [
+        "Daffodil Software Pvt Ltd, Gurugram \u2014 Associate IT",
+        "JUN 2019 - PRESENT",
+        "\u25cf Leading and developing web application \u2013 Discussion Forum, User",
+        "Engagement from scratch.",
+        "\u25cf Single point of contact and front face to the client for gathering all",
+        "requirements, specifications analysis, complaint handling and debugging."
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 3.0
+}

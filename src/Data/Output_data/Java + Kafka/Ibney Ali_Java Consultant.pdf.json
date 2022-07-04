@@ -1,0 +1,43 @@
+{
+    "name": "IBNEY ALI",
+    "email": "ibneyalimbd@gmail.com",
+    "mobile_number": "9528396072",
+    "skills": [
+        "Technical",
+        "Test cases",
+        "Postgresql",
+        "Testing",
+        "Javascript",
+        "Windows",
+        "Ubuntu",
+        "Writing",
+        "Debugging",
+        "C",
+        "Security",
+        "Architecture",
+        "Jira",
+        "Content",
+        "System",
+        "English",
+        "Mysql",
+        "Database",
+        "Rest",
+        "Java",
+        "Linux",
+        "Mobile",
+        "Process"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Academic Profile",
+        "\u2022  Master of Computer Application (2018)",
+        "Banaras Hindu University                                                                                 Varanasi, India",
+        "\u2022  Bachelor of Computer Application (2014)",
+        "Teerthanker Mahaveer University                                                                  Moradabad, India"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

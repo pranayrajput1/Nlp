@@ -1,0 +1,52 @@
+{
+    "name": "Soniya Raichandani",
+    "email": "soniaraichandani141@gmail.com",
+    "mobile_number": "0995670424",
+    "skills": [
+        "Testing",
+        "Reporting",
+        "Automation",
+        "Sdlc",
+        "Health",
+        "Training",
+        "Api",
+        "Technical",
+        "Selenium",
+        "Email",
+        "Communication",
+        "Certification",
+        "Process",
+        "Test cases"
+    ],
+    "college_name": null,
+    "degree": [
+        "Master of Computer Application",
+        "Bachelor of Computer Application"
+    ],
+    "designation": [
+        "Manager",
+        "Involving in Automation testing",
+        "Quality Analyst"
+    ],
+    "experience": [
+        "Quality Analyst",
+        "Entnetwrk",
+        "09/2018 \u2013 04/2019",
+        "Prepared Test Scenarios and Test Cases.",
+        "Executed test cases manually and found bugs.",
+        "Involving in Performance testing-Load and stress testing.",
+        "Quality Analyst",
+        "Renewbuy.com",
+        "04/2019 \u2013 Present",
+        "Preparing Test Scenarios,Test Cases and found bugs",
+        "Involving in Automation testing",
+        "Involving in Performance testing",
+        "Involving in \"How to report bugs\"",
+        "Involve in API testing"
+    ],
+    "company_names": [
+        "Follow SDLC"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}
