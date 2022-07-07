@@ -1,0 +1,53 @@
+{
+    "name": "ISHANT KUMAR",
+    "email": "ishant095@gmail.com",
+    "mobile_number": "8077412523",
+    "skills": [
+        "Excel",
+        "Computer science",
+        "Healthcare",
+        "C++",
+        "Ms excel",
+        "Banking",
+        "English",
+        "Javascript",
+        "Sql server",
+        "Postgresql",
+        "Oracle",
+        "Retail",
+        "Engineering",
+        "Wordpress",
+        "Access",
+        "Newspaper",
+        "System",
+        "Security",
+        "Billing",
+        "Ruby",
+        "Sql",
+        "Java",
+        "Servers",
+        "Communication",
+        "Email",
+        "Reports",
+        "Training",
+        "Migration",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer",
+        "Computer Science & Engg (B.Tech)"
+    ],
+    "experience": [
+        "\uf0b7  Currently working with Nucleus Software Ltd, Noida as Software Engineer since Aug 2019.",
+        "\uf0b7  Software Engineer in iBoss Tech Solution Pvt Ltd, Noida from Nov 2017 to July 2019.",
+        "\uf0b7  Web Developer in emartU Technology Pvt Ltd, Meerut from March 2017 to Nov 2017."
+    ],
+    "company_names": [
+        "Oracle",
+        "Nucleus Software Ltd"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 2.33
+}

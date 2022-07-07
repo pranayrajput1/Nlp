@@ -3,25 +3,25 @@
     "email": "skund0294@gmail.com",
     "mobile_number": "9560431802",
     "skills": [
-        "Communication",
-        "Banking",
-        "Drafting",
         "Testing",
-        "Jira",
-        "Sql",
-        "Java",
-        "Rest",
-        "Finance",
-        "Operations",
         "Salesforce",
-        "Api",
-        "Automation",
-        "Test cases",
-        "Training",
-        "Agile",
+        "Banking",
         "Selenium",
+        "Jira",
+        "Automation",
+        "Rest",
+        "Test cases",
+        "Operations",
+        "Agile",
+        "Api",
+        "Finance",
+        "Drafting",
         "System",
-        "Reports"
+        "Java",
+        "Sql",
+        "Communication",
+        "Reports",
+        "Training"
     ],
     "college_name": null,
     "degree": [
@@ -29,9 +29,9 @@
     ],
     "designation": [
         "Software Test Engineer",
-        "Manual testing of ED2GO's",
+        "Senior Software Test Engineer",
         "Software Test Engineer - II",
-        "Senior Software Test Engineer"
+        "Manual testing of ED2GO's"
     ],
     "experience": [
         "Senior Software Test Engineer",
@@ -43,8 +43,8 @@
         "Managing and leading QA e\ufb00orts for personal accounts team."
     ],
     "company_names": [
-        "9560431802",
-        "Kaplan Higher Education Salesforce"
+        "Kaplan Higher Education Salesforce",
+        "9560431802"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

@@ -1,0 +1,52 @@
+{
+    "name": "ANJALI BHOGE",
+    "email": "anjalibhoge@gmail.com",
+    "mobile_number": "9890169819",
+    "skills": [
+        "Testing",
+        "Css",
+        "Troubleshooting",
+        "Policies",
+        "Vendors",
+        "Html5",
+        "Rest",
+        "Engineering",
+        "Oracle",
+        "Mysql",
+        "Retail",
+        "Lifecycle",
+        "Design",
+        "Database",
+        "Html",
+        "Web services",
+        "Java",
+        "Sql",
+        "C",
+        "Analytical",
+        "Communication",
+        "Transportation",
+        "Jsp",
+        "Electronics",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Working for Exim Softwares, Pune as a",
+        "\uf0b7  Software Developer (From May 2018 \u2013 till date)",
+        "TECHNICAL PROFICIENCIES",
+        "Tools, Frameworks and",
+        "others",
+        "Spring MVC, Spring Boot, Hibernate, REST Webservices, jQuery",
+        "Basic, Jenkins, JSP, Apache Tomcat, Eclipse, STS, Git, MySQL,",
+        "Languages",
+        "Oracle database",
+        "Java, HTML, SQL"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

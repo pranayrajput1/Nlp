@@ -3,41 +3,41 @@
     "email": "uutkarsh.utkarsh@gmail.com",
     "mobile_number": "9793868882",
     "skills": [
-        "Servers",
-        "Schedule",
-        "Communication",
-        "Engineering",
-        "Access",
-        "Linux",
-        "Docker",
         "Testing",
-        "Windows",
-        "Technical skills",
-        "Shell",
-        "Cloud",
-        "Analysis",
-        "Technical",
-        "Networking",
-        "Python",
-        "Automation",
-        "Project management",
         "Strategy",
-        "Aws",
-        "Unix",
-        "Scripting",
-        "Troubleshooting",
-        "Programming",
+        "Project management",
         "Ansible",
+        "Docker",
         "Github",
-        "System"
+        "Python",
+        "Troubleshooting",
+        "Unix",
+        "Networking",
+        "Automation",
+        "Engineering",
+        "Scripting",
+        "Cloud",
+        "Technical skills",
+        "Programming",
+        "Shell",
+        "Windows",
+        "Access",
+        "System",
+        "Aws",
+        "Servers",
+        "Communication",
+        "Schedule",
+        "Linux",
+        "Technical",
+        "Analysis"
     ],
     "college_name": null,
     "degree": [
         "B.Tech"
     ],
     "designation": [
-        "PROFESSIONAL EXPERIENCE",
-        "DevOps Engineer"
+        "DevOps Engineer",
+        "PROFESSIONAL EXPERIENCE"
     ],
     "experience": [
         "Ability to troubleshoot the issues generated while building, deploying and in",
@@ -47,9 +47,9 @@
         "Integrating Unit tests and Code Quality Analysis Tools like SonarQube."
     ],
     "company_names": [
-        "Amazon",
+        "INFOSYS",
         "\uf073",
-        "INFOSYS"
+        "Amazon"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

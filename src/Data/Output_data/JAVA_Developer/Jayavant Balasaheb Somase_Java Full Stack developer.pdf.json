@@ -1,0 +1,42 @@
+{
+    "name": "Jayavant Somase",
+    "email": "jayavantsomase@gmail.com",
+    "mobile_number": "8600045504",
+    "skills": [
+        "Api",
+        "Xml",
+        "Engineering",
+        "Testing",
+        "Jira",
+        "Design",
+        "System",
+        "Reports",
+        "Process",
+        "Schedules",
+        "Rest",
+        "Json",
+        "Banking",
+        "English",
+        "Analysis",
+        "Java",
+        "C"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer",
+        "Swagger",
+        "Account Aggregator (AA)"
+    ],
+    "experience": [
+        "Full Stack Developer",
+        "TekSystem",
+        "02/2021 - Present,"
+    ],
+    "company_names": [
+        "Cookiejar Pvt Ltd",
+        "ActiveMQ"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

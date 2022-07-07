@@ -1,0 +1,34 @@
+{
+    "name": "Sinha Senior",
+    "email": "abhijeetsinha2003@gmail.com",
+    "mobile_number": "7217394812",
+    "skills": [
+        "Architecture",
+        "Writing",
+        "Design",
+        "Css",
+        "System",
+        "Finance",
+        "Html5",
+        "Linux",
+        "Sales",
+        "Html",
+        "English",
+        "Js",
+        "Javascript",
+        "Java",
+        "Apis",
+        "Mysql"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "designing, developing, and managing complex web-based applications and",
+        "internal frameworks. Specializes in Bootstrap framework, Angular framework,",
+        "Spring Boot, Java and Responsive design."
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

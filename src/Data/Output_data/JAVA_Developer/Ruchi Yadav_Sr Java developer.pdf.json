@@ -1,0 +1,40 @@
+{
+    "name": "Ruchi Yadav",
+    "email": "ruchi.yadav.cse@gmail.com",
+    "mobile_number": "8700087888",
+    "skills": [
+        "Testing",
+        "Hardware",
+        "Transactions",
+        "Apis",
+        "Debugging",
+        "Rest",
+        "Engineering",
+        "Mysql",
+        "Agile",
+        "Cloud",
+        "Architecture",
+        "Programming",
+        "Crm",
+        "Windows",
+        "Inventory",
+        "Java",
+        "Aws",
+        "Mobile",
+        "Servers",
+        "Communication",
+        "Analytics",
+        "Linux"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Senior Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oxyent Medical Pvt. Ltd."
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0
+}

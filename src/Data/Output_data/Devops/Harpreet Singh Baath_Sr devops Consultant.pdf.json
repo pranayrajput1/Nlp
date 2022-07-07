@@ -3,27 +3,27 @@
     "email": "harpreet62562@gmail.com",
     "mobile_number": "9855533167",
     "skills": [
-        "Billing",
-        "Analytics",
-        "Engineering",
         "Jupyter",
-        "Hadoop",
-        "Docker",
         "Testing",
-        "Installation",
-        "Sql",
-        "Dns",
-        "Cloud",
-        "Logging",
-        "Metrics",
-        "Automation",
-        "Aws",
-        "Openstack",
-        "Security",
-        "Architecture",
-        "Spark",
         "Ansible",
-        "English"
+        "Metrics",
+        "Docker",
+        "English",
+        "Automation",
+        "Installation",
+        "Engineering",
+        "Cloud",
+        "Architecture",
+        "Openstack",
+        "Hadoop",
+        "Security",
+        "Billing",
+        "Aws",
+        "Sql",
+        "Logging",
+        "Analytics",
+        "Dns",
+        "Spark"
     ],
     "college_name": null,
     "degree": [
@@ -31,8 +31,8 @@
     ],
     "designation": [
         "Senior DevOps Engineer",
-        "Container Security",
-        "DevOps Engineer"
+        "DevOps Engineer",
+        "Container Security"
     ],
     "experience": [
         "technologies.",
@@ -84,8 +84,8 @@
         "Creating AMI\u2019s with Packer and deploying it with Terraform."
     ],
     "company_names": [
-        "AWS DevOps Professional Certi\ufb01ed Engineer",
-        "Microsoft Azure"
+        "Microsoft Azure",
+        "AWS DevOps Professional Certi\ufb01ed Engineer"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

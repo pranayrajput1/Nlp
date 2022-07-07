@@ -3,19 +3,19 @@
     "email": "venkataabhinav97@gmail.com",
     "mobile_number": "9542246944",
     "skills": [
-        "Analysis",
         "Servers",
+        "Cloud",
         "Technical skills",
         "Shell",
         "Ansible",
-        "Linux",
-        "Cloud",
-        "System",
-        "Aws",
-        "Technical",
         "Docker",
-        "Scripting",
-        "English"
+        "Linux",
+        "Technical",
+        "Aws",
+        "System",
+        "English",
+        "Analysis",
+        "Scripting"
     ],
     "college_name": null,
     "degree": [

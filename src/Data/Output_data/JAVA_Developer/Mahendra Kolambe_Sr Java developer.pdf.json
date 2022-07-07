@@ -3,24 +3,24 @@
     "email": "kolambemp2015@gmail.com",
     "mobile_number": "9767994726",
     "skills": [
+        "Finance",
+        "Ui",
+        "Engineering",
+        "Sales",
+        "Banking",
         "English",
         "Java",
-        "Engineering",
-        "Banking",
-        "Sales",
-        "Scheduling",
-        "Finance",
-        "Ui"
+        "Scheduling"
     ],
     "college_name": null,
     "degree": [
-        "Diploma Information Technology",
-        "Bachelor of Engineering"
+        "Bachelor of Engineering",
+        "Diploma Information Technology"
     ],
     "designation": [
         "BackEnd Developer",
-        "Senior Consultant",
         "Senior Java Developer",
+        "Senior Consultant",
         "Java developer"
     ],
     "experience": [

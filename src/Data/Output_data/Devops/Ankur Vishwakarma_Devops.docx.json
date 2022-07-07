@@ -3,26 +3,26 @@
     "email": "ankurvis88@gmail.com",
     "mobile_number": "9911040714",
     "skills": [
-        "Servers",
-        "Payroll",
-        "Linux",
+        "Ansible",
         "Docker",
+        "Github",
+        "Troubleshooting",
+        "Python",
         "Jira",
         "Policies",
-        "Cloud",
-        "Logging",
-        "Technical",
-        "Python",
-        "Administration",
-        "Aws",
         "Scripting",
-        "Troubleshooting",
-        "Migration",
-        "Ansible",
-        "Github",
-        "Ubuntu",
+        "Cloud",
+        "Payroll",
         "Certification",
-        "Reports"
+        "Aws",
+        "Servers",
+        "Administration",
+        "Logging",
+        "Ubuntu",
+        "Reports",
+        "Migration",
+        "Linux",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
@@ -30,14 +30,14 @@
     ],
     "designation": [
         "Site Reliability Engineer",
+        "Linux Administrator /AWS",
         "SR Software Engineer",
-        "Senior Devops Associate",
-        "Linux Administrator /AWS"
+        "Senior Devops Associate"
     ],
     "experience": [],
     "company_names": [
-        "AWS Technology (E.G Ec2",
-        "Agiliad Technology PVT LTD"
+        "Agiliad Technology PVT LTD",
+        "AWS Technology (E.G Ec2"
     ],
     "no_of_pages": null,
     "total_experience": 0.0

@@ -3,23 +3,23 @@
     "email": "ravi222bsr@gmail.com",
     "mobile_number": "8791700661",
     "skills": [
-        "Sql",
-        "Ecommerce",
-        "Java",
-        "Automation",
-        "Analyze",
-        "Selenium",
-        "Test cases",
         "Reporting",
-        "Database",
+        "Selenium",
+        "Analyze",
         "Testing",
+        "Ecommerce",
+        "Jira",
+        "Automation",
+        "Database",
+        "Test cases",
         "English",
-        "Jira"
+        "Java",
+        "Sql"
     ],
     "college_name": null,
     "degree": [
-        "MCA",
-        "BCA"
+        "BCA",
+        "MCA"
     ],
     "designation": [
         "QA Engineer"

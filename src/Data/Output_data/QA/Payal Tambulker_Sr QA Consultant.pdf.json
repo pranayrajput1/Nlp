@@ -1,0 +1,53 @@
+{
+    "name": "Payal Tambulker",
+    "email": "payaltambulker@gmail.com",
+    "mobile_number": "7053434564",
+    "skills": [
+        "Testing",
+        "Strategy",
+        "Proposal",
+        "Transactions",
+        "Money",
+        "Writing",
+        "Test cases",
+        "Mysql",
+        "Acquisition",
+        "Agile",
+        "Scrum",
+        "Ui",
+        "System",
+        "Mobile",
+        "Deposits",
+        "Analytical",
+        "Email",
+        "Process",
+        "Technical",
+        "Pdf",
+        "Queries",
+        "Plan"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE",
+        "MBA"
+    ],
+    "designation": [
+        "Senior Test Engineer",
+        "Sr. Test Engineer."
+    ],
+    "experience": [
+        "NIIT Technologies Limited.",
+        "Project Name: SEI \u2013 CAS (Client Acquisition Services.)",
+        "Role: Sr. Test Engineer.",
+        "Project Duration: Oct 2015 \u2013 Jan 2019.",
+        "Aug 2015 \u2013 Jan 2019",
+        "Project Description:",
+        "SEI \u2013 is a Wealth Management platform for advisor to propose a proposal to client/prospect to"
+    ],
+    "company_names": [
+        "NIIT Technologies Limited",
+        "Axis Bank Limited"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 6.67
+}

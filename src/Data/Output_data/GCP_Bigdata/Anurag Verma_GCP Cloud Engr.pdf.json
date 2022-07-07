@@ -3,29 +3,29 @@
     "email": "vermaanurag1794@gmail.com",
     "mobile_number": "8318357050",
     "skills": [
-        "Networking",
-        "Technical issues",
-        "Ansible",
-        "Engineering",
-        "Linux",
-        "Cloud",
-        "Project management",
-        "Matrix",
-        "Design",
-        "Analysis",
         "Debugging",
+        "Cloud",
+        "Technical issues",
         "Analytical",
+        "Design",
+        "Yaml",
+        "Networking",
+        "Matrix",
+        "Ansible",
+        "Project management",
+        "Linux",
         "Technical",
-        "Yaml"
+        "Engineering",
+        "Analysis"
     ],
     "college_name": null,
     "degree": [
-        "Bachelor of Engineering",
-        "BHARATI"
+        "BHARATI",
+        "Bachelor of Engineering"
     ],
     "designation": [
-        "Associate Cloud Engineer",
-        "Cloud Engineer"
+        "Cloud Engineer",
+        "Associate Cloud Engineer"
     ],
     "experience": [],
     "company_names": null,

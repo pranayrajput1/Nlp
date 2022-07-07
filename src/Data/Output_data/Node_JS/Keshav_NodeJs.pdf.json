@@ -4,33 +4,33 @@
     "mobile_number": "8901272767",
     "skills": [
         ".net",
-        "Communication",
-        "C",
-        "Engineering",
+        "English",
         "Javascript",
+        "Apis",
         "Postgresql",
         "Oracle",
-        "Sql",
-        "Process",
-        "Analysis",
-        "Technical",
-        "Asp",
-        "Apis",
-        "Api",
-        "International",
-        "Design",
-        "Programming",
+        "Engineering",
         "Agile",
+        "Api",
+        "Programming",
+        "Design",
         "System",
-        "English"
+        "Asp",
+        "C",
+        "Sql",
+        "Communication",
+        "Process",
+        "Technical",
+        "International",
+        "Analysis"
     ],
     "college_name": null,
     "degree": [
         "Bachelor of Technology"
     ],
     "designation": [
-        "Resourceful Engineer",
-        "Software Engineer"
+        "Software Engineer",
+        "Resourceful Engineer"
     ],
     "experience": [
         "Software Engineer",
@@ -43,8 +43,8 @@
         "linkedin.com/in/keshavsoni95"
     ],
     "company_names": [
-        "RSG Media Systems",
-        "Oracle"
+        "Oracle",
+        "RSG Media Systems"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

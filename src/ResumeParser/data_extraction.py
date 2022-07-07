@@ -75,6 +75,30 @@ def generate_dataset(INPUT_DIRECTORY, OUTPUT_DIRECTORY):
     skill_df.to_csv("union_skill_dataset.csv", index=False)
 
     result_df = copy_skill_df.explode(['Name', 'Email_ID', 'Phone_Number', 'File_Name', 'Deptartment', 'Skills'])
-    results_df = result_df.dropna(subset=['Skills'])
-    results_df.to_csv("DataSet.csv", index=False)
-    return results_df
+    result_df[result_df['Skills'].map(lambda d: len(d)) > 0]
+    result_df.to_csv("DataSet.csv", index=False)
+    return result_df
+
+def visualising_overlapping():
+    data_set = pd.read_csv("DataSet.csv",na_filter=True, na_values='[]')
+    new_data_set = data_set.copy()
+    new_data_set['Skills'] = new_data_set['Skills'].astype(str).str.replace('[', '')
+    new_data_set['Skills'] = new_data_set['Skills'].astype(str).str.replace(']', '')
+    new_data_set['Skills'] = new_data_set['Skills'].astype(str).str.replace("'", '')
+    skills_union = ', '.join(new_data_set.Skills)
+    skills_union_list = list(skills_union.split(","))
+    final_dict_ = {}
+    for i in skills_union_list:
+        i = i.lstrip()
+        dept_list = []
+        for ind in data_set.index:
+            df_skill = list(new_data_set['Skills'][ind].split(","))
+            for skill in df_skill:
+                skill = skill.lstrip()
+                if skill == i:
+                    dept = new_data_set['Deptartment'][ind]
+                    dept_list.append(dept)
+                    dept_list = list(set(dept_list))
+        dict_ = {i: dept_list}
+        final_dict_.update(dict_)
+    return final_dict_

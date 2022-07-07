@@ -3,15 +3,15 @@
     "email": "Email:dhi2063@gmail.com",
     "mobile_number": "8982829023",
     "skills": [
-        "Sql",
-        "Algorithms",
+        "Pl/sql",
         "Programming",
-        "Telecom",
-        "Java",
+        "Algorithms",
+        "Soap",
         "Migration",
         "Database",
-        "Pl/sql",
-        "Soap"
+        "Telecom",
+        "Java",
+        "Sql"
     ],
     "college_name": null,
     "degree": null,

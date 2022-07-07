@@ -4,20 +4,20 @@
     "mobile_number": "9410497585",
     "skills": [
         "Servers",
-        "Java",
-        "Automation",
-        "Ansible",
-        "Shell",
-        "Linux",
-        "Agile",
-        "Engineering",
         "Design",
-        "System",
-        "Aws",
+        "Shell",
+        "Ansible",
         "Docker",
-        "Scripting",
+        "Automation",
+        "Installation",
+        "Linux",
+        "Aws",
+        "Engineering",
+        "System",
         "English",
-        "Installation"
+        "Java",
+        "Scripting",
+        "Agile"
     ],
     "college_name": null,
     "degree": [
@@ -25,8 +25,8 @@
     ],
     "designation": [
         "GIT",
-        "Deployed various Machine Learning Models in Kubernetes .",
-        "DevOps Engineer"
+        "DevOps Engineer",
+        "Deployed various Machine Learning Models in Kubernetes ."
     ],
     "experience": [
         "DevOps Engineer",

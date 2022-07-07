@@ -3,23 +3,23 @@
     "email": "shubhamjmieti@gmail.com",
     "mobile_number": "8950236451",
     "skills": [
-        "Security",
-        "Unix",
         "Servers",
-        "Scripting",
-        "Migration",
-        "Automation",
-        "Engineering",
-        "Ansible",
         "Workflow",
         "Cloud",
-        "Linux",
         "Administration",
-        "Certification",
-        "System",
-        "Aws",
+        "Unix",
+        "Scripting",
+        "Ansible",
         "Docker",
-        "Website"
+        "Migration",
+        "Automation",
+        "Website",
+        "Linux",
+        "Engineering",
+        "System",
+        "Certification",
+        "Security",
+        "Aws"
     ],
     "college_name": null,
     "degree": [
@@ -30,9 +30,9 @@
     ],
     "experience": null,
     "company_names": [
-        "Amazon",
         "Microsoft",
-        "Hippo Innovation Pvt. Ltd."
+        "Hippo Innovation Pvt. Ltd.",
+        "Amazon"
     ],
     "no_of_pages": null,
     "total_experience": 0

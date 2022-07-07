@@ -3,26 +3,26 @@
     "email": "Email:harsha.arya85@gmail.com",
     "mobile_number": "8630626803",
     "skills": [
-        "Apis",
-        "Api",
-        "Java",
-        "R",
-        "Automation",
-        "Engineering",
-        "Agile",
         "Selenium",
-        "Rest",
+        "Api",
+        "R",
         "Writing",
-        "Test plans",
-        "System",
-        "Test case",
         "Testing",
-        "Jira"
+        "Jira",
+        "Test plans",
+        "Automation",
+        "Rest",
+        "Engineering",
+        "Test case",
+        "System",
+        "Java",
+        "Apis",
+        "Agile"
     ],
     "college_name": null,
     "degree": [
-        "Bachelor of Technology (2013)\nRoorkee Engineering and Management Technology Institute-72%\n12th (2009)\nU.P.Board -57%\n10th (2007)\nU.P.Board-70%\n\n\f",
-        "Master of Technology (2016)"
+        "Master of Technology (2016)",
+        "Bachelor of Technology (2013)\nRoorkee Engineering and Management Technology Institute-72%\n12th (2009)\nU.P.Board -57%\n10th (2007)\nU.P.Board-70%\n\n\f"
     ],
     "designation": [
         "Quality Engineer"

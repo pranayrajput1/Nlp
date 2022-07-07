@@ -4,36 +4,36 @@
     "mobile_number": "9805152892",
     "skills": [
         "Healthcare",
-        "Etl",
-        "Oracle",
-        "Sql",
-        "Process",
-        "Windows",
-        "Shell",
-        "Cloud",
-        "Warehouse",
-        "Electronics",
         "Salesforce",
-        "Pandas",
-        "Email",
+        "Scheduling",
         "Python",
-        "Database",
-        "Aws",
         "Unix",
+        "Oracle",
+        "Warehouse",
         "Scripting",
-        "Migration",
         "Agile",
+        "Cloud",
+        "Etl",
+        "Shell",
+        "Windows",
+        "Database",
         "System",
-        "Scheduling"
+        "Aws",
+        "Sql",
+        "Email",
+        "Process",
+        "Migration",
+        "Electronics",
+        "Pandas"
     ],
     "college_name": null,
     "degree": [
         "B.Tech"
     ],
     "designation": [
-        "Programmer Analyst",
         "Senior Software Engineer",
-        "Tavant Technology Solutions"
+        "Tavant Technology Solutions",
+        "Programmer Analyst"
     ],
     "experience": [
         "Tavant Technology Solutions",

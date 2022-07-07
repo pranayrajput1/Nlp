@@ -3,27 +3,27 @@
     "email": "monteoberoi@gmail.com",
     "mobile_number": "995-806-6392",
     "skills": [
-        "Ruby",
-        "Engineering",
-        "Linux",
-        "Docker",
-        "P",
-        "Cloud",
-        "Technical",
-        "Supervisor",
-        "Networking",
         "Algorithms",
-        "Click",
-        "Python",
-        "Automation",
-        "Design",
-        "Aws",
-        "Scripting",
-        "Coding",
-        "Training",
         "Ansible",
+        "Docker",
+        "English",
+        "Python",
+        "Networking",
+        "Coding",
+        "Automation",
+        "Engineering",
+        "Scripting",
+        "Supervisor",
+        "Cloud",
+        "Design",
+        "P",
         "Certification",
-        "English"
+        "Ruby",
+        "Aws",
+        "Click",
+        "Training",
+        "Linux",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
@@ -31,11 +31,11 @@
     ],
     "designation": [
         "Technical Team Leader",
-        "Kubernetes Administrator",
+        "Azure Administrator",
         "Docker Certified Associate",
+        "Kubernetes Administrator",
         "INDUSTRY EXPERTISE",
-        "Sr. Technical Engineer",
-        "Azure Administrator"
+        "Sr. Technical Engineer"
     ],
     "experience": [
         "Platform Virtual Networks Vnet VPN gateway Load balancer, Auto scaling and EC2",
@@ -43,10 +43,10 @@
         "GCP Networking, compute, VPC, IAM, GKE, Instances, storage and databases."
     ],
     "company_names": [
-        "Amazon",
         "Microsoft",
-        "KernelApps Pvt. Ltd.",
-        "Azure Devops"
+        "Azure Devops",
+        "Amazon",
+        "KernelApps Pvt. Ltd."
     ],
     "no_of_pages": 2,
     "total_experience": 0.0
