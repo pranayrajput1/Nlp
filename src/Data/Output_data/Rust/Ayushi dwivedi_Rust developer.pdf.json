@@ -3,26 +3,26 @@
     "email": "ayushidwivedi7296@gmail.co",
     "mobile_number": "0739870507",
     "skills": [
-        "Postgresql",
-        "Python",
+        "Apis",
         "Servers",
         "Training",
+        "Java",
+        "Mysql",
+        "Python",
+        "Communication",
+        "Ansible",
+        "Linux",
         "Html",
         "Css",
         "Ubuntu",
-        "Django",
-        "Mysql",
         "Database",
-        "Ansible",
-        "Java",
-        "Communication",
-        "Linux",
-        "Apis"
+        "Django",
+        "Postgresql"
     ],
     "college_name": null,
     "degree": [
-        "Bachlor of Science( Computer Applications )\nChatrapati Sahu ji Maharaj Unversity Kanpur",
-        "MCA"
+        "MCA",
+        "Bachlor of Science( Computer Applications )\nChatrapati Sahu ji Maharaj Unversity Kanpur"
     ],
     "designation": [
         "Software Developer"

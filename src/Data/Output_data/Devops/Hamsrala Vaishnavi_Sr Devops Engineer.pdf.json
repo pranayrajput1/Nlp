@@ -1,0 +1,63 @@
+{
+    "name": "Engineer- Pune",
+    "email": "hamsralavaishnavi@gmail.com",
+    "mobile_number": "9581438090",
+    "skills": [
+        "Retail",
+        "Servers",
+        "English",
+        "Schedule",
+        "Computer science",
+        "Analyze",
+        "Engineering",
+        "Linux",
+        "System administration",
+        "Docker",
+        "Testing",
+        "Inventory",
+        "Policies",
+        "Process",
+        "Shell",
+        "Cloud",
+        "Networking",
+        "Email",
+        "Automation",
+        "Administration",
+        "Design",
+        "Aws",
+        "Scripting",
+        "Mobile",
+        "Architecture",
+        "Updates",
+        "Ansible",
+        "Ubuntu",
+        "Writing",
+        "Operating systems",
+        "System",
+        "Yaml"
+    ],
+    "college_name": null,
+    "degree": [
+        "B. Tech in Computer Science and Engineering completed"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "Implemented CI/CD stages via Ansible Playbook",
+        "Personal Details:",
+        "Date of Birth                      :                 17th September 1993",
+        "Languages Known             :                 English, Hindi & Telugu",
+        "Address                               :                 Nagole, Hyderabad",
+        "Declaration:",
+        "I, hereby declare that all the statements made above are true, complete and correct to the best of",
+        "my knowledge and belief",
+        "Date",
+        "Hyderabad                                                                                                          ( Hamsrala Vaishnavi )"
+    ],
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": 4,
+    "total_experience": 0.0
+}

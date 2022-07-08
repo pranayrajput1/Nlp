@@ -1,0 +1,47 @@
+{
+    "name": "Dipankar Senapati",
+    "email": "senapatidip17@gmail.com",
+    "mobile_number": "9766944321",
+    "skills": [
+        "Consulting",
+        "Servers",
+        "Health",
+        "Brand",
+        "Healthcare",
+        "Web services",
+        "Engineering",
+        "Javascript",
+        "Lifecycle",
+        "Docker",
+        "Jira",
+        "Oracle",
+        "Windows",
+        "Java",
+        "Rest",
+        "Jsp",
+        "Analysis",
+        "Json",
+        "Marketing",
+        "Scripting",
+        "Mysql",
+        "System",
+        "Kpis",
+        "Data analysis"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "model  to  develop  web-based  solutions  using",
+        "Servlets,  JSP,  and  ORM  tool  like  Hibernate",
+        "and Business Layer like Spring."
+    ],
+    "company_names": [
+        "oracle",
+        "Organization- AlightHub Consulting Services"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

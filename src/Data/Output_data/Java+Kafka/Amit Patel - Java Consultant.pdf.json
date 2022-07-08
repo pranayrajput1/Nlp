@@ -1,0 +1,60 @@
+{
+    "name": "Amit Patel",
+    "email": "075sssamit@gmail.com",
+    "mobile_number": "8115566943",
+    "skills": [
+        "Analytics",
+        "Engineering",
+        "C",
+        "Linux",
+        "Sales management",
+        "Testing",
+        "Postgresql",
+        "Jira",
+        "Installation",
+        "Erp",
+        "Sql",
+        "Windows",
+        "Inventory",
+        "Inventory management",
+        "Java",
+        "Sql server",
+        "P",
+        "Jsp",
+        "Apis",
+        "Api",
+        "Design",
+        "Database",
+        "Programming",
+        "Mysql",
+        "Agile",
+        "Github",
+        "Ubuntu",
+        "Sales",
+        "Certification",
+        "System"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Developer",
+        "Software Engineer"
+    ],
+    "experience": [
+        "Velocis Systems Pvt Ltd, Noida",
+        "Software Engineer April 2020 \u2013 Present",
+        "Oodles Technologies, Gurugram",
+        "Software Developer  April 2018 \u2013 April",
+        "2020 - 2 yrs",
+        "Ducat, Noida",
+        "Java Certification  March 2017 - March",
+        "2018 - 1 yr"
+    ],
+    "company_names": [
+        "Microsoft",
+        "Velocis Systems Pvt Ltd",
+        "Dr K P"
+    ],
+    "no_of_pages": 2,
+    "total_experience": 2.25
+}

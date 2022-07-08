@@ -1,0 +1,49 @@
+{
+    "name": "ANNU KUMAR",
+    "email": "annukmr484@gmail.com",
+    "mobile_number": "7875187037",
+    "skills": [
+        "Consulting",
+        "Hive",
+        "Servers",
+        "Analytics",
+        "Queries",
+        "Engineering",
+        "Hadoop",
+        "Jupyter",
+        "Docker",
+        "Jira",
+        "Shell",
+        "Cloud",
+        "Rest",
+        "Warehouse",
+        "Technical",
+        "Pandas",
+        "Api",
+        "Open source",
+        "Python",
+        "Scripting",
+        "Training",
+        "Programming",
+        "Migration",
+        "Ansible",
+        "Agile",
+        "Github",
+        "Writing",
+        "Scheduling",
+        "Anaconda"
+    ],
+    "college_name": null,
+    "degree": [
+        "BE \u2013 Computer Engineering"
+    ],
+    "designation": [
+        "DATA ENGINEERING"
+    ],
+    "experience": null,
+    "company_names": [
+        "Sinhgad Institute of Technology /"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0
+}

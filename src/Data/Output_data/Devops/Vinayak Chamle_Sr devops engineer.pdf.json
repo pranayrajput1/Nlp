@@ -1,0 +1,37 @@
+{
+    "name": "Vinayak Chamle",
+    "email": "vinayakchamle968@gmail.com",
+    "mobile_number": "7798370348",
+    "skills": [
+        "Windows",
+        "Mathematics",
+        "Distribution",
+        "Ansible",
+        "Linux",
+        "Scheduling",
+        "Logging",
+        "Writing",
+        "Plan",
+        "Information technology",
+        "System",
+        "Aws",
+        "Technical",
+        "Docker",
+        "English",
+        "Troubleshooting"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "avoid manual effort.",
+        "\u2022",
+        "\u2022  Responsible for monitoring application issues in Kubernetes clusters using Prometheus",
+        "and Grafana and maintaining EFK stack for logging using helm charts.",
+        "\u2022  Responsible for creating and maintaining user accounts, adding user to appropriate groups",
+        "according to their roles."
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Ashis Kumar",
+    "email": "ashis9437810184@gmail.com",
+    "mobile_number": "9437810184",
+    "skills": [
+        "Mathematics",
+        "Architecture",
+        "C++",
+        "Api",
+        "Java",
+        "Mysql",
+        "C",
+        "Html",
+        "Css",
+        "Economics",
+        "Database",
+        "System",
+        "Unix",
+        "Analytical",
+        "Website",
+        "English"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "Ohhpro Technologies Pvt. Ltd.,",
+        "Bhubaneswar,Odisha",
+        "January  2020 - PRESENT",
+        "Full Stack developer (Working with Angular 9 , Spring Boot & Mysql)"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

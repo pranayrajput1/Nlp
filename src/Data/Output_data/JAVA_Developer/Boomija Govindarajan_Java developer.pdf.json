@@ -1,0 +1,43 @@
+{
+    "name": "Boomija Govindarajan",
+    "email": "boomija113@gmail.com",
+    "mobile_number": "9551710031",
+    "skills": [
+        "Servers",
+        "Web services",
+        "C",
+        "Engineering",
+        "Banking",
+        "Testing",
+        "Jira",
+        "Oracle",
+        "Java",
+        "Pattern",
+        "Apis",
+        "Api",
+        "Customer experience",
+        "Design",
+        "Database",
+        "Scrum",
+        "Mysql",
+        "Agile",
+        "Documentation",
+        "System",
+        "Xml"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Assistant System Engineer",
+        "Java Microservices Developer"
+    ],
+    "experience": [
+        "\uf0b7  Experienced in RLM tool which is used to deploy the developed microservices in servers.",
+        "\uf0b7  Have been a part of Defect fixing as well."
+    ],
+    "company_names": [
+        "Tata"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

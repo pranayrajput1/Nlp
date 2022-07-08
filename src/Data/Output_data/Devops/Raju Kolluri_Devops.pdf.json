@@ -1,0 +1,59 @@
+{
+    "name": "Raju Kolluri",
+    "email": "Kolluriraju27@gmail.com",
+    "mobile_number": "8978493458",
+    "skills": [
+        "Servers",
+        "Schedule",
+        "Engineering",
+        "Access",
+        "Linux",
+        "Lifecycle",
+        "Docker",
+        "Jira",
+        "Policies",
+        "Process",
+        "Sql",
+        "Windows",
+        "Shell",
+        "Cloud",
+        "Technical",
+        "Operations",
+        "Networking",
+        "Python",
+        "Automation",
+        "Strategy",
+        "Database",
+        "Administration",
+        "Aws",
+        "Scripting",
+        "Troubleshooting",
+        "Security",
+        "Programming",
+        "Mysql",
+        "Ansible",
+        "Github",
+        "Ubuntu",
+        "Documentation",
+        "Writing",
+        "System",
+        "Yaml"
+    ],
+    "college_name": null,
+    "degree": [
+        "\uf0a7  M.TECH (Computer science engineering)"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": [
+        "\uf0a7",
+        "Work with DEV, QA and IT team to Automate Repetitive tasks that are required general support of multiple",
+        "ongoing projects."
+    ],
+    "company_names": [
+        "Amazon"
+    ],
+    "no_of_pages": 3,
+    "total_experience": 0.0
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Vishwas Bahekar",
+    "email": "vishu.bahekarh@gmail.com",
+    "mobile_number": "9404151476",
+    "skills": [
+        "Engineering",
+        "Javascript",
+        "Lifecycle",
+        "Testing",
+        "Sql",
+        "Process",
+        "Java",
+        "Visual",
+        "Rest",
+        "Analysis",
+        "Technical",
+        "Email",
+        "Html",
+        "Design",
+        "Database",
+        "Video",
+        "Mobile",
+        "Architecture",
+        "Mysql",
+        "Css",
+        "Github",
+        "System"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Successful Software Developer",
+        "SOFTWARE DEVELOPER"
+    ],
+    "experience": [
+        "Java",
+        "Spring Boot",
+        "Restful Web Services",
+        "SQL, JPA & Hibernate",
+        "Angular",
+        "HTML, CSS, Bootstrap",
+        "Github",
+        "SOFTWARE DEVELOPER",
+        "ThinkQuotient Software Private Limited, Pune| May 2019 - Present",
+        "Participated in the complete software development lifecycle, including",
+        "performance analysis, design, development, and testing",
+        "Designed, developed, and implemented software applications for websites",
+        "based on analyzed requirements and understanding of industry technical",
+        "standards.",
+        "Revised, modularized, and updated old code bases to modern development",
+        "standards, reducing operating costs, and improving functionality.",
+        "Reviewed code and debugged errors to improve performance.",
+        "Developed robust Java code for web and mobile applications.",
+        "Worked on Crane Customer care Portal, MyExamo, TQ-HAT Mobile application,"
+    ],
+    "company_names": [
+        "ThinkQuotient Software Private Limited"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 3.17
+}

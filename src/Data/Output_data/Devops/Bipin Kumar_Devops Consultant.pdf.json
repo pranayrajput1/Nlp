@@ -1,0 +1,40 @@
+{
+    "name": "Bipin Kumar",
+    "email": "kumarbipin91345@gmail.com",
+    "mobile_number": "8882121603",
+    "skills": [
+        "Routing",
+        "Linux",
+        "Docker",
+        "Installation",
+        "Policies",
+        "Process",
+        "Shell",
+        "Cloud",
+        "Logging",
+        "Technical",
+        "Operations",
+        "Networking",
+        "Automation",
+        "Administration",
+        "Aws",
+        "Unix",
+        "Troubleshooting",
+        "Security",
+        "Training",
+        "Mysql",
+        "Ansible",
+        "Ubuntu",
+        "Writing",
+        "English"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": null,
+    "experience": [
+        "HPA, Helm Charts, Persistance Volume )"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

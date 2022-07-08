@@ -1,0 +1,61 @@
+{
+    "name": "AWS Big",
+    "email": "balinasuryachandra2015@gmail.com",
+    "mobile_number": "9491548963",
+    "skills": [
+        "Hive",
+        "Scala",
+        "Schedule",
+        "Computer science",
+        "Queries",
+        "R",
+        "Engineering",
+        "Hadoop",
+        "Postgresql",
+        "Sql",
+        "Process",
+        "Cloud",
+        "Reporting",
+        "Analysis",
+        "Technical",
+        "Invoices",
+        "Python",
+        "Database",
+        "Aws",
+        "Pycharm",
+        "Architecture",
+        "Spark",
+        "Programming",
+        "Migration",
+        "Workflows",
+        "Writing",
+        "Scheduling"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Technology , Computer Science and Engineering"
+    ],
+    "designation": [
+        "Data Engineer",
+        "Python Developer"
+    ],
+    "experience": [
+        "\u2022 I have Worked on POC for setting up DataLake using Hadoop.",
+        "\u2022 Optimized the Athena queries to execute in less time using partitions and partition projections. This helped",
+        "businesses to pay less amount to AWS.",
+        "Python Developer",
+        "EnergyTech Global, Hyderabad October 2019 - November 2020",
+        "\u2022 Worked on Developing new modules that help NewZealand Electricity retailers to automate their customer",
+        "workflows using ODOO  python-based FrameWork.",
+        "\u2022 Simplified the Switching process using Schedulers.",
+        "\u2022 Building an Invoice module to generate and schedule invoices for customers asynchronously using Kafka.",
+        "\u2022 Worked on  product migration from Python 2 to Python 3",
+        "\u2022 Writing SQL queries to fetch the data from the Database and process them using python as per",
+        "requirements.",
+        "\u2022 Helping the reporting team in writing queries to build dashboards on Apache Superset.",
+        "\u2022 Worked on the customer\u2019s and retailer's data migration from database."
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 1.08
+}

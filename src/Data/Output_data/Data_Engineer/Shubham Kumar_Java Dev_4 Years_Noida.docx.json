@@ -1,0 +1,52 @@
+{
+    "name": "Shubham Kumar",
+    "email": "Shubhamkmr441@gmail.com",
+    "mobile_number": "8587816212",
+    "skills": [
+        "Billing",
+        "Health",
+        "Computer science",
+        "Analytics",
+        "Queries",
+        "Testing",
+        "Jira",
+        "Oracle",
+        "Sql",
+        "Policies",
+        "Java",
+        "Visual",
+        "Threading",
+        "Partnership",
+        "Rest",
+        "Reporting",
+        "Jsp",
+        "Analysis",
+        "Finance",
+        "Invoices",
+        "Operations",
+        "Api",
+        "Email",
+        "Json",
+        "Html",
+        "Database",
+        "Design",
+        "Coding",
+        "Programming",
+        "Mysql",
+        "Css",
+        "System",
+        "Xml"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Developer",
+        "Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

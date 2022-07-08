@@ -1,0 +1,55 @@
+{
+    "name": "Name of the Candidate",
+    "email": "charan.17k@gmail.com",
+    "mobile_number": "8686147002",
+    "skills": [
+        "Servers",
+        "Health",
+        "Healthcare",
+        "Improvement",
+        "Communication",
+        "Engineering",
+        "Linux",
+        "Docker",
+        "Jira",
+        "Windows",
+        "Process",
+        "Sql",
+        "Technical skills",
+        "Java",
+        "Shell",
+        "Cloud",
+        "Technical",
+        "Operations",
+        "Email",
+        "Python",
+        "Ibm",
+        "Automation",
+        "Database",
+        "Design",
+        "Aws",
+        "Scrum",
+        "Mining",
+        "Scripting",
+        "Mysql",
+        "Ansible",
+        "Agile",
+        "Github",
+        "Writing",
+        "System"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Tech"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Amazon",
+        "JNTU"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

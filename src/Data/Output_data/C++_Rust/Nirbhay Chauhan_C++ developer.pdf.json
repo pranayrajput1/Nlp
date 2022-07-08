@@ -1,0 +1,63 @@
+{
+    "name": "Nirbhay Chauhan",
+    "email": "nirbhaychauhan46@gmail.com",
+    "mobile_number": "9870729379",
+    "skills": [
+        "Os",
+        "C++",
+        "Communication",
+        "Workflow",
+        "C",
+        "Engineering",
+        "Linux",
+        "Lifecycle",
+        "Process",
+        "Compliance",
+        "Cloud",
+        "Analysis",
+        "Technical",
+        "Electronics",
+        "Python",
+        "Design",
+        "Debugging",
+        "Scrum",
+        "Wifi",
+        "Hardware",
+        "Architecture",
+        "Programming",
+        "Training",
+        "Protocols",
+        "Agile",
+        "Documentation",
+        "System"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor in Engineering (Electronics & Communication)  \n   Gujarat Technological University"
+    ],
+    "designation": [
+        "Embedded Systems Application"
+    ],
+    "experience": [
+        "the provided SDK with multithreaded programming.",
+        "Hands-on UART, I2C, RS485 interfaces, RF interfaces.",
+        "Dealt with IoT protocol like MQTT fundamentals.",
+        "Driven by my interest I have digested fundamentals of CPP and Python.",
+        "Work Flow & Tools",
+        "Insight into Process wise participation of mine during Application development.",
+        "Collaborated architecture design phase.",
+        "Design documentation",
+        "Tools for charts, graph preparation.",
+        "Version controlling of developed code",
+        "Hands-on GIT Bash as well as Tortoise GIT (GUI based GIT).",
+        "Agile workflow",
+        "Sprint planning, Sprint retrospecting & Sprint Closing. SCRUM.",
+        "Tuleap - application life-cycle management system. TAG",
+        "Release (Test/Public Release).",
+        "C++, Python",
+        "Basics"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 0.0
+}

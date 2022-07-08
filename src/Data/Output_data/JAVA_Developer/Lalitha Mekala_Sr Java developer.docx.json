@@ -1,0 +1,45 @@
+{
+    "name": "Java Developer Name",
+    "email": "lalithaamekala1996@gmail.com",
+    "mobile_number": "9502885226",
+    "skills": [
+        "Servers",
+        "Health",
+        "Healthcare",
+        "Hospital",
+        "Engineering",
+        "Jira",
+        "Windows",
+        "Process",
+        "Java",
+        "Pharmacy",
+        "Cloud",
+        "Rest",
+        "Analysis",
+        "Operations",
+        "Research",
+        "Administration",
+        "Design",
+        "Database",
+        "Debugging",
+        "Coding",
+        "Mobile",
+        "Logistics",
+        "Architecture",
+        "Programming",
+        "Mysql",
+        "System",
+        "Reports"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": null,
+    "company_names": [
+        "Accenture"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

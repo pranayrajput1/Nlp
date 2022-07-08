@@ -1,0 +1,44 @@
+{
+    "name": "Akshay Gahane",
+    "email": "akshay.gahane@gmail.com",
+    "mobile_number": "7588880938",
+    "skills": [
+        "Hive",
+        "Scala",
+        "Queries",
+        "Engineering",
+        "Javascript",
+        "Hadoop",
+        "Etl",
+        "Js",
+        "Sql",
+        "Java",
+        "Sql server",
+        "Shell",
+        "Cloud",
+        "Warehouse",
+        "Html",
+        "Database",
+        "Aws",
+        "Scripting",
+        "Mobile",
+        "Spark",
+        "Migration",
+        "Css",
+        "English"
+    ],
+    "college_name": null,
+    "degree": [
+        "B-Tech(Electronics)"
+    ],
+    "designation": [
+        "STATEAUTO-EDW DATA LAKE PROJECT\nRole:Migrating Data from Sql server to AWS Athena.",
+        "Data Engineer"
+    ],
+    "experience": [],
+    "company_names": [
+        "7588880938"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Name:Vipin Srivastav Mobile",
+    "email": "vipin.srivastav@gmail.com",
+    "mobile_number": "9711046864",
+    "skills": [
+        "Mathematics",
+        "Servers",
+        "Health",
+        "Schedule",
+        "English",
+        "Communication",
+        "Access",
+        "Linux",
+        "Docker",
+        "Installation",
+        "Data center",
+        "Policies",
+        "Physics",
+        "Windows",
+        "Technical skills",
+        "Dns",
+        "Shell",
+        "Cloud",
+        "Reporting",
+        "Technical",
+        "Logging",
+        "Networking",
+        "Automation",
+        "Chemistry",
+        "Design",
+        "Active directory",
+        "Aws",
+        "Debugging",
+        "Scripting",
+        "Troubleshooting",
+        "Mobile",
+        "Security",
+        "Migration",
+        "Ansible",
+        "Github",
+        "Operating systems",
+        "System",
+        "Scheduling",
+        "Dhcp",
+        "Yaml"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.Sc. in Physics, Chemistry and Mathematics from MDPG College Pratapgarh",
+        "Post Graduate Diploma in Computer application from J.J. Infotech  authorised MCRP University"
+    ],
+    "designation": [
+        "Manager",
+        "Assistant manager"
+    ],
+    "experience": null,
+    "company_names": [
+        "Amazon",
+        "Microsoft"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

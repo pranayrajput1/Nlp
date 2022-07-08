@@ -1,0 +1,36 @@
+{
+    "name": "Vinay Singh",
+    "email": "vinaysinghyadav121@gmail.com",
+    "mobile_number": "8299840179",
+    "skills": [
+        "Security",
+        "Computer science",
+        "Python",
+        "Communication",
+        "Automation",
+        "Shell",
+        "C",
+        "Fitness",
+        "Lifecycle",
+        "System",
+        "Aws",
+        "Docker",
+        "Scripting",
+        "Boto3"
+    ],
+    "college_name": null,
+    "degree": [
+        "Post Graduate Diploma",
+        "C-DAC Acts",
+        "B.Tech in Computer Science"
+    ],
+    "designation": [
+        "DevOps Engineer"
+    ],
+    "experience": [],
+    "company_names": [
+        "Shell"
+    ],
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}
