@@ -3,33 +3,33 @@
     "email": "shivambhardwaj1901@gmail.com",
     "mobile_number": "9920627678",
     "skills": [
-        "Servers",
-        "Communication",
-        "Linux",
-        "Docker",
-        "Sql",
-        "Process",
-        "Cloud",
-        "Redhat",
-        "Analysis",
-        "Technical",
-        "Electronics",
-        "Automation",
-        "Aws",
-        "Security",
         "Ansible",
+        "Docker",
         "Github",
-        "Ubuntu",
         "Writing",
-        "Certification"
+        "Automation",
+        "Cloud",
+        "Certification",
+        "Security",
+        "Aws",
+        "Sql",
+        "Servers",
+        "Redhat",
+        "Communication",
+        "Ubuntu",
+        "Process",
+        "Electronics",
+        "Linux",
+        "Technical",
+        "Analysis"
     ],
     "college_name": null,
     "degree": [
         "B.E. (Electronics and \nCommunication) \nIntermediate"
     ],
     "designation": [
-        "DevOps Engineer",
         "Technical Associate",
+        "DevOps Engineer",
         "Associate Consultant"
     ],
     "experience": [
@@ -61,8 +61,8 @@
         "2009"
     ],
     "company_names": [
-        "Covance India Pvt Ltd",
-        "Capgemini India Pvt Ltd"
+        "Capgemini India Pvt Ltd",
+        "Covance India Pvt Ltd"
     ],
     "no_of_pages": 3,
     "total_experience": 4.75

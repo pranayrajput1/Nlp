@@ -1,0 +1,36 @@
+{
+    "name": "Date / Place",
+    "email": "akki136@gmail.com",
+    "mobile_number": "452006 8871",
+    "skills": [
+        "Scala",
+        "Api",
+        "Programming",
+        "Testing",
+        "Shell",
+        "Tv",
+        "Coding",
+        "Docker",
+        "Investigation",
+        "Aws",
+        "Rest",
+        "Oracle",
+        "Mysql",
+        "Js",
+        "Javascript",
+        "Java",
+        "Scripting",
+        "Sql"
+    ],
+    "college_name": null,
+    "degree": [
+        "B.E. degree in CSE"
+    ],
+    "designation": null,
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

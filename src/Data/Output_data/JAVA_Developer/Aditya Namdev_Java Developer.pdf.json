@@ -3,18 +3,18 @@
     "email": "adityanamdev333@gmail.com",
     "mobile_number": "9685669877",
     "skills": [
-        "C++",
-        "Programming",
-        "Email",
-        "Java",
-        "Mysql",
-        "Training",
-        "C",
         "Cloud",
-        "Database",
+        "Programming",
+        "C++",
         "System",
+        "Email",
+        "Training",
         "Docker",
-        "Website"
+        "Website",
+        "Database",
+        "Mysql",
+        "Java",
+        "C"
     ],
     "college_name": null,
     "degree": [

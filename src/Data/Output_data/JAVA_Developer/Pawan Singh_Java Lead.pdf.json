@@ -3,39 +3,39 @@
     "email": "pawan24091988@gmail.com",
     "mobile_number": "9191361079",
     "skills": [
-        "Apex",
-        "Billing",
-        "English",
-        "Engineering",
         "Testing",
+        "English",
+        "Scheduling",
         "Jira",
+        "Coding",
+        "Rest",
+        "Engineering",
         "Oracle",
+        "Audit",
+        "Api",
+        "Apex",
         "Windows",
-        "Fulfillment",
+        "Ui",
+        "Database",
+        "System",
         "Compliance",
         "Java",
-        "Audit",
-        "Rest",
+        "Billing",
+        "Documentation",
+        "Fulfillment",
+        "Email",
         "Jsp",
         "Technical",
-        "Api",
-        "Email",
-        "International",
-        "Database",
-        "Coding",
-        "Documentation",
-        "System",
-        "Scheduling",
-        "Ui"
+        "International"
     ],
     "college_name": null,
     "degree": [
-        "M. Tech",
-        "B. Tech"
+        "B. Tech",
+        "M. Tech"
     ],
     "designation": [
-        "Software Developer",
-        "Sr. Engineering"
+        "Sr. Engineering",
+        "Software Developer"
     ],
     "experience": [
         "framework.",
@@ -112,9 +112,9 @@
     ],
     "company_names": [
         "Apex TG India Pvt Ltd",
+        "Aadhaar validation",
         "oracle",
-        "RateGain IT Solution Pvt. Ltd",
-        "Aadhaar validation"
+        "RateGain IT Solution Pvt. Ltd"
     ],
     "no_of_pages": 3,
     "total_experience": 0.0

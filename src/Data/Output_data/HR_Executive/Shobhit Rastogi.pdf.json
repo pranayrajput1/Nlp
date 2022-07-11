@@ -1,24 +1,24 @@
 {
-    "name": "Shobhit Rastogi",
+    "name": "Pradeep Rastogi",
     "email": "id:-shobhit11rastogi@gmail.com",
     "mobile_number": "8899905757",
     "skills": [
-        "Oracle",
         "Mobile",
-        "Travel",
         "Excel",
-        "Word",
-        "Compliance",
         "Requests",
         "Email",
         "Ms excel",
+        "Oracle",
+        "Travel",
+        "Word",
+        "Compliance",
         "Audit"
     ],
     "college_name": null,
     "degree": [
         "B.Com",
-        "MBA",
-        "C.B.S.E."
+        "C.B.S.E.",
+        "MBA"
     ],
     "designation": [
         "HR Consultant"

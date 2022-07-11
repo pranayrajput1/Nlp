@@ -5,20 +5,20 @@
     "skills": [
         "Servers",
         "Improvement",
-        "Automation",
-        "Ansible",
         "Cloud",
+        "Scripting",
+        "Ansible",
+        "Automation",
         "System",
-        "Aws",
-        "Scripting"
+        "Aws"
     ],
     "college_name": null,
     "degree": [
         "B.C.A"
     ],
     "designation": [
-        "Senior DevOps Engineer",
         "infrastructure incidents",
+        "Senior DevOps Engineer",
         "System administrator",
         "DevOps Engineer"
     ],

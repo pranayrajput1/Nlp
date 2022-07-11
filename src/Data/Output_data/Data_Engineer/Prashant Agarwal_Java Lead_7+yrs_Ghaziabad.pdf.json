@@ -3,42 +3,42 @@
     "email": "MAILTOPRASHANTAGARWAL@GMAIL.",
     "mobile_number": "9711324001",
     "skills": [
-        "Acquisition",
-        "Access",
-        "Javascript",
         "Testing",
+        "Css",
+        "Javascript",
+        "Magic",
         "Postgresql",
         "Jira",
         "Oracle",
-        "Windows",
-        "Process",
-        "Java",
-        "Content",
-        "Jsp",
-        "Analysis",
-        "Email",
-        "Immigration",
-        "Html",
-        "Database",
-        "Magic",
-        "Scrum",
-        "Mobile",
-        "Travel",
         "Mysql",
+        "Content",
+        "Acquisition",
         "Agile",
-        "Css",
+        "Scrum",
+        "Windows",
+        "Access",
+        "Database",
+        "Html",
         "System",
-        "Reports"
+        "Immigration",
+        "Java",
+        "Mobile",
+        "Email",
+        "Process",
+        "Reports",
+        "Jsp",
+        "Travel",
+        "Analysis"
     ],
     "college_name": null,
     "degree": [
         "Bachelors in Science (Computer \nScience)"
     ],
     "designation": [
-        "Software Developer",
-        "eVisa-Admin",
         "Software Engineer",
-        "Senior Developer"
+        "Senior Developer",
+        "eVisa-Admin",
+        "Software Developer"
     ],
     "experience": [
         "Month-Year  Designation/",
@@ -221,8 +221,8 @@
         "compatibility support and supporting to test team for functionality enhancement."
     ],
     "company_names": [
-        "NIIT Technologies Pvt. Ltd.",
-        "Oracle"
+        "Oracle",
+        "NIIT Technologies Pvt. Ltd."
     ],
     "no_of_pages": 4,
     "total_experience": 7.33

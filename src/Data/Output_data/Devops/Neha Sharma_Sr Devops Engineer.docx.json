@@ -3,42 +3,42 @@
     "email": "nehasharma.va92@gmail.com",
     "mobile_number": "9050280507",
     "skills": [
-        "Os",
-        "Servers",
-        "Schedule",
-        "Itil",
-        "Hospital",
-        "Linux",
         "Docker",
+        "Github",
+        "Change management",
+        "Hospital",
+        "Scheduling",
+        "Troubleshooting",
+        "Itil",
+        "Jira",
+        "Networking",
         "Installation",
         "Oracle",
-        "Jira",
-        "Process",
-        "Cloud",
-        "Logging",
-        "Change management",
         "Operations",
-        "Networking",
-        "Aws",
-        "Troubleshooting",
+        "Cloud",
         "Security",
+        "Aws",
+        "Servers",
+        "Logging",
+        "Process",
+        "Schedule",
+        "Linux",
         "Travel",
-        "Github",
-        "Scheduling"
+        "Os"
     ],
     "college_name": null,
     "degree": [
-        "B.Tech",
-        "M.Tech"
+        "M.Tech",
+        "B.Tech"
     ],
     "designation": [
-        "Trainee Engineer",
-        "Biomedical Engineer"
+        "Biomedical Engineer",
+        "Trainee Engineer"
     ],
     "experience": null,
     "company_names": [
-        "Amazon",
-        "Oracle"
+        "Oracle",
+        "Amazon"
     ],
     "no_of_pages": null,
     "total_experience": 0

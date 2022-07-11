@@ -5,16 +5,16 @@
     "skills": [
         "Scala",
         "Programming",
-        "Spark",
-        "Content",
-        "Engineering",
-        "Access",
         "P",
-        "Html",
         "Css",
-        "Database",
+        "Access",
         "Docker",
-        "English"
+        "Database",
+        "Engineering",
+        "Html",
+        "English",
+        "Spark",
+        "Content"
     ],
     "college_name": null,
     "degree": null,

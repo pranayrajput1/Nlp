@@ -1,0 +1,63 @@
+{
+    "name": "Sanjeev Kumar",
+    "email": "k96sanjeev@gmail.com",
+    "mobile_number": "8797155839",
+    "skills": [
+        "Computer science",
+        "Testing",
+        "Github",
+        "Nosql",
+        "Javascript",
+        "Apis",
+        "Debugging",
+        "Jira",
+        "Mysql",
+        "Database",
+        "Computer applications",
+        "System",
+        "Java",
+        "Aws",
+        "Sql",
+        "Analytics",
+        "Email",
+        "Linux",
+        "Technical",
+        "Pdf"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Computer Application, Computer Science",
+        "Master of Computer Applications, Computer Science"
+    ],
+    "designation": [
+        "Software Engineer"
+    ],
+    "experience": [
+        "Software Engineer",
+        "TO THE NEW",
+        "Aug 2019 - Present (1 year 6 months +)",
+        "As a Backend Developer(Java), I worked on-",
+        "1. Netcore Email and SMS service integration.",
+        "2. Integration and Maintenance of Techprocess and RazorPay payment gateway.",
+        "3. Integration of 3rd party APIs and create microservices with OSGi configuration.",
+        "4. Understanding requirements and creating the Business Rules Management System using Drools.",
+        "5. PDF generation using Apache PDFBox and iText.",
+        "6. Integration of FTP file system.",
+        "7. Database schema designing and integration.",
+        "8. Jersey RESTful Web Services and Jenkins",
+        "Trainee",
+        "TO THE NEW",
+        "Feb 2019 - Jul 2019 (6 months)",
+        "As a Java trainee, I worked on-",
+        "1) Apache Kafka.",
+        "2) Restful Web Services with Spring Framework.",
+        "3) Gradle and Maven build tools.",
+        "4) SQL and NoSql databases.",
+        "5) Grails and Groovy.",
+        "6) Git and Jira.",
+        "7) Others- Javascript, Ajax, Thymeleaf, Jmeter, Load testing, Jenkins"
+    ],
+    "company_names": null,
+    "no_of_pages": 2,
+    "total_experience": 3.33
+}

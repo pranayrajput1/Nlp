@@ -3,23 +3,23 @@
     "email": "Email:surepallivasu@gmail.com",
     "mobile_number": "8978095451",
     "skills": [
-        "Retail",
-        "Analysis",
-        "Process",
         "Servers",
-        "Java",
-        "Automation",
-        "Ansible",
-        "Shell",
-        "Linux",
-        "Github",
         "Cloud",
+        "Troubleshooting",
         "Writing",
-        "Aws",
-        "Technical",
-        "Docker",
+        "Shell",
         "Scripting",
-        "Troubleshooting"
+        "Process",
+        "Ansible",
+        "Docker",
+        "Automation",
+        "Linux",
+        "Technical",
+        "Retail",
+        "Github",
+        "Analysis",
+        "Java",
+        "Aws"
     ],
     "college_name": null,
     "degree": null,
@@ -28,9 +28,9 @@
     ],
     "experience": null,
     "company_names": [
-        "Amazon",
         "Bahwan Cybertek Private Limited",
-        "Shell"
+        "Shell",
+        "Amazon"
     ],
     "no_of_pages": null,
     "total_experience": 0

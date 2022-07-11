@@ -3,28 +3,28 @@
     "email": "YachnaSingh21@gmail.com",
     "mobile_number": "9871228732",
     "skills": [
-        "Oracle",
-        "Sql",
-        "Email",
-        "Mysql",
-        "Java",
+        "Money",
         "Computer science",
         "Engineering",
-        "Html",
-        "Microsoft office",
-        "Money",
-        "Javascript",
-        "Jsp",
         "System",
+        "Email",
         "Technical knowledge",
+        "Jsp",
+        "Microsoft office",
         "Technical",
-        "English"
+        "Oracle",
+        "Mysql",
+        "English",
+        "Javascript",
+        "Java",
+        "Sql",
+        "Html"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Team Member",
-        "Software Engineer"
+        "Software Engineer",
+        "Team Member"
     ],
     "experience": null,
     "company_names": [

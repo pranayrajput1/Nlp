@@ -1,0 +1,42 @@
+{
+    "name": "Curriculum vitae",
+    "email": null,
+    "mobile_number": "8630760165",
+    "skills": [
+        "Soap",
+        "English",
+        "Json",
+        "Javascript",
+        "Postgresql",
+        "Html5",
+        "Rest",
+        "Oracle",
+        "Retail",
+        "Mysql",
+        "Engineering",
+        "Api",
+        "Cloud",
+        "Programming",
+        "Design",
+        "Database",
+        "Security",
+        "Java",
+        "Web services",
+        "Sql",
+        "Mobile",
+        "Jsp",
+        "Technical"
+    ],
+    "college_name": null,
+    "degree": null,
+    "designation": [
+        "Software Engineer",
+        "Technical and Technology"
+    ],
+    "experience": null,
+    "company_names": [
+        "Oracle"
+    ],
+    "no_of_pages": null,
+    "total_experience": 0
+}

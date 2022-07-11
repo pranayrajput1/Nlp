@@ -3,38 +3,38 @@
     "email": "veerv221309@gmail.com",
     "mobile_number": "6352852870",
     "skills": [
-        "Schedule",
         "Healthcare",
-        "Linux",
+        "Ansible",
         "Docker",
-        "Installation",
-        "Jira",
-        "Windows",
-        "Policies",
-        "Shell",
         "Sas",
-        "Cloud",
+        "Github",
+        "Scheduling",
+        "Active directory",
+        "Troubleshooting",
+        "Jira",
+        "Policies",
         "Networking",
         "Automation",
-        "Active directory",
-        "Aws",
-        "Scrum",
+        "Installation",
         "Scripting",
-        "Troubleshooting",
-        "Security",
-        "Ansible",
         "Agile",
-        "Github",
+        "Scrum",
+        "Cloud",
+        "Shell",
+        "Windows",
+        "Security",
+        "Aws",
         "Ubuntu",
-        "Scheduling",
-        "Green"
+        "Schedule",
+        "Green",
+        "Linux"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
         "Microsoft Azure Administrator Associate",
-        "Cloud Devops Senior Engineer",
-        "Associate Consultant"
+        "Associate Consultant",
+        "Cloud Devops Senior Engineer"
     ],
     "experience": [
         "building of jar, war and ear \ufb01les.",
@@ -49,10 +49,10 @@
         "Certi\ufb01cation number : 6SH2ZVGLDFE4QKS"
     ],
     "company_names": [
-        "Wipro Limited",
         "Microsoft",
         "Around",
-        "Azure IAAS"
+        "Azure IAAS",
+        "Wipro Limited"
     ],
     "no_of_pages": 4,
     "total_experience": 0.0

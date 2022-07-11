@@ -4,32 +4,32 @@
     "mobile_number": "7755851964",
     "skills": [
         "Mobile",
-        "Sdlc",
-        "Java",
-        "Automation",
-        "Agile",
         "Selenium",
-        "Writing",
-        "Usability",
-        "Reporting",
-        "Design",
-        "Magic",
-        "Software development life cycle",
         "Scrum",
-        "Technical",
-        "Electronics",
+        "Reporting",
+        "Software development life cycle",
+        "Magic",
+        "Usability",
+        "Writing",
         "Testing",
+        "Jira",
+        "Design",
+        "Sdlc",
+        "Automation",
+        "Electronics",
+        "Technical",
         "English",
-        "Jira"
+        "Java",
+        "Agile"
     ],
     "college_name": null,
     "degree": null,
     "designation": [
-        "Test Automation Engineer",
-        "Manual Tester"
+        "Manual Tester",
+        "Test Automation Engineer"
     ],
-    "experience": null,
+    "experience": [],
     "company_names": null,
     "no_of_pages": null,
-    "total_experience": 0
+    "total_experience": 0.0
 }

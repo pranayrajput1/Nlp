@@ -4,24 +4,24 @@
     "mobile_number": "9197312926",
     "skills": [
         "Computer science",
-        "Communication",
-        "Engineering",
-        "Docker",
         "Testing",
+        "Ansible",
+        "Docker",
+        "Python",
         "Installation",
+        "Engineering",
+        "Test cases",
+        "Scrum",
+        "Cloud",
+        "Programming",
+        "Design",
+        "Shell",
         "Compliance",
         "Java",
-        "Shell",
-        "Cloud",
-        "Technical",
-        "Click",
-        "Python",
-        "Test cases",
-        "Design",
         "Aws",
-        "Scrum",
-        "Programming",
-        "Ansible"
+        "Communication",
+        "Click",
+        "Technical"
     ],
     "college_name": null,
     "degree": null,
@@ -37,9 +37,9 @@
         "Functional/Non-Functional Bugs."
     ],
     "company_names": [
-        "AWS Lambda",
+        "IntimeTec Vision Soft Pvt Ltd.",
         "Aksatech Solution Pvt Ltd.",
-        "IntimeTec Vision Soft Pvt Ltd."
+        "AWS Lambda"
     ],
     "no_of_pages": 2,
     "total_experience": 0.0

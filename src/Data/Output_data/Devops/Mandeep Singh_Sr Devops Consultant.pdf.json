@@ -3,32 +3,32 @@
     "email": "monteoberoi@outlook.com",
     "mobile_number": "995-806-6392",
     "skills": [
-        "Coding",
-        "Networking",
-        "Algorithms",
-        "Training",
-        "Python",
-        "Automation",
-        "Engineering",
-        "Ansible",
-        "Linux",
         "Cloud",
-        "Ruby",
+        "Algorithms",
+        "Python",
         "P",
-        "Certification",
-        "Aws",
+        "Networking",
+        "Coding",
+        "Ansible",
+        "Training",
         "Docker",
-        "Scripting",
-        "English"
+        "Automation",
+        "English",
+        "Linux",
+        "Aws",
+        "Engineering",
+        "Ruby",
+        "Certification",
+        "Scripting"
     ],
     "college_name": null,
     "degree": [
         "Bachelor of Engineering-Information \nTechnology"
     ],
     "designation": [
-        "DevOps Engineer",
         "Devops Engineer",
-        "Azure Administrator"
+        "Azure Administrator",
+        "DevOps Engineer"
     ],
     "experience": [
         "Platform Virtual Networks Vnet VPN gateway Load balancer, Auto scaling and EC2",
@@ -37,8 +37,8 @@
     ],
     "company_names": [
         "Microsoft",
-        "KernelApps Pvt. Ltd.",
-        "Azure Devops"
+        "Azure Devops",
+        "KernelApps Pvt. Ltd."
     ],
     "no_of_pages": 2,
     "total_experience": 0.0

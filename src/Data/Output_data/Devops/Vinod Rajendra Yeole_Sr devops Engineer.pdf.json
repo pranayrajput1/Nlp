@@ -3,34 +3,34 @@
     "email": "Yeolevinod89@gmail.com",
     "mobile_number": "7588687505",
     "skills": [
-        "Linux",
+        "Operating systems",
+        "Ansible",
+        "Presentation",
         "Docker",
-        "Installation",
-        "Windows",
-        "Word",
-        "Cloud",
-        "Technical",
+        "English",
+        "Troubleshooting",
         "Cms",
         "Automation",
+        "Installation",
+        "Word",
+        "Cloud",
+        "Windows",
+        "System",
+        "Certification",
         "Aws",
-        "Presentation",
-        "Troubleshooting",
+        "Ubuntu",
         "Training",
         "Migration",
-        "Ansible",
-        "Ubuntu",
-        "Certification",
-        "Operating systems",
-        "System",
-        "English"
+        "Linux",
+        "Technical"
     ],
     "college_name": null,
     "degree": [
         "B.Sc"
     ],
     "designation": [
-        "DevOps Engineer",
-        "Support Engineer"
+        "Support Engineer",
+        "DevOps Engineer"
     ],
     "experience": [
         "Company: Magna Infotech (Client Atos)",

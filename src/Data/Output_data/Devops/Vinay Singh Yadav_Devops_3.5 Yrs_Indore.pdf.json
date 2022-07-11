@@ -3,26 +3,26 @@
     "email": "vinaysinghyadav121@gmail.com",
     "mobile_number": "8299840179",
     "skills": [
-        "Security",
+        "Lifecycle",
         "Computer science",
         "Python",
         "Communication",
-        "Automation",
         "Shell",
-        "C",
-        "Fitness",
-        "Lifecycle",
-        "System",
-        "Aws",
-        "Docker",
+        "Boto3",
         "Scripting",
-        "Boto3"
+        "Docker",
+        "Fitness",
+        "Automation",
+        "System",
+        "Security",
+        "Aws",
+        "C"
     ],
     "college_name": null,
     "degree": [
-        "Post Graduate Diploma",
+        "B.Tech in Computer Science",
         "C-DAC Acts",
-        "B.Tech in Computer Science"
+        "Post Graduate Diploma"
     ],
     "designation": [
         "DevOps Engineer"

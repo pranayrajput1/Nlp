@@ -3,23 +3,23 @@
     "email": "mukeshshinde08@gmail.com",
     "mobile_number": "9190968474",
     "skills": [
+        "Documentation",
+        "Web services",
+        "Troubleshooting",
+        "Engineering",
+        "Testing",
+        "Jira",
+        "Docker",
+        "Product development",
+        "Rest",
+        "Technical",
         "Oracle",
+        "Html",
+        "English",
+        "C",
         "Security",
         "Java",
-        "Web services",
-        "C",
-        "Engineering",
-        "Agile",
-        "Html",
-        "Rest",
-        "Documentation",
-        "Jira",
-        "Product development",
-        "Technical",
-        "Docker",
-        "Testing",
-        "English",
-        "Troubleshooting"
+        "Agile"
     ],
     "college_name": null,
     "degree": [
@@ -36,10 +36,10 @@
         "Achievements/Tasks"
     ],
     "company_names": [
-        "LTI Infotech",
-        "ElasticRun",
         "Oracle",
-        "VS code"
+        "VS code",
+        "LTI Infotech",
+        "ElasticRun"
     ],
     "no_of_pages": 1,
     "total_experience": 0.0

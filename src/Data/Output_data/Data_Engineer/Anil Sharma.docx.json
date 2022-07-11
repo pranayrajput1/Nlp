@@ -3,29 +3,29 @@
     "email": "anils0440@gmail.com",
     "mobile_number": "9999671438",
     "skills": [
-        "Algorithms",
-        "Architecture",
         "Api",
-        "Email",
-        "Java",
-        "Mysql",
-        "Engineering",
-        "Html",
-        "Css",
-        "Javascript",
-        "Transactions",
-        "Database",
+        "Architecture",
+        "Algorithms",
         "Design",
+        "Css",
+        "Email",
         "Jsp",
-        "Scripting"
+        "Database",
+        "Engineering",
+        "Mysql",
+        "Transactions",
+        "Javascript",
+        "Java",
+        "Scripting",
+        "Html"
     ],
     "college_name": null,
     "degree": [
         "B.Tech)"
     ],
     "designation": [
-        "Software Developer",
-        "Java Developer"
+        "Java Developer",
+        "Software Developer"
     ],
     "experience": null,
     "company_names": [

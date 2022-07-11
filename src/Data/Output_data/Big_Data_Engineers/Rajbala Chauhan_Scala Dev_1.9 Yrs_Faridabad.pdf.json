@@ -3,28 +3,28 @@
     "email": "rajbalachauhan123@gmail.com",
     "mobile_number": "8708397880",
     "skills": [
-        "Pattern",
-        "Windows",
-        "Apis",
         "Scala",
-        "Programming",
-        "Java",
-        "Computer science",
-        "Zookeeper",
-        "Json",
-        "Rest",
-        "Ubuntu",
         "Controls",
+        "Pattern",
+        "Computer science",
+        "Programming",
         "Testing",
-        "English"
+        "Windows",
+        "Ubuntu",
+        "Rest",
+        "Zookeeper",
+        "English",
+        "Json",
+        "Java",
+        "Apis"
     ],
     "college_name": null,
     "degree": [
         "DETAILS"
     ],
     "designation": [
-        "Developer",
-        "Software Engineer"
+        "Software Engineer",
+        "Developer"
     ],
     "experience": [
         ".",

@@ -3,30 +3,30 @@
     "email": "yashluthra1991@gmail.com",
     "mobile_number": "9811596212",
     "skills": [
-        "Oracle",
-        "Sql",
-        "Programming",
-        "Health",
-        "Java",
         "Improvement",
-        "Communication",
-        "Html",
-        "Css",
-        "Test cases",
-        "System",
-        "Computer applications",
+        "Programming",
         "Analytical",
-        "Technical",
+        "Communication",
         "Testing",
-        "English"
+        "Css",
+        "System",
+        "Health",
+        "Computer applications",
+        "Oracle",
+        "Technical",
+        "Test cases",
+        "Html",
+        "English",
+        "Java",
+        "Sql"
     ],
     "college_name": null,
     "degree": [
         "Master of Computer Applications"
     ],
     "designation": [
-        "IT Analyst",
         "Senior Software Developer",
+        "IT Analyst",
         "Team Member"
     ],
     "experience": [

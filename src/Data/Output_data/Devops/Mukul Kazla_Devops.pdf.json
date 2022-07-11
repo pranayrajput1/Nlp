@@ -3,24 +3,24 @@
     "email": "kazlamukul@yahoo.com",
     "mobile_number": "009-2013",
     "skills": [
-        "Openstack",
-        "Security",
         "Api",
+        "Cloud",
+        "Logging",
+        "Testing",
+        "Openstack",
+        "Jira",
         "Email",
+        "Ansible",
+        "Docker",
         "Migration",
         "Automation",
-        "Ansible",
-        "Cloud",
-        "Testing",
-        "Database",
-        "System",
+        "Vmware",
         "Aws",
         "Technical",
-        "Logging",
-        "Docker",
-        "Scripting",
-        "Vmware",
-        "Jira"
+        "Database",
+        "System",
+        "Security",
+        "Scripting"
     ],
     "college_name": null,
     "degree": [
@@ -96,9 +96,9 @@
         "Mukul Kazla"
     ],
     "company_names": [
+        "9620",
         "Global logic PVT LTD",
-        "Accenture services PVT LTD (",
-        "9620"
+        "Accenture services PVT LTD ("
     ],
     "no_of_pages": 2,
     "total_experience": 7.75

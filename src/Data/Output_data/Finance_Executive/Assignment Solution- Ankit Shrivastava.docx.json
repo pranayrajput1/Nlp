@@ -3,14 +3,14 @@
     "email": null,
     "mobile_number": null,
     "skills": [
-        "C",
-        "Expenses",
-        "Accounting",
-        "Writing",
         "Money",
+        "Writing",
         "Reconciliation",
+        "Finance",
         "Reconcile",
-        "Finance"
+        "Accounting",
+        "Expenses",
+        "C"
     ],
     "college_name": null,
     "degree": null,

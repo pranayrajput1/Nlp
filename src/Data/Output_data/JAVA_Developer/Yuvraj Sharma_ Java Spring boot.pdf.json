@@ -1,0 +1,47 @@
+{
+    "name": "Mr. Yuvraj",
+    "email": "yuvraj_2300@hotmail.com",
+    "mobile_number": "9855202165",
+    "skills": [
+        "Css",
+        "Metrics",
+        "Research",
+        "Apis",
+        "Selenium",
+        "Config",
+        "Networking",
+        "Automation",
+        "Rest",
+        "Oracle",
+        "Profiling",
+        "Pattern",
+        "Api",
+        "Etl",
+        "Design",
+        "Ui",
+        "Pharmaceutical",
+        "Html",
+        "Xml",
+        "Java",
+        "Email",
+        "Jsp",
+        "Electronics",
+        "Linux",
+        "Js"
+    ],
+    "college_name": null,
+    "degree": [
+        "08/2014 \u2013 09/2018"
+    ],
+    "designation": null,
+    "experience": [
+        "09/2018 \u2013 PRESENT",
+        "GURGAON,\u00a0HARYANA",
+        "Business Technology Analyst - Java",
+        "ZS Associates",
+        "Worked on multiple Master Data Management"
+    ],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

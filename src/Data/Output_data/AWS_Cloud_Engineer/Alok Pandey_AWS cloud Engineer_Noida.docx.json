@@ -3,32 +3,32 @@
     "email": "alok1993nov@gmail.com",
     "mobile_number": "8287890184",
     "skills": [
-        "Servers",
-        "Sdlc",
-        "Engineering",
-        "Access",
-        "Linux",
-        "System",
-        "Docker",
-        "Installation",
-        "Process",
-        "Cloud",
-        "Email",
-        "Automation",
-        "Project management",
-        "Administration",
-        "Aws",
         "Software development life cycle",
-        "Troubleshooting",
-        "Security",
-        "Hardware",
+        "Yaml",
+        "Project management",
         "Ansible",
-        "Github",
-        "Ubuntu",
         "Saas",
+        "Docker",
+        "Github",
+        "Hardware",
+        "Troubleshooting",
+        "Sdlc",
+        "Automation",
+        "Installation",
+        "Engineering",
         "Dhcp",
+        "Cloud",
+        "Access",
+        "System",
+        "Security",
+        "Aws",
+        "Servers",
+        "Administration",
+        "Email",
         "Reports",
-        "Yaml"
+        "Ubuntu",
+        "Process",
+        "Linux"
     ],
     "college_name": null,
     "degree": [
@@ -37,10 +37,10 @@
     "designation": [
         "System Administrator"
     ],
-    "experience": null,
+    "experience": [],
     "company_names": [
         "AWS DEVOPS"
     ],
     "no_of_pages": null,
-    "total_experience": 0
+    "total_experience": 0.0
 }
