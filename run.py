@@ -6,12 +6,12 @@ OUTPUT_DIRECTORY = r'src/Data/Output_data'
 
 if __name__ == "__main__":
     # generate_dataset(INPUT_DIRECTORY, OUTPUT_DIRECTORY) # To generate the training dataset pipeline
-    # predict()
+    predict()
     # error_graph()
-    obj = visualising_overlapping()
-    print(obj)
-    import json
-    with open('overlapping.json', 'w') as fp:
-        json.dump(obj, fp)
+    # obj = visualising_overlapping()
+    # print(obj)
+    # import json
+    # with open('overlapping.json', 'w') as fp:
+    #     json.dump(obj, fp)
 
 

@@ -10,7 +10,8 @@ from sklearn import metrics
 import numpy as np
 
 def encoding_categorical_features():
-    train_data_df = pd.read_csv("DataSet.csv",na_filter=True, na_values='[]')
+    train_data_df = pd.read_csv("SkillsDataSet.csv",na_filter=True, na_values='[]')
+    train_data_df.dropna(subset=['Cleaned_skill_list'], inplace=True)
     department_column = train_data_df[['Deptartment']]
     encoder = LabelEncoder()
     train_data_df['Deptartment'] = encoder.fit_transform(department_column)
@@ -18,7 +19,7 @@ def encoding_categorical_features():
 
 def splitting_dataset():
     train_data_df = encoding_categorical_features()
-    requiredText = train_data_df['Skills'].values.astype('U')
+    requiredText = train_data_df['Cleaned_skill_list'].values.astype('U')
     requiredTarget = train_data_df['Deptartment'].values
 
     word_vectorizer = TfidfVectorizer(
@@ -51,9 +52,11 @@ def error_graph():
 def predict():
     X_train, X_test, y_train, y_test = splitting_dataset()
     clf = OneVsRestClassifier(KNeighborsClassifier(n_neighbors=7))
-    clf.fit(X_train, y_train)
-    prediction = clf.predict(X_test)
-    print('Accuracy of KNeighbors Classifier on training set: {:.2f}'.format(clf.score(X_train, y_train)))
-    print('Accuracy of KNeighbors Classifier on test set: {:.2f}'.format(clf.score(X_test, y_test)))
+    trained_model = clf.fit(X_train, y_train)
+    prediction = trained_model.predict(X_test)
+    print('Accuracy of KNeighbors Classifier on training set: {:.2f}'.format(trained_model.score(X_train, y_train)))
+    print('Accuracy of KNeighbors Classifier on test set: {:.2f}'.format(trained_model.score(X_test, y_test)))
 
-    print("\n Classification report for classifier %s:\n%s\n" % (clf, metrics.classification_report(y_test, prediction)))
+    print("\n Classification report for classifier %s:\n%s\n" % (trained_model, metrics.classification_report(y_test, prediction)))
+
+
