@@ -2,6 +2,9 @@ pyresparser~=1.0.6
 spacy==2.3.5
 nltk~=3.7
 scikit-learn
+matplotlib
+tensorflow
+seaborn
 
 #RUN THESE COMMANDS ON TERMINAL TO INSTALL EXTRA REQUIREMENTS
 # python -m nltk.downloader stopwords
