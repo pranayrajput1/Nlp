@@ -128,3 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 **/__pycache__
+
+final_final_result.ods
+new_data_result.csv
+new_union_list.csv
+old_train_df.csv
+new_data_result.ods
+old_test_df.csv
+updated_final_final_result.ods
+updated_final_final_result.csv
+union_skill_dataset.csv
