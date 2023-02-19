@@ -1,10 +1,13 @@
 name: kubeflow builder
 on:
+  workflow_dispatch:
+    
   push:
     branches:
       - "main"
-    # paths:
-    #   - "src/"
+    paths:
+      - "pipeline/"
+      - "resume_screening"
 
 
 env:
