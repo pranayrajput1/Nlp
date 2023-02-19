@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - "main"
-    paths:
-      - "src/"
+    # paths:
+    #   - "src/"
 
 
 env:
@@ -26,13 +26,15 @@ jobs:
         credentials_json: '${{ secrets.GKE_SA_KEY }}'
     - name: 'Set up Cloud SDK'
       uses: 'google-github-actions/setup-gcloud@v0'
-    - name: python
-      run: |-
-        python3 --help
+    # - name: python
+    #   working-directory: pipeline
+    #   run: |-
+    #     python3 main.py
     - name: gs
+      working-directory: pipeline
       run: |-
         gsutil --version
-        # gsutil cp data.json gs://test-23468412/$GCS_PATH
+        gsutil cp pipeline.json gs://knols-ml-datasets/github_demo/
 
   docker-build:
     name: docker-build
