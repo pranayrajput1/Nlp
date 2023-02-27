@@ -8,6 +8,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy over and install source code from this package.
 COPY resume_screening ./resume_screening
-COPY README.md ./README.md
 #COPY setup.py ./setup.py
 RUN pip install --no-cache-dir .
